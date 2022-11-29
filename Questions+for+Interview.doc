@@ -1,0 +1,3336 @@
+Date: Tue, 29 Nov 2022 07:31:42 +0300 (MSK)
+Message-ID: <1167226435.469.1669696302585@RUSTPDZAPP49.ruby.internal.corp>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_468_1683031592.1669696302583"
+
+------=_Part_468_1683031592.1669696302583
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Questions for Interview</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Questions for Interview</h1>
+    <div class=3D"Section1">
+        <div class=3D"contentLayout2">=20
+<div class=3D"columnLayout two-right-sidebar" data-layout=3D"two-right-side=
+bar">=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<h2 id=3D"QuestionsforInterview-Web=D1=82=D0=B5=D1=85=D0=BD=D0=BE=D0=BB=D0=
+=BE=D0=B3=D0=B8=D0=B8">Web =D1=82=D0=B5=D1=85=D0=BD=D0=BE=D0=BB=D0=BE=D0=B3=
+=D0=B8=D0=B8</h2>
+<hr>
+<div id=3D"expander-271894444" class=3D"expand-container">
+<div id=3D"expander-control-271894444" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 HTTP?</span>
+</div>
+<div id=3D"expander-content-271894444" class=3D"expand-content">
+<p><span style=3D"color: rgb(36,41,46);">=D0=9F=D1=80=D0=BE=D1=82=D0=BE=D0=
+=BA=D0=BE=D0=BB =D0=BF=D0=B5=D1=80=D0=B5=D0=B4=D0=B0=D1=87=D0=B8 =D0=B3=D0=
+=B8=D0=BF=D0=B5=D1=80=D1=82=D0=B5=D0=BA=D1=81=D1=82=D0=B0 (Hypertext Transf=
+er Protocol - HTTP) - =D1=8D=D1=82=D0=BE =D0=BF=D1=80=D0=B8=D0=BA=D0=BB=D0=
+=B0=D0=B4=D0=BD=D0=BE=D0=B9 =D0=BF=D1=80=D0=BE=D1=82=D0=BE=D0=BA=D0=BE=D0=
+=BB =D0=B4=D0=BB=D1=8F =D0=BF=D0=B5=D1=80=D0=B5=D0=B4=D0=B0=D1=87=D0=B8 =D0=
+=B3=D0=B8=D0=BF=D0=B5=D1=80=D1=82=D0=B5=D0=BA=D1=81=D1=82=D0=BE=D0=B2=D1=8B=
+=D1=85 =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=D0=BD=D1=82=D0=BE=D0=B2, =D1=82=
+=D0=B0=D0=BA=D0=B8=D1=85 =D0=BA=D0=B0=D0=BA HTML. =D0=9E=D0=BD =D1=81=D0=BE=
+=D0=B7=D0=B4=D0=B0=D0=BD =D0=B4=D0=BB=D1=8F =D1=81=D0=B2=D1=8F=D0=B7=D0=B8 =
+=D0=BC=D0=B5=D0=B6=D0=B4=D1=83 =D0=B2=D0=B5=D0=B1-=D0=B1=D1=80=D0=B0=D1=83=
+=D0=B7=D0=B5=D1=80=D0=B0=D0=BC=D0=B8 =D0=B8 =D0=B2=D0=B5=D0=B1-=D1=81=D0=B5=
+=D1=80=D0=B2=D0=B5=D1=80=D0=B0=D0=BC=D0=B8, =D1=85=D0=BE=D1=82=D1=8F =D0=B2=
+ =D0=BF=D1=80=D0=B8=D0=BD=D1=86=D0=B8=D0=BF=D0=B5 HTTP =D0=BC=D0=BE=D0=B6=
+=D0=B5=D1=82 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=
+=D1=82=D1=8C=D1=81=D1=8F =D0=B8 =D0=B4=D0=BB=D1=8F =D0=B4=D1=80=D1=83=D0=B3=
+=D0=B8=D1=85 =D1=86=D0=B5=D0=BB=D0=B5=D0=B9. =D0=9F=D1=80=D0=BE=D1=82=D0=BE=
+=D0=BA=D0=BE=D0=BB =D1=81=D0=BB=D0=B5=D0=B4=D1=83=D0=B5=D1=82 =D0=BA=D0=BB=
+=D0=B0=D1=81=D1=81=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=BE=D0=B9 =D0=BA=D0=BB=
+=D0=B8=D0=B5=D0=BD=D1=82-=D1=81=D0=B5=D1=80=D0=B2=D0=B5=D1=80=D0=BD=D0=BE=
+=D0=B9 =D0=BC=D0=BE=D0=B4=D0=B5=D0=BB=D0=B8, =D0=BA=D0=BE=D0=B3=D0=B4=D0=B0=
+ =D0=BA=D0=BB=D0=B8=D0=B5=D0=BD=D1=82 =D0=BE=D1=82=D0=BA=D1=80=D1=8B=D0=B2=
+=D0=B0=D0=B5=D1=82 =D1=81=D0=BE=D0=B5=D0=B4=D0=B8=D0=BD=D0=B5=D0=BD=D0=B8=
+=D0=B5 =D0=B4=D0=BB=D1=8F =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F =
+=D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=B0, =D0=B0 =D0=B7=D0=B0=D1=82=D0=B5=
+=D0=BC =D0=B6=D0=B4=D0=B5=D1=82 =D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0. HTTP =
+- =D1=8D=D1=82=D0=BE =D0=BF=D1=80=D0=BE=D1=82=D0=BE=D0=BA=D0=BE=D0=BB =D0=
+=B1=D0=B5=D0=B7 =D1=81=D0=BE=D1=85=D1=80=D0=B0=D0=BD=D0=B5=D0=BD=D0=B8=D1=
+=8F =D1=81=D0=BE=D1=81=D1=82=D0=BE=D1=8F=D0=BD=D0=B8=D1=8F, =D1=82=D0=BE =
+=D0=B5=D1=81=D1=82=D1=8C =D1=81=D0=B5=D1=80=D0=B2=D0=B5=D1=80 =D0=BD=D0=B5 =
+=D1=81=D0=BE=D1=85=D1=80=D0=B0=D0=BD=D1=8F=D0=B5=D1=82 =D0=BD=D0=B8=D0=BA=
+=D0=B0=D0=BA=D0=B8=D1=85 =D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D1=85 (=D1=81=D0=BE=
+=D1=81=D1=82=D0=BE=D1=8F=D0=BD=D0=B8=D0=B5) =D0=BC=D0=B5=D0=B6=D0=B4=D1=83 =
+=D0=B4=D0=B2=D1=83=D0=BC=D1=8F =D0=BF=D0=B0=D1=80=D0=B0=D0=BC=D0=B8 "=D0=B7=
+=D0=B0=D0=BF=D1=80=D0=BE=D1=81-=D0=BE=D1=82=D0=B2=D0=B5=D1=82".</span></p>
+</div>
+</div>
+<div id=3D"expander-795555301" class=3D"expand-container">
+<div id=3D"expander-control-795555301" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=98=D0=B7 =D1=87=D0=B5=D0=
+=B3=D0=BE =D1=81=D0=BE=D1=81=D1=82=D0=BE=D0=B8=D1=82 HTTP-=D0=B7=D0=B0=D0=
+=BF=D1=80=D0=BE=D1=81?</span>
+</div>
+<div id=3D"expander-content-795555301" class=3D"expand-content">
+<ul>
+<li>HTTP-=D0=BC=D0=B5=D1=82=D0=BE=D0=B4, =D0=BE=D0=B1=D1=8B=D1=87=D0=BD=D0=
+=BE =D0=B3=D0=BB=D0=B0=D0=B3=D0=BE=D0=BB =D0=BF=D0=BE=D0=B4=D0=BE=D0=B1=D0=
+=BD=D0=BE GET, POST =D0=B8=D0=BB=D0=B8 =D1=81=D1=83=D1=89=D0=B5=D1=81=D1=82=
+=D0=B2=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE=D0=B5, =D0=BA=D0=B0=D0=BA =
+OPTIONS =D0=B8=D0=BB=D0=B8 HEAD, =D0=BE=D0=BF=D1=80=D0=B5=D0=B4=D0=B5=D0=BB=
+=D1=8F=D1=8E=D1=89=D0=B5=D0=B5 =D0=BE=D0=BF=D0=B5=D1=80=D0=B0=D1=86=D0=B8=
+=D1=8E, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=83=D1=8E =D0=BA=D0=BB=D0=B8=D0=B5=
+=D0=BD=D1=82 =D1=85=D0=BE=D1=87=D0=B5=D1=82 =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=
+=D0=BD=D0=B8=D1=82=D1=8C. =D0=9E=D0=B1=D1=8B=D1=87=D0=BD=D0=BE, =D0=BA=D0=
+=BB=D0=B8=D0=B5=D0=BD=D1=82 =D1=85=D0=BE=D1=87=D0=B5=D1=82 =D0=BF=D0=BE=D0=
+=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D1=80=D0=B5=D1=81=D1=83=D1=80=D1=81 (=D0=
+=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D1=8F GET) =D0=B8=D0=BB=D0=B8=
+ =D0=BF=D0=B5=D1=80=D0=B5=D0=B4=D0=B0=D1=82=D1=8C =D0=B7=D0=BD=D0=B0=D1=87=
+=D0=B5=D0=BD=D0=B8=D1=8F HTML-=D1=84=D0=BE=D1=80=D0=BC=D1=8B (=D0=B8=D1=81=
+=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D1=8F POST), =D1=85=D0=BE=D1=82=D1=8F =
+=D0=B4=D1=80=D1=83=D0=B3=D0=B8=D0=B5 =D0=BE=D0=BF=D0=B5=D1=80=D0=B0=D1=86=
+=D0=B8=D1=8F =D0=BC=D0=BE=D0=B3=D1=83=D1=82 =D0=B1=D1=8B=D1=82=D1=8C =D0=BD=
+=D0=B5=D0=BE=D0=B1=D1=85=D0=BE=D0=B4=D0=B8=D0=BC=D1=8B =D0=B2 =D0=B4=D1=80=
+=D1=83=D0=B3=D0=B8=D1=85 =D1=81=D0=BB=D1=83=D1=87=D0=B0=D1=8F=D1=85.</li>
+<li>=D0=9F=D1=83=D1=82=D1=8C =D0=BA =D1=80=D0=B5=D1=81=D1=83=D1=80=D1=81=D1=
+=83: URL =D1=80=D0=B5=D1=81=D1=83=D1=80=D1=81=D1=8B =D0=BB=D0=B8=D1=88=D0=
+=B5=D0=BD=D1=8B =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82=D0=BE=D0=B2, =D0=
+=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B5 =D0=BE=D1=87=D0=B5=D0=B2=D0=B8=D0=
+=B4=D0=BD=D1=8B =D0=B8=D0=B7 =D0=BA=D0=BE=D0=BD=D1=82=D0=B5=D0=BA=D1=81=D1=
+=82=D0=B0, =D0=BD=D0=B0=D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D0=B1=D0=B5=D0=
+=B7 protocol (http://), domain (=D0=B7=D0=B4=D0=B5=D1=81=D1=8C <a href=3D"h=
+ttp://developer.mozilla.org" class=3D"external-link" rel=3D"nofollow">devel=
+oper.mozilla.org</a>), =D0=B8=D0=BB=D0=B8 TCP port (=D0=B7=D0=B4=D0=B5=D1=
+=81=D1=8C 80).</li>
+<li>=D0=92=D0=B5=D1=80=D1=81=D0=B8=D1=8E HTTP-=D0=BF=D1=80=D0=BE=D1=82=D0=
+=BE=D0=BA=D0=BE=D0=BB=D0=B0.</li>
+<li>=D0=97=D0=B0=D0=B3=D0=BE=D0=BB=D0=BE=D0=B2=D0=BA=D0=B8 (=D0=BE=D0=BF=D1=
+=86=D0=B8=D0=BE=D0=BD=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE), =D0=BF=D1=80=D0=B5=D0=
+=B4=D0=BE=D1=81=D1=82=D0=B0=D0=B2=D0=BB=D1=8F=D1=8E=D1=88=D0=B8=D0=B5 =D0=
+=B4=D0=BE=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=83=
+=D1=8E =D0=B8=D0=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D1=8E =D0=B4=
+=D0=BB=D1=8F =D1=81=D0=B5=D1=80=D0=B2=D0=B5=D1=80=D0=B0.</li>
+<li>=D0=98=D0=BB=D0=B8 =D1=82=D0=B5=D0=BB=D0=BE, =D0=B4=D0=BB=D1=8F =D0=BD=
+=D0=B5=D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D1=85 =D0=BC=D0=B5=D1=82=D0=BE=
+=D0=B4=D0=BE=D0=B2, =D1=82=D0=B0=D0=BA=D0=B8=D1=85 =D0=BA=D0=B0=D0=BA POST,=
+ =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=B5 =D1=81=D0=BE=D0=B4=D0=B5=D1=80=
+=D0=B6=D0=B8=D1=82 =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=
+=D0=BD=D1=8B=D0=B9 =D1=80=D0=B5=D1=81=D1=83=D1=80=D1=81.</li>
+</ul>
+</div>
+</div>
+<div id=3D"expander-82936199" class=3D"expand-container">
+<div id=3D"expander-control-82936199" class=3D"expand-control" aria-expande=
+d=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=9A=D0=B0=D0=BA=D0=B8=D0=
+=B5 =D0=BC=D0=B5=D1=82=D0=BE=D0=B4=D1=8B =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=
+=B8=D0=BC=D0=B5=D1=82=D1=8C HTTP-=D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81?</spa=
+n>
+</div>
+<div id=3D"expander-content-82936199" class=3D"expand-content">
+<ul>
+<li><strong>GET</strong><span>&nbsp;</span>=D0=B7=D0=B0=D0=BF=D1=80=D0=B0=
+=D1=88=D0=B8=D0=B2=D0=B0=D0=B5=D1=82 =D0=BF=D1=80=D0=B5=D0=B4=D1=81=D1=82=
+=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D0=B5 =D1=80=D0=B5=D1=81=D1=83=D1=80=
+=D1=81=D0=B0. =D0=97=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D1=8B =D1=81 =D0=B8=D1=
+=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5=D0=BC=
+ =D1=8D=D1=82=D0=BE=D0=B3=D0=BE =D0=BC=D0=B5=D1=82=D0=BE=D0=B4=D0=B0 =D0=BC=
+=D0=BE=D0=B3=D1=83=D1=82 =D1=82=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE =D0=B8=D0=B7=
+=D0=B2=D0=BB=D0=B5=D0=BA=D0=B0=D1=82=D1=8C =D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=
+=D0=B5.</li>
+<li><strong>HEAD</strong><span>&nbsp;</span>=D0=B7=D0=B0=D0=BF=D1=80=D0=B0=
+=D1=88=D0=B8=D0=B2=D0=B0=D0=B5=D1=82 =D1=80=D0=B5=D1=81=D1=83=D1=80=D1=81 =
+=D1=82=D0=B0=D0=BA =D0=B6=D0=B5, =D0=BA=D0=B0=D0=BA =D0=B8 =D0=BC=D0=B5=D1=
+=82=D0=BE=D0=B4 GET, =D0=BD=D0=BE =D0=B1=D0=B5=D0=B7 =D1=82=D0=B5=D0=BB=D0=
+=B0 =D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0.</li>
+<li><strong>POST</strong><span>&nbsp;</span>=D0=B8=D1=81=D0=BF=D0=BE=D0=BB=
+=D1=8C=D0=B7=D1=83=D0=B5=D1=82=D1=81=D1=8F =D0=B4=D0=BB=D1=8F =D0=BE=D1=82=
+=D0=BF=D1=80=D0=B0=D0=B2=D0=BA=D0=B8 =D1=81=D1=83=D1=89=D0=BD=D0=BE=D1=81=
+=D1=82=D0=B5=D0=B9 =D0=BA =D0=BE=D0=BF=D1=80=D0=B5=D0=B4=D0=B5=D0=BB=D1=91=
+=D0=BD=D0=BD=D0=BE=D0=BC=D1=83 =D1=80=D0=B5=D1=81=D1=83=D1=80=D1=81=D1=83. =
+=D0=A7=D0=B0=D1=81=D1=82=D0=BE =D0=B2=D1=8B=D0=B7=D1=8B=D0=B2=D0=B0=D0=B5=
+=D1=82 =D0=B8=D0=B7=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=B8=D0=B5 =D1=81=D0=BE=
+=D1=81=D1=82=D0=BE=D1=8F=D0=BD=D0=B8=D1=8F =D0=B8=D0=BB=D0=B8 =D0=BA=D0=B0=
+=D0=BA=D0=B8=D0=B5-=D1=82=D0=BE =D0=BF=D0=BE=D0=B1=D0=BE=D1=87=D0=BD=D1=8B=
+=D0=B5 =D1=8D=D1=84=D1=84=D0=B5=D0=BA=D1=82=D1=8B =D0=BD=D0=B0 =D1=81=D0=B5=
+=D1=80=D0=B2=D0=B5=D1=80=D0=B5.</li>
+<li><strong>PUT</strong><span>&nbsp;</span>=D0=B7=D0=B0=D0=BC=D0=B5=D0=BD=
+=D1=8F=D0=B5=D1=82 =D0=B2=D1=81=D0=B5 =D1=82=D0=B5=D0=BA=D1=83=D1=89=D0=B8=
+=D0=B5 =D0=BF=D1=80=D0=B5=D0=B4=D1=81=D1=82=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=
+=D0=B8=D1=8F =D1=80=D0=B5=D1=81=D1=83=D1=80=D1=81=D0=B0 =D0=B4=D0=B0=D0=BD=
+=D0=BD=D1=8B=D0=BC=D0=B8 =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=B0.</li>
+<li><strong>DELETE</strong><span>&nbsp;</span>=D1=83=D0=B4=D0=B0=D0=BB=D1=
+=8F=D0=B5=D1=82 =D1=83=D0=BA=D0=B0=D0=B7=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9 =D1=
+=80=D0=B5=D1=81=D1=83=D1=80=D1=81.</li>
+<li><strong>CONNECT</strong><span>&nbsp;</span>=D1=83=D1=81=D1=82=D0=B0=D0=
+=BD=D0=B0=D0=B2=D0=BB=D0=B8=D0=B2=D0=B0=D0=B5=D1=82 "=D1=82=D1=83=D0=BD=D0=
+=BD=D0=B5=D0=BB=D1=8C" =D0=BA =D1=81=D0=B5=D1=80=D0=B2=D0=B5=D1=80=D1=83, =
+=D0=BE=D0=BF=D1=80=D0=B5=D0=B4=D0=B5=D0=BB=D1=91=D0=BD=D0=BD=D0=BE=D0=BC=D1=
+=83 =D0=BF=D0=BE =D1=80=D0=B5=D1=81=D1=83=D1=80=D1=81=D1=83.</li>
+<li><strong>OPTIONS</strong><span>&nbsp;</span>=D0=B8=D1=81=D0=BF=D0=BE=D0=
+=BB=D1=8C=D0=B7=D1=83=D0=B5=D1=82=D1=81=D1=8F =D0=B4=D0=BB=D1=8F =D0=BE=D0=
+=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D1=8F =D0=BF=D0=B0=D1=80=D0=B0=D0=BC=D0=
+=B5=D1=82=D1=80=D0=BE=D0=B2 =D1=81=D0=BE=D0=B5=D0=B4=D0=B8=D0=BD=D0=B5=D0=
+=BD=D0=B8=D1=8F =D1=81 =D1=80=D0=B5=D1=81=D1=83=D1=80=D1=81=D0=BE=D0=BC.</l=
+i>
+<li><strong>TRACE</strong><span>&nbsp;</span>=D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=
+=D0=BD=D1=8F=D0=B5=D1=82 =D0=B2=D1=8B=D0=B7=D0=BE=D0=B2 =D0=B2=D0=BE=D0=B7=
+=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D0=BC=D0=BE=D0=B3=D0=BE =D1=82=D0=B5=
+=D1=81=D1=82=D0=BE=D0=B2=D0=BE=D0=B3=D0=BE =D1=81=D0=BE=D0=BE=D0=B1=D1=89=
+=D0=B5=D0=BD=D0=B8=D1=8F =D1=81 =D1=80=D0=B5=D1=81=D1=83=D1=80=D1=81=D0=B0.=
+</li>
+<li><strong>PATCH</strong><span>&nbsp;</span>=D0=B8=D1=81=D0=BF=D0=BE=D0=BB=
+=D1=8C=D0=B7=D1=83=D0=B5=D1=82=D1=81=D1=8F =D0=B4=D0=BB=D1=8F =D1=87=D0=B0=
+=D1=81=D1=82=D0=B8=D1=87=D0=BD=D0=BE=D0=B3=D0=BE =D0=B8=D0=B7=D0=BC=D0=B5=
+=D0=BD=D0=B5=D0=BD=D0=B8=D1=8F =D1=80=D0=B5=D1=81=D1=83=D1=80=D1=81=D0=B0.<=
+/li>
+</ul>
+</div>
+</div>
+<div id=3D"expander-523663817" class=3D"expand-container">
+<div id=3D"expander-control-523663817" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 Cross-Origin Resource Sharing (CORS)?</span>
+</div>
+<div id=3D"expander-content-523663817" class=3D"expand-content">
+<p>Cross-Origin Resource Sharing (CORS) =E2=80=94 =D0=BC=D0=B5=D1=85=D0=B0=
+=D0=BD=D0=B8=D0=B7=D0=BC, =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=
+=D1=8E=D1=89=D0=B8=D0=B9 =D0=B4=D0=BE=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=
+=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D0=B5 HTTP-=D0=B7=D0=B0=D0=B3=D0=BE=D0=BB=D0=
+=BE=D0=B2=D0=BA=D0=B8, =D1=87=D1=82=D0=BE=D0=B1=D1=8B =D0=B4=D0=B0=D1=82=D1=
+=8C =D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=D0=B6=D0=BD=D0=BE=D1=81=D1=82=D1=8C =D0=
+=B0=D0=B3=D0=B5=D0=BD=D1=82=D1=83 =D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=
+=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8F =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B0=D1=
+=82=D1=8C =D1=80=D0=B0=D0=B7=D1=80=D0=B5=D1=88=D0=B5=D0=BD=D0=B8=D1=8F =D0=
+=BD=D0=B0 =D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF =D0=BA =D0=B2=D1=8B=D0=B1=D1=
+=80=D0=B0=D0=BD=D0=BD=D1=8B=D0=BC =D1=80=D0=B5=D1=81=D1=83=D1=80=D1=81=D0=
+=B0=D0=BC =D1=81 =D1=81=D0=B5=D1=80=D0=B2=D0=B5=D1=80=D0=B0 =D0=BD=D0=B0 =
+=D0=B8=D1=81=D1=82=D0=BE=D1=87=D0=BD=D0=B8=D0=BA=D0=B5 (=D0=B4=D0=BE=D0=BC=
+=D0=B5=D0=BD=D0=B5), =D0=BE=D1=82=D0=BB=D0=B8=D1=87=D0=BD=D0=BE=D0=BC =D0=
+=BE=D1=82 =D1=82=D0=BE=D0=B3=D0=BE, =D1=87=D1=82=D0=BE =D1=81=D0=B0=D0=B9=
+=D1=82 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D0=B5=D1=82 =D0=B2 =
+=D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9 =D0=BC=D0=BE=D0=BC=D0=B5=D0=BD=D1=82. =
+=D0=93=D0=BE=D0=B2=D0=BE=D1=80=D1=8F=D1=82, =D1=87=D1=82=D0=BE =D0=B0=D0=B3=
+=D0=B5=D0=BD=D1=82 =D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=
+=D0=B5=D0=BB=D1=8F =D0=B4=D0=B5=D0=BB=D0=B0=D0=B5=D1=82 =D0=B7=D0=B0=D0=BF=
+=D1=80=D0=BE=D1=81 =D1=81 =D0=B4=D1=80=D1=83=D0=B3=D0=BE=D0=B3=D0=BE =D0=B8=
+=D1=81=D1=82=D0=BE=D1=87=D0=BD=D0=B8=D0=BA=D0=B0 (cross-origin HTTP request=
+), =D0=B5=D1=81=D0=BB=D0=B8 =D0=B8=D1=81=D1=82=D0=BE=D1=87=D0=BD=D0=B8=D0=
+=BA =D1=82=D0=B5=D0=BA=D1=83=D1=89=D0=B5=D0=B3=D0=BE =D0=B4=D0=BE=D0=BA=D1=
+=83=D0=BC=D0=B5=D0=BD=D1=82=D0=B0 =D0=BE=D1=82=D0=BB=D0=B8=D1=87=D0=B0=D0=
+=B5=D1=82=D1=81=D1=8F =D0=BE=D1=82 =D0=B7=D0=B0=D0=BF=D1=80=D0=B0=D1=88=D0=
+=B8=D0=B2=D0=B0=D0=B5=D0=BC=D0=BE=D0=B3=D0=BE =D1=80=D0=B5=D1=81=D1=83=D1=
+=80=D1=81=D0=B0 =D0=B4=D0=BE=D0=BC=D0=B5=D0=BD=D0=BE=D0=BC, =D0=BF=D1=80=D0=
+=BE=D1=82=D0=BE=D0=BA=D0=BE=D0=BB=D0=BE=D0=BC =D0=B8=D0=BB=D0=B8 =D0=BF=D0=
+=BE=D1=80=D1=82=D0=BE=D0=BC.</p>
+<p>=D0=92 =D1=86=D0=B5=D0=BB=D1=8F=D1=85 =D0=B1=D0=B5=D0=B7=D0=BE=D0=BF=D0=
+=B0=D1=81=D0=BD=D0=BE=D1=81=D1=82=D0=B8 =D0=B1=D1=80=D0=B0=D1=83=D0=B7=D0=
+=B5=D1=80=D1=8B =D0=BE=D0=B3=D1=80=D0=B0=D0=BD=D0=B8=D1=87=D0=B8=D0=B2=D0=
+=B0=D1=8E=D1=82 cross-origin =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D1=8B, =
+=D0=B8=D0=BD=D0=B8=D1=86=D0=B8=D0=B8=D1=80=D1=83=D0=B5=D0=BC=D1=8B=D0=B5 =
+=D1=81=D0=BA=D1=80=D0=B8=D0=BF=D1=82=D0=B0=D0=BC=D0=B8. =D0=9D=D0=B0=D0=BF=
+=D1=80=D0=B8=D0=BC=D0=B5=D1=80, XMLHttpRequest =D0=B8 Fetch API =D1=81=D0=
+=BB=D0=B5=D0=B4=D1=83=D1=8E=D1=82 =D0=BF=D0=BE=D0=BB=D0=B8=D1=82=D0=B8=D0=
+=BA=D0=B5 =D0=BE=D0=B4=D0=BD=D0=BE=D0=B3=D0=BE =D0=B8=D1=81=D1=82=D0=BE=D1=
+=87=D0=BD=D0=B8=D0=BA=D0=B0 (same-origin policy). =D0=AD=D1=82=D0=BE =D0=B7=
+=D0=BD=D0=B0=D1=87=D0=B8=D1=82, =D1=87=D1=82=D0=BE web-=D0=BF=D1=80=D0=B8=
+=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F, =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=
+=D1=8C=D0=B7=D1=83=D1=8E=D1=89=D0=B8=D0=B5 =D1=82=D0=B0=D0=BA=D0=B8=D0=B5 A=
+PI, =D0=BC=D0=BE=D0=B3=D1=83=D1=82 =D0=B7=D0=B0=D0=BF=D1=80=D0=B0=D1=88=D0=
+=B8=D0=B2=D0=B0=D1=82=D1=8C HTTP-=D1=80=D0=B5=D1=81=D1=83=D1=80=D1=81=D1=8B=
+ =D1=82=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE =D1=81 =D1=82=D0=BE=D0=B3=D0=BE =D0=
+=B4=D0=BE=D0=BC=D0=B5=D0=BD=D0=B0, =D1=81 =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=
+=BE=D0=B3=D0=BE =D0=B1=D1=8B=D0=BB=D0=B8 =D0=B7=D0=B0=D0=B3=D1=80=D1=83=D0=
+=B6=D0=B5=D0=BD=D1=8B, =D0=BF=D0=BE=D0=BA=D0=B0 =D0=BD=D0=B5 =D0=B1=D1=83=
+=D0=B4=D1=83=D1=82 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=
+=D0=B0=D0=BD=D1=8B CORS-=D0=B7=D0=B0=D0=B3=D0=BE=D0=BB=D0=BE=D0=B2=D0=BA=D0=
+=B8.</p>
+</div>
+</div>
+<div id=3D"expander-1916327835" class=3D"expand-container">
+<div id=3D"expander-control-1916327835" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 HTTP cookie =D0=B8 =D0=B4=D0=BB=D1=8F =D1=87=D0=B5=D0=
+=B3=D0=BE =D0=B8=D1=85 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D1=
+=8E=D1=82?</span>
+</div>
+<div id=3D"expander-content-1916327835" class=3D"expand-content">
+<p>HTTP cookie (web cookie, cookie =D0=B1=D1=80=D0=B0=D1=83=D0=B7=D0=B5=D1=
+=80=D0=B0) - =D1=8D=D1=82=D0=BE =D0=BD=D0=B5=D0=B1=D0=BE=D0=BB=D1=8C=D1=88=
+=D0=BE=D0=B9 =D1=84=D1=80=D0=B0=D0=B3=D0=BC=D0=B5=D0=BD=D1=82 =D0=B4=D0=B0=
+=D0=BD=D0=BD=D1=8B=D1=85, =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D1=8F=
+=D0=B5=D0=BC=D1=8B=D0=B9 =D1=81=D0=B5=D1=80=D0=B2=D0=B5=D1=80=D0=BE=D0=BC =
+=D0=BD=D0=B0 =D0=B1=D1=80=D0=B0=D1=83=D0=B7=D0=B5=D1=80 =D0=BF=D0=BE=D0=BB=
+=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8F, =D0=BA=D0=BE=D1=82=
+=D0=BE=D1=80=D1=8B=D0=B9 =D1=82=D0=BE=D1=82 =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =
+=D1=81=D0=BE=D1=85=D1=80=D0=B0=D0=BD=D0=B8=D1=82=D1=8C =D0=B8 =D0=BE=D1=82=
+=D1=81=D1=8B=D0=BB=D0=B0=D1=82=D1=8C =D0=BE=D0=B1=D1=80=D0=B0=D1=82=D0=BD=
+=D0=BE =D1=81 =D0=BD=D0=BE=D0=B2=D1=8B=D0=BC =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=
+=D1=81=D0=BE=D0=BC =D0=BA =D0=B4=D0=B0=D0=BD=D0=BD=D0=BE=D0=BC=D1=83 =D1=81=
+=D0=B5=D1=80=D0=B2=D0=B5=D1=80=D1=83. =D0=AD=D1=82=D0=BE, =D0=B2 =D1=87=D0=
+=B0=D1=81=D1=82=D0=BD=D0=BE=D1=81=D1=82=D0=B8, =D0=BF=D0=BE=D0=B7=D0=B2=D0=
+=BE=D0=BB=D1=8F=D0=B5=D1=82 =D1=83=D0=B7=D0=BD=D0=B0=D1=82=D1=8C, =D1=81 =
+=D0=BE=D0=B4=D0=BD=D0=BE=D0=B3=D0=BE =D0=BB=D0=B8 =D0=B1=D1=80=D0=B0=D1=83=
+=D0=B7=D0=B5=D1=80=D0=B0 =D0=BF=D1=80=D0=B8=D1=88=D0=BB=D0=B8 =D0=BE=D0=B1=
+=D0=B0 =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=B0 (=D0=BD=D0=B0=D0=BF=D1=80=
+=D0=B8=D0=BC=D0=B5=D1=80, =D0=B4=D0=BB=D1=8F =D0=B0=D1=83=D1=82=D0=B5=D0=BD=
+=D1=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=86=D0=B8=D0=B8 =D0=BF=D0=BE=D0=BB=
+=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8F). =D0=9E=D0=BD=D0=B8=
+ =D0=B7=D0=B0=D0=BF=D0=BE=D0=BC=D0=B8=D0=BD=D0=B0=D1=8E=D1=82 =D0=B8=D0=BD=
+=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D1=8E =D0=BE =D1=81=D0=BE=D1=81=
+=D1=82=D0=BE=D1=8F=D0=BD=D0=B8=D0=B8 =D0=B4=D0=BB=D1=8F =D0=BF=D1=80=D0=BE=
+=D1=82=D0=BE=D0=BA=D0=BE=D0=BB=D0=B0 HTTP, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=
+=D1=8B=D0=B9 =D1=81=D0=B0=D0=BC =D0=BF=D0=BE =D1=81=D0=B5=D0=B1=D0=B5 =D1=
+=8D=D1=82=D0=BE=D0=B3=D0=BE =D0=B4=D0=B5=D0=BB=D0=B0=D1=82=D1=8C =D0=BD=D0=
+=B5 =D1=83=D0=BC=D0=B5=D0=B5=D1=82.</p>
+<p>Cookie =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D1=8E=D1=82=D1=
+=81=D1=8F, =D0=B3=D0=BB=D0=B0=D0=B2=D0=BD=D1=8B=D0=BC =D0=BE=D0=B1=D1=80=D0=
+=B0=D0=B7=D0=BE=D0=BC, =D0=B4=D0=BB=D1=8F:</p>
+<ul>
+<li>=D0=A3=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D1=8F =D1=81=D0=
+=B5=D0=B0=D0=BD=D1=81=D0=BE=D0=BC (=D0=BB=D0=BE=D0=B3=D0=B8=D0=BD=D1=8B, =
+=D0=BA=D0=BE=D1=80=D0=B7=D0=B8=D0=BD=D1=8B =D0=B4=D0=BB=D1=8F =D0=B2=D0=B8=
+=D1=80=D1=82=D1=83=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D1=85 =D0=BF=D0=BE=D0=BA=
+=D1=83=D0=BF=D0=BE=D0=BA)</li>
+<li>=D0=9F=D0=B5=D1=80=D1=81=D0=BE=D0=BD=D0=B0=D0=BB=D0=B8=D0=B7=D0=B0=D1=
+=86=D0=B8=D0=B8 (=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=
+=B5=D0=BB=D1=8C=D1=81=D0=BA=D0=B8=D0=B5 =D0=BF=D1=80=D0=B5=D0=B4=D0=BF=D0=
+=BE=D1=87=D1=82=D0=B5=D0=BD=D0=B8=D1=8F)</li>
+<li>=D0=9C=D0=BE=D0=BD=D0=B8=D1=82=D0=BE=D1=80=D0=B8=D0=BD=D0=B3=D0=B0 (=D0=
+=BE=D1=82=D1=81=D0=BB=D0=B5=D0=B6=D0=B8=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D0=
+=BF=D0=BE=D0=B2=D0=B5=D0=B4=D0=B5=D0=BD=D0=B8=D1=8F =D0=BF=D0=BE=D0=BB=D1=
+=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8F)</li>
+</ul>
+</div>
+</div>
+<div id=3D"expander-485525374" class=3D"expand-container">
+<div id=3D"expander-control-485525374" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 Babel =D0=B8 =D0=B4=D0=BB=D1=8F =D1=87=D0=B5=D0=B3=D0=
+=BE =D0=BE=D0=BD =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D0=B5=D1=
+=82=D1=81=D1=8F?</span>
+</div>
+<div id=3D"expander-content-485525374" class=3D"expand-content">
+<p>Babel.JS =E2=80=93 =D1=8D=D1=82=D0=BE =D1=82=D1=80=D0=B0=D0=BD=D1=81=D0=
+=BF=D0=B0=D0=B9=D0=BB=D0=B5=D1=80, =D0=BF=D0=B5=D1=80=D0=B5=D0=BF=D0=B8=D1=
+=81=D1=8B=D0=B2=D0=B0=D1=8E=D1=89=D0=B8=D0=B9 =D0=BA=D0=BE=D0=B4 =D0=BD=D0=
+=B0 ES-2015+ =D0=B2 =D0=BA=D0=BE=D0=B4 =D0=BD=D0=B0 =D0=BF=D1=80=D0=B5=D0=
+=B4=D1=8B=D0=B4=D1=83=D1=89=D0=B5=D0=BC =D1=81=D1=82=D0=B0=D0=BD=D0=B4=D0=
+=B0=D1=80=D1=82=D0=B5 ES5.</p>
+<p>=D0=9E=D0=B1=D1=8B=D1=87=D0=BD=D0=BE Babel.JS =D1=80=D0=B0=D0=B1=D0=BE=
+=D1=82=D0=B0=D0=B5=D1=82 =D0=BD=D0=B0 =D1=81=D0=B5=D1=80=D0=B2=D0=B5=D1=80=
+=D0=B5 =D0=B2 =D1=81=D0=BE=D1=81=D1=82=D0=B0=D0=B2=D0=B5 =D1=81=D0=B8=D1=81=
+=D1=82=D0=B5=D0=BC=D1=8B =D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B8 JS-=D0=BA=D0=
+=BE=D0=B4=D0=B0 (=D0=BD=D0=B0=D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D1=80 webpack =
+=D0=B8=D0=BB=D0=B8 brunch) =D0=B8 =D0=B0=D0=B2=D1=82=D0=BE=D0=BC=D0=B0=D1=
+=82=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8 =D0=BF=D0=B5=D1=80=D0=B5=D0=BF=D0=
+=B8=D1=81=D1=8B=D0=B2=D0=B0=D0=B5=D1=82 =D0=B2=D0=B5=D1=81=D1=8C =D0=BA=D0=
+=BE=D0=B4 =D0=B2 ES5.</p>
+<p>=D0=9D=D0=B0=D1=81=D1=82=D1=80=D0=BE=D0=B9=D0=BA=D0=B0 =D1=82=D0=B0=D0=
+=BA=D0=BE=D0=B9 =D0=BA=D0=BE=D0=BD=D0=B2=D0=B5=D1=80=D1=82=D0=B0=D1=86=D0=
+=B8=D0=B8 =D1=82=D1=80=D0=B8=D0=B2=D0=B8=D0=B0=D0=BB=D1=8C=D0=BD=D0=B0, =D0=
+=B5=D0=B4=D0=B8=D0=BD=D1=81=D1=82=D0=B2=D0=B5=D0=BD=D0=BD=D0=BE =E2=80=93 =
+=D0=BD=D1=83=D0=B6=D0=BD=D0=BE =D0=BF=D0=BE=D0=B4=D0=BD=D1=8F=D1=82=D1=8C =
+=D1=81=D0=B0=D0=BC=D1=83 =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D1=83 =D1=81=
+=D0=B1=D0=BE=D1=80=D0=BA=D0=B8, =D0=B0 =D0=B4=D0=BE=D0=B1=D0=B0=D0=B2=D0=B8=
+=D1=82=D1=8C =D0=BA =D0=BD=D0=B5=D0=B9 Babel =D0=BB=D0=B5=D0=B3=D0=BA=D0=BE=
+, =D0=BF=D0=BB=D0=B0=D0=B3=D0=B8=D0=BD=D1=8B =D0=B5=D1=81=D1=82=D1=8C =D0=
+=BA =D0=BB=D1=8E=D0=B1=D0=BE=D0=B9 =D0=B8=D0=B7 =D0=BD=D0=B8=D1=85.</p>
+<p>=D0=9A=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D1=8F=
+ Babel =D0=BF=D1=80=D0=BE=D0=BF=D0=B8=D1=81=D1=8B=D0=B2=D0=B0=D0=B5=D1=82=
+=D1=81=D1=8F =D0=B2 =D1=84=D0=B0=D0=B9=D0=BB=D0=B5 babel.config.js, =D0=BB=
+=D0=B8=D0=B1=D0=BE =D0=B2 .babelrc =D0=B4=D0=BB=D1=8F =D0=BD=D0=B0=D1=81=D1=
+=82=D1=80=D0=BE=D0=B5=D0=BA =D0=BE=D0=B4=D0=BD=D0=BE=D0=B3=D0=BE =D0=BF=D0=
+=B0=D0=BA=D0=B5=D1=82=D0=B0, =D0=B0 =D1=82=D0=B0=D0=BA=D0=B6=D0=B5 =D0=B2 p=
+ackage.json =D0=B8=D0=BB=D0=B8 .babelrc.js</p>
+<pre><br></pre>
+</div>
+</div>
+<div id=3D"expander-500845166" class=3D"expand-container">
+<div id=3D"expander-control-500845166" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=94=D0=BB=D1=8F =D1=87=D0=
+=B5=D0=B3=D0=BE =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D0=B5=D1=
+=82=D1=81=D1=8F WebSocket? =D0=92 =D1=87=D0=B5=D0=BC =D0=BF=D1=80=D0=B8=D0=
+=BD=D1=86=D0=B8=D0=BF =D0=B5=D0=B3=D0=BE =D1=80=D0=B0=D0=B1=D0=BE=D1=82=D1=
+=8B?</span>
+</div>
+<div id=3D"expander-content-500845166" class=3D"expand-content">
+<p><span style=3D"color: rgb(36,41,46);">=D0=9F=D1=80=D0=BE=D1=82=D0=BE=D0=
+=BA=D0=BE=D0=BB WebSocket (=C2=AB=D0=B2=D0=B5=D0=B1-=D1=81=D0=BE=D0=BA=D0=
+=B5=D1=82=C2=BB), =D0=BE=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9 =
+=D0=B2 =D1=81=D0=BF=D0=B5=D1=86=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=86=D0=B8=
+=D0=B8 RFC 6455, =D0=BE=D0=B1=D0=B5=D1=81=D0=BF=D0=B5=D1=87=D0=B8=D0=B2=D0=
+=B0=D0=B5=D1=82 =D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=D0=B6=D0=BD=D0=BE=D1=81=D1=
+=82=D1=8C =D0=BE=D0=B1=D0=BC=D0=B5=D0=BD=D0=B0 =D0=B4=D0=B0=D0=BD=D0=BD=D1=
+=8B=D0=BC=D0=B8 =D0=BC=D0=B5=D0=B6=D0=B4=D1=83 =D0=B1=D1=80=D0=B0=D1=83=D0=
+=B7=D0=B5=D1=80=D0=BE=D0=BC =D0=B8 =D1=81=D0=B5=D1=80=D0=B2=D0=B5=D1=80=D0=
+=BE=D0=BC =D1=87=D0=B5=D1=80=D0=B5=D0=B7 =D0=BF=D0=BE=D1=81=D1=82=D0=BE=D1=
+=8F=D0=BD=D0=BD=D0=BE=D0=B5 =D1=81=D0=BE=D0=B5=D0=B4=D0=B8=D0=BD=D0=B5=D0=
+=BD=D0=B8=D0=B5. =D0=94=D0=B0=D0=BD=D0=BD=D1=8B=D0=B5 =D0=BF=D0=B5=D1=80=D0=
+=B5=D0=B4=D0=B0=D1=8E=D1=82=D1=81=D1=8F =D0=BF=D0=BE =D0=BD=D0=B5=D0=BC=D1=
+=83 =D0=B2 =D0=BE=D0=B1=D0=BE=D0=B8=D1=85 =D0=BD=D0=B0=D0=BF=D1=80=D0=B0=D0=
+=B2=D0=BB=D0=B5=D0=BD=D0=B8=D1=8F=D1=85 =D0=B2 =D0=B2=D0=B8=D0=B4=D0=B5 =C2=
+=AB=D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=BE=D0=B2=C2=BB, =D0=B1=D0=B5=D0=B7 =D1=
+=80=D0=B0=D0=B7=D1=80=D1=8B=D0=B2=D0=B0 =D1=81=D0=BE=D0=B5=D0=B4=D0=B8=D0=
+=BD=D0=B5=D0=BD=D0=B8=D1=8F =D0=B8 =D0=B4=D0=BE=D0=BF=D0=BE=D0=BB=D0=BD=D0=
+=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D1=85 HTTP-=D0=B7=D0=B0=D0=BF=D1=80=
+=D0=BE=D1=81=D0=BE=D0=B2.</span></p>
+</div>
+</div>
+<div id=3D"expander-725164516" class=3D"expand-container">
+<div id=3D"expander-control-725164516" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=9A=D0=B0=D0=BA=D0=B8=D0=
+=B5 =D0=BF=D0=BE=D0=BF=D1=83=D0=BB=D1=8F=D1=80=D0=BD=D1=8B=D0=B5 CSS, JS =
+=D0=B1=D0=B8=D0=B1=D0=BB=D0=B8=D0=BE=D1=82=D0=B5=D0=BA=D0=B8 =D0=B2=D1=8B =
+=D0=B7=D0=BD=D0=B0=D0=B5=D1=82=D0=B5?</span>
+</div>
+<div id=3D"expander-content-725164516" class=3D"expand-content">
+<p>...</p>
+</div>
+</div>
+<h2 id=3D"QuestionsforInterview-JavaScript">JavaScript</h2>
+<hr>
+<div id=3D"expander-1299892748" class=3D"expand-container">
+<div id=3D"expander-control-1299892748" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 =D1=86=D0=B8=D0=BA=D0=BB =D1=81=D0=BE=D0=B1=D1=8B=D1=
+=82=D0=B8=D0=B9 (event loop) =D0=B8 =D0=BA=D0=B0=D0=BA =D0=BE=D0=BD =D1=80=
+=D0=B0=D0=B1=D0=BE=D1=82=D0=B0=D0=B5=D1=82?</span>
+</div>
+<div id=3D"expander-content-1299892748" class=3D"expand-content">
+<p>=D0=94=D0=B2=D0=B8=D0=B6=D0=BE=D0=BA =D0=B1=D1=80=D0=B0=D1=83=D0=B7=D0=
+=B5=D1=80=D0=B0 =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D1=8F=D0=B5=D1=82 Java=
+Script =D0=B2 =D0=BE=D0=B4=D0=BD=D0=BE=D0=BC =D0=BF=D0=BE=D1=82=D0=BE=D0=BA=
+=D0=B5. =D0=94=D0=BB=D1=8F =D0=BF=D0=BE=D1=82=D0=BE=D0=BA=D0=B0 =D0=B2=D1=
+=8B=D0=B4=D0=B5=D0=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=BE=D0=B1=D0=BB=D0=
+=B0=D1=81=D1=82=D1=8C =D0=BF=D0=B0=D0=BC=D1=8F=D1=82=D0=B8=E2=80=8A=E2=80=
+=94=E2=80=8A=D1=81=D1=82=D1=8D=D0=BA, =D0=B3=D0=B4=D0=B5 =D1=85=D1=80=D0=B0=
+=D0=BD=D1=8F=D1=82=D1=81=D1=8F =D1=84=D1=80=D0=B5=D0=B9=D0=BC=D1=8B (=D0=B0=
+=D1=80=D0=B3=D1=83=D0=BC=D0=B5=D0=BD=D1=82=D1=8B, =D0=BB=D0=BE=D0=BA=D0=B0=
+=D0=BB=D1=8C=D0=BD=D1=8B=D0=B5 =D0=BF=D0=B5=D1=80=D0=B5=D0=BC=D0=B5=D0=BD=
+=D0=BD=D1=8B=D0=B5) =D0=B2=D1=8B=D0=B7=D1=8B=D0=B2=D0=B0=D0=B5=D0=BC=D1=8B=
+=D1=85 =D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D0=B9.</p>
+<p>=D0=A1=D0=BF=D0=B8=D1=81=D0=BE=D0=BA =D1=81=D0=BE=D0=B1=D1=8B=D1=82=D0=
+=B8=D0=B9, =D0=BF=D0=BE=D0=B4=D0=BB=D0=B5=D0=B6=D0=B0=D1=89=D0=B8=D1=85 =D0=
+=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B5 =D1=84=D0=BE=D1=80=D0=
+=BC=D0=B8=D1=80=D1=83=D1=8E=D1=82 =D0=BE=D1=87=D0=B5=D1=80=D0=B5=D0=B4=D1=
+=8C =D1=81=D0=BE=D0=B1=D1=8B=D1=82=D0=B8=D0=B9. =D0=9A=D0=BE=D0=B3=D0=B4=D0=
+=B0 =D1=81=D1=82=D0=B5=D0=BA =D0=BE=D1=81=D0=B2=D0=BE=D0=B1=D0=BE=D0=B6=D0=
+=B4=D0=B0=D0=B5=D1=82=D1=81=D1=8F, =D0=B4=D0=B2=D0=B8=D0=B6=D0=BE=D0=BA =D0=
+=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=B0=D1=82=D1=
+=8B=D0=B2=D0=B0=D1=82=D1=8C =D1=81=D0=BE=D0=B1=D1=8B=D1=82=D0=B8=D0=B5 =D0=
+=B8=D0=B7 =D0=BE=D1=87=D0=B5=D1=80=D0=B5=D0=B4=D0=B8. =D0=9A=D0=BE=D0=BE=D1=
+=80=D0=B4=D0=B8=D0=BD=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5 =D1=
+=8D=D1=82=D0=BE=D0=B3=D0=BE =D0=BF=D1=80=D0=BE=D1=86=D0=B5=D1=81=D1=81=D0=
+=B0 =D0=B8 =D0=BF=D1=80=D0=BE=D0=B8=D1=81=D1=85=D0=BE=D0=B4=D0=B8=D1=82 =D0=
+=B2 event loop.</p>
+<p>=D0=AD=D1=82=D0=BE =D0=BF=D0=BE =D1=81=D1=83=D1=82=D0=B8 =D0=B1=D0=B5=D1=
+=81=D0=BA=D0=BE=D0=BD=D0=B5=D1=87=D0=BD=D1=8B=D0=B9 =D1=86=D0=B8=D0=BA=D0=
+=BB, =D0=B2 =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=BC =D0=B2=D1=8B=D0=BF=
+=D0=BE=D0=BB=D0=BD=D1=8F=D1=8E=D1=82=D1=81=D1=8F =D0=BC=D0=BD=D0=BE=D0=B3=
+=D0=BE=D1=87=D0=B8=D1=81=D0=BB=D0=B5=D0=BD=D0=BD=D1=8B=D0=B5 =D0=BE=D0=B1=
+=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D1=87=D0=B8=D0=BA=D0=B8 =D1=81=D0=BE=D0=B1=
+=D1=8B=D1=82=D0=B8=D0=B9. =D0=95=D1=81=D0=BB=D0=B8 =D0=BE=D1=87=D0=B5=D1=80=
+=D0=B5=D0=B4=D1=8C =D0=BF=D1=83=D1=81=D1=82=D0=B0=D1=8F=E2=80=8A=E2=80=94=
+=E2=80=8A=D0=B4=D0=B2=D0=B8=D0=B6=D0=BE=D0=BA =D0=B1=D1=80=D0=B0=D1=83=D0=
+=B7=D0=B5=D1=80=D0=B0 =D0=B6=D0=B4=D0=B5=D1=82, =D0=BA=D0=BE=D0=B3=D0=B4=D0=
+=B0 =D0=BF=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=B8=D1=82 =D1=81=D0=BE=D0=B1=D1=
+=8B=D1=82=D0=B8=D0=B5. =D0=95=D1=81=D0=BB=D0=B8 =D0=BD=D0=B5=D0=BF=D1=83=D1=
+=81=D1=82=D0=B0=D1=8F=E2=80=8A=E2=80=94=E2=80=8A=D0=BF=D0=B5=D1=80=D0=B2=D0=
+=BE=D0=B5 =D0=B2 =D0=BD=D0=B5=D0=B9 =D1=81=D0=BE=D0=B1=D1=8B=D1=82=D0=B8=D0=
+=B5 =D0=B8=D0=B7=D0=B2=D0=BB=D0=B5=D0=BA=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=
+=B8 =D0=B5=D0=B3=D0=BE =D0=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D1=87=D0=
+=B8=D0=BA =D0=BD=D0=B0=D1=87=D0=B8=D0=BD=D0=B0=D0=B5=D1=82 =D0=B2=D1=8B=D0=
+=BF=D0=BE=D0=BB=D0=BD=D1=8F=D1=82=D1=8C=D1=81=D1=8F. =D0=98 =D1=82=D0=B0=D0=
+=BA =D0=B4=D0=BE =D0=B1=D0=B5=D1=81=D0=BA=D0=BE=D0=BD=D0=B5=D1=87=D0=BD=D0=
+=BE=D1=81=D1=82=D0=B8.&nbsp;<br>=D0=94=D0=B5=D1=82=D0=B0=D0=BB=D1=8C=D0=BD=
+=D0=BE =D0=BE=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=BD=D0=BE <a href=3D"https://=
+medium.com/@pavelbely/javascript-event-loop-%D0%B2-%D0%BA%D0%B0%D1%80%D1%82=
+%D0%B8%D0%BD%D0%BA%D0%B0%D1%85-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-a19e4d99f24=
+2" class=3D"external-link" rel=3D"nofollow">=D1=82=D1=83=D1=82&nbsp;</a></p=
+>
+<p><span class=3D"confluence-embedded-file-wrapper confluence-embedded-manu=
+al-size"><img class=3D"confluence-embedded-image confluence-external-resour=
+ce" draggable=3D"false" height=3D"400" src=3D"https://miro.medium.com/max/1=
+468/1*quyTIOs2hioCx1jRQ7-ojw.png" data-image-src=3D"https://miro.medium.com=
+/max/1468/1*quyTIOs2hioCx1jRQ7-ojw.png"></span></p>
+</div>
+</div>
+<div id=3D"expander-1925406624" class=3D"expand-container">
+<div id=3D"expander-control-1925406624" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 =D0=B7=D0=B0=D0=BC=D1=8B=D0=BA=D0=B0=D0=BD=D0=B8=D0=
+=B5?</span>
+</div>
+<div id=3D"expander-content-1925406624" class=3D"expand-content">
+<p><span style=3D"color: rgb(36,41,46);">=D0=97=D0=B0=D0=BC=D1=8B=D0=BA=D0=
+=B0=D0=BD=D0=B8=D0=B5 =E2=80=94 =D1=8D=D1=82=D0=BE =D0=BA=D0=BE=D0=BC=D0=B1=
+=D0=B8=D0=BD=D0=B0=D1=86=D0=B8=D1=8F =D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=
+=D0=B8 =D0=B8 =D0=BB=D0=B5=D0=BA=D1=81=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=BE=
+=D0=B3=D0=BE =D0=BE=D0=BA=D1=80=D1=83=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F, =D0=B2=
+ =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=BC =D1=8D=D1=82=D0=B0 =D1=84=D1=83=
+=D0=BD=D0=BA=D1=86=D0=B8=D1=8F =D0=B1=D1=8B=D0=BB=D0=B0 =D0=BE=D0=B1=D1=8A=
+=D1=8F=D0=B2=D0=BB=D0=B5=D0=BD=D0=B0. =D0=AD=D1=82=D0=BE =D0=BE=D0=BA=D1=80=
+=D1=83=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5 =D1=81=D0=BE=D1=81=D1=82=D0=BE=D0=B8=
+=D1=82 =D0=B8=D0=B7 =D0=BF=D1=80=D0=BE=D0=B8=D0=B7=D0=B2=D0=BE=D0=BB=D1=8C=
+=D0=BD=D0=BE=D0=B3=D0=BE =D0=BA=D0=BE=D0=BB=D0=B8=D1=87=D0=B5=D1=81=D1=82=
+=D0=B2=D0=B0 =D0=BB=D0=BE=D0=BA=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D1=85 =D0=BF=
+=D0=B5=D1=80=D0=B5=D0=BC=D0=B5=D0=BD=D0=BD=D1=8B=D1=85, =D0=BA=D0=BE=D1=82=
+=D0=BE=D1=80=D1=8B=D0=B5 =D0=B1=D1=8B=D0=BB=D0=B8 =D0=B2 =D0=BE=D0=B1=D0=BB=
+=D0=B0=D1=81=D1=82=D0=B8 =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D1=8F =
+=D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D0=B8 =D0=B2=D0=BE =D0=B2=D1=80=D0=B5=
+=D0=BC=D1=8F =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F =D0=B7=D0=B0=
+=D0=BC=D1=8B=D0=BA=D0=B0=D0=BD=D0=B8=D1=8F.&nbsp;</span></p>
+</div>
+</div>
+<div id=3D"expander-1295652377" class=3D"expand-container">
+<div id=3D"expander-control-1295652377" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=9A=D0=B0=D0=BA =D1=80=D0=
+=B0=D0=B1=D0=BE=D1=82=D0=B0=D0=B5=D1=82 =D0=BA=D0=BB=D1=8E=D1=87=D0=B5=D0=
+=B2=D0=BE=D0=B5 =D1=81=D0=BB=D0=BE=D0=B2=D0=BE this?</span>
+</div>
+<div id=3D"expander-content-1295652377" class=3D"expand-content">
+<p>=D0=92 =D0=B3=D0=BB=D0=BE=D0=B1=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE=D0=BC =D0=
+=BA=D0=BE=D0=BD=D1=82=D0=B5=D0=BA=D1=81=D1=82=D0=B5 =D0=B2=D1=8B=D0=BF=D0=
+=BE=D0=BB=D0=BD=D0=B5=D0=BD=D0=B8=D1=8F (=D0=B7=D0=B0 =D0=BF=D1=80=D0=B5=D0=
+=B4=D0=B5=D0=BB=D0=B0=D0=BC=D0=B8 =D0=BA=D0=B0=D0=BA=D0=B8=D1=85-=D0=BB=D0=
+=B8=D0=B1=D0=BE =D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D0=B9), this =D1=81=D1=
+=81=D1=8B=D0=BB=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=BD=D0=B0 =D0=B3=D0=BB=D0=
+=BE=D0=B1=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9 =D0=BE=D0=B1=D1=8A=D0=B5=D0=
+=BA=D1=82 =D0=B2=D0=BD=D0=B5 =D0=B7=D0=B0=D0=B2=D0=B8=D1=81=D0=B8=D0=BC=D0=
+=BE=D1=81=D1=82=D0=B8 =D0=BE=D1=82 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=
+=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D0=B2 =D1=81=D1=82=D1=80=D0=BE=D0=
+=B3=D0=BE=D0=BC =D0=B8=D0=BB=D0=B8 =D0=BD=D0=B5=D1=81=D1=82=D1=80=D0=BE=D0=
+=B3=D0=BE=D0=BC =D1=80=D0=B5=D0=B6=D0=B8=D0=BC=D0=B5.</p>
+<p>=D0=92 =D0=BF=D1=80=D0=B5=D0=B4=D0=B5=D0=BB=D0=B0=D1=85 =D1=84=D1=83=D0=
+=BD=D0=BA=D1=86=D0=B8=D0=B8 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=
+=B5 this =D0=B7=D0=B0=D0=B2=D0=B8=D1=81=D0=B8=D1=82 =D0=BE=D1=82 =D1=82=D0=
+=BE=D0=B3=D0=BE, =D0=BA=D0=B0=D0=BA=D0=B8=D0=BC =D0=BE=D0=B1=D1=80=D0=B0=D0=
+=B7=D0=BE=D0=BC =D0=B2=D1=8B=D0=B7=D0=B2=D0=B0=D0=BD=D0=B0 =D1=84=D1=83=D0=
+=BD=D0=BA=D1=86=D0=B8=D1=8F:</p>
+<ul>
+<li>=D0=9F=D1=80=D0=BE=D1=81=D1=82=D0=BE=D0=B9 =D0=B2=D1=8B=D0=B7=D0=BE=D0=
+=B2 - =D0=92 =D1=8D=D1=82=D0=BE=D0=BC =D1=81=D0=BB=D1=83=D1=87=D0=B0=D0=B5 =
+=D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 this =D0=BD=D0=B5 =D1=83=
+=D1=81=D1=82=D0=B0=D0=BD=D0=B0=D0=B2=D0=BB=D0=B8=D0=B2=D0=B0=D0=B5=D1=82=D1=
+=81=D1=8F =D0=B2=D1=8B=D0=B7=D0=BE=D0=B2=D0=BE=D0=BC. =D0=A2=D0=B0=D0=BA =
+=D0=BA=D0=B0=D0=BA =D1=8D=D1=82=D0=BE=D1=82 =D0=BA=D0=BE=D0=B4 =D0=BD=D0=B0=
+=D0=BF=D0=B8=D1=81=D0=B0=D0=BD =D0=BD=D0=B5 =D0=B2 =D1=81=D1=82=D1=80=D0=BE=
+=D0=B3=D0=BE=D0=BC =D1=80=D0=B5=D0=B6=D0=B8=D0=BC=D0=B5, =D0=B7=D0=BD=D0=B0=
+=D1=87=D0=B5=D0=BD=D0=B8=D0=B5=D0=BC this =D0=B2=D1=81=D0=B5=D0=B3=D0=B4=D0=
+=B0 =D0=B4=D0=BE=D0=BB=D0=B6=D0=B5=D0=BD =D0=B1=D1=8B=D1=82=D1=8C =D0=BE=D0=
+=B1=D1=8A=D0=B5=D0=BA=D1=82, =D0=BF=D0=BE =D1=83=D0=BC=D0=BE=D0=BB=D1=87=D0=
+=B0=D0=BD=D0=B8=D1=8E - =D0=B3=D0=BB=D0=BE=D0=B1=D0=B0=D0=BB=D1=8C=D0=BD=D1=
+=8B=D0=B9 =D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=D1=82. =D0=92 =D1=81=D1=82=D1=80=
+=D0=BE=D0=B3=D0=BE=D0=BC =D1=80=D0=B5=D0=B6=D0=B8=D0=BC=D0=B5, =D0=B7=D0=BD=
+=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 this =D0=BE=D1=81=D1=82=D0=B0=D0=B5=D1=
+=82=D1=81=D1=8F =D1=82=D0=B5=D0=BC =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=
+=B8=D0=B5=D0=BC, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=B5 =D0=B1=D1=8B=D0=
+=BB=D0=BE =D1=83=D1=81=D1=82=D0=B0=D0=BD=D0=BE=D0=B2=D0=BB=D0=B5=D0=BD=D0=
+=BE =D0=B2 =D0=BA=D0=BE=D0=BD=D1=82=D0=B5=D0=BA=D1=81=D1=82=D0=B5 =D0=B8=D1=
+=81=D0=BF=D0=BE=D0=BB=D0=BD=D0=B5=D0=BD=D0=B8=D1=8F. =D0=95=D1=81=D0=BB=D0=
+=B8 =D1=82=D0=B0=D0=BA=D0=BE=D0=B5 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=
+=B8=D0=B5 =D0=BD=D0=B5 =D0=BE=D0=BF=D1=80=D0=B5=D0=B4=D0=B5=D0=BB=D0=B5=D0=
+=BD=D0=BE, =D0=BE=D0=BD=D0=BE =D0=BE=D1=81=D1=82=D0=B0=D0=B5=D1=82=D1=81=D1=
+=8F undefined. =D0=94=D0=BB=D1=8F =D1=82=D0=BE=D0=B3=D0=BE =D1=87=D1=82=D0=
+=BE =D0=B1=D1=8B =D0=BF=D0=B5=D1=80=D0=B5=D0=B4=D0=B0=D1=82=D1=8C =D0=B7=D0=
+=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 this =D0=BE=D1=82 =D0=BE=D0=B4=D0=
+=BD=D0=BE=D0=B3=D0=BE =D0=BA=D0=BE=D0=BD=D1=82=D0=B5=D0=BA=D1=81=D1=82=D0=
+=B0 =D0=B4=D1=80=D1=83=D0=B3=D0=BE=D0=BC=D1=83 =D0=BD=D0=B5=D0=BE=D0=B1=D1=
+=85=D0=BE=D0=B4=D0=B8=D0=BC=D0=BE =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=
+=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C call =D0=B8=D0=BB=D0=B8 apply</li>
+<li>=D0=92 =D1=81=D1=82=D1=80=D0=B5=D0=BB=D0=BE=D1=87=D0=BD=D1=8B=D1=85 =D1=
+=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D1=8F=D1=85, this =D0=BF=D1=80=D0=B8=D0=
+=B2=D1=8F=D0=B7=D0=B0=D0=BD =D0=BA =D0=BE=D0=BA=D1=80=D1=83=D0=B6=D0=B5=D0=
+=BD=D0=B8=D1=8E, =D0=B2 =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=BC =D0=B1=
+=D1=8B=D0=BB=D0=B0 =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD=D0=B0 =D1=84=D1=83=
+=D0=BD=D0=BA=D1=86=D0=B8=D1=8F. =D0=92 =D0=B3=D0=BB=D0=BE=D0=B1=D0=B0=D0=BB=
+=D1=8C=D0=BD=D0=BE=D0=B9 =D0=BE=D0=B1=D0=BB=D0=B0=D1=81=D1=82=D0=B8 =D0=B2=
+=D0=B8=D0=B4=D0=B8=D0=BC=D0=BE=D1=81=D1=82=D0=B8, this =D0=B1=D1=83=D0=B4=
+=D0=B5=D1=82 =D1=83=D0=BA=D0=B0=D0=B7=D1=8B=D0=B2=D0=B0=D1=82=D1=8C =D0=BD=
+=D0=B0 =D0=B3=D0=BB=D0=BE=D0=B1=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9 =D0=BE=
+=D0=B1=D1=8A=D0=B5=D0=BA=D1=82.</li>
+<li>=D0=9A=D0=BE=D0=B3=D0=B4=D0=B0 =D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D1=
+=8F =D0=B2=D1=8B=D0=B7=D1=8B=D0=B2=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=BA=D0=
+=B0=D0=BA =D0=BC=D0=B5=D1=82=D0=BE=D0=B4 =D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=D1=
+=82=D0=B0, =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D0=B5=D0=BC=D0=
+=BE=D0=B5 =D0=B2 =D1=8D=D1=82=D0=BE=D0=B9 =D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=
+=B8=D0=B8 =D0=BA=D0=BB=D1=8E=D1=87=D0=B5=D0=B2=D0=BE=D0=B5 =D1=81=D0=BB=D0=
+=BE=D0=B2=D0=BE this =D0=BF=D1=80=D0=B8=D0=BD=D0=B8=D0=BC=D0=B0=D0=B5=D1=82=
+ =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BE=D0=B1=D1=8A=D0=B5=
+=D0=BA=D1=82=D0=B0, =D0=BF=D0=BE =D0=BE=D1=82=D0=BD=D0=BE=D1=88=D0=B5=D0=BD=
+=D0=B8=D1=8E =D0=BA =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=BC=D1=83 =D0=B2=
+=D1=8B=D0=B7=D0=B2=D0=B0=D0=BD =D0=BC=D0=B5=D1=82=D0=BE=D0=B4.</li>
+</ul>
+<div id=3D"expander-955528655" class=3D"expand-container">
+<div id=3D"expander-control-955528655" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 =D1=81=D1=82=D1=80=D0=B5=D0=BB=D0=BE=D1=87=D0=BD=D0=
+=B0=D1=8F =D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D1=8F =D0=B2 JS =D0=B8 =D0=
+=BA=D0=B0=D0=BA=D0=B8=D0=B5 =D0=BF=D1=80=D0=BE=D0=B1=D0=BB=D0=B5=D0=BC=D1=
+=8B =D1=80=D0=B5=D1=88=D0=B0=D0=B5=D1=82</span>
+</div>
+<div id=3D"expander-content-955528655" class=3D"expand-content">
+<ul>
+<li>=D0=A0=D0=B5=D1=88=D0=B0=D0=B5=D1=82 =D0=BF=D1=80=D0=BE=D0=B1=D0=BB=D0=
+=B5=D0=BC=D1=83 =D1=81 this&nbsp;</li>
+<li>etc.</li>
+</ul>
+<p>=D0=94=D0=B5=D1=82=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE <a href=3D"https://lear=
+n.javascript.ru/arrow-functions-basics" class=3D"external-link" rel=3D"nofo=
+llow">=D1=82=D1=83=D1=82</a></p>
+</div>
+</div>
+</div>
+</div>
+<div id=3D"expander-319045204" class=3D"expand-container">
+<div id=3D"expander-control-319045204" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 Set, Map, WeakSet =D0=B8 WeakMap?</span>
+</div>
+<div id=3D"expander-content-319045204" class=3D"expand-content">
+<p><span style=3D"color: rgb(36,41,46);">Map =E2=80=93 =D0=BA=D0=BE=D0=BB=
+=D0=BB=D0=B5=D0=BA=D1=86=D0=B8=D1=8F =D0=B4=D0=BB=D1=8F =D1=85=D1=80=D0=B0=
+=D0=BD=D0=B5=D0=BD=D0=B8=D1=8F =D0=B7=D0=B0=D0=BF=D0=B8=D1=81=D0=B5=D0=B9 =
+=D0=B2=D0=B8=D0=B4=D0=B0 =D0=BA=D0=BB=D1=8E=D1=87:=D0=B7=D0=BD=D0=B0=D1=87=
+=D0=B5=D0=BD=D0=B8=D0=B5.</span></p>
+<p><span style=3D"color: rgb(36,41,46);">Set =E2=80=93 =D0=BA=D0=BE=D0=BB=
+=D0=BB=D0=B5=D0=BA=D1=86=D0=B8=D1=8F =D0=B4=D0=BB=D1=8F =D1=85=D1=80=D0=B0=
+=D0=BD=D0=B5=D0=BD=D0=B8=D1=8F =D0=BC=D0=BD=D0=BE=D0=B6=D0=B5=D1=81=D1=82=
+=D0=B2=D0=B0 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B9, =D0=BF=D1=80=
+=D0=B8=D1=87=D1=91=D0=BC =D0=BA=D0=B0=D0=B6=D0=B4=D0=BE=D0=B5 =D0=B7=D0=BD=
+=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=B2=
+=D1=81=D1=82=D1=80=D0=B5=D1=87=D0=B0=D1=82=D1=8C=D1=81=D1=8F =D0=BB=D0=B8=
+=D1=88=D1=8C =D0=BE=D0=B4=D0=B8=D0=BD =D1=80=D0=B0=D0=B7.<span>&nbsp;</span=
+></span></p>
+<p><span style=3D"color: rgb(36,41,46);"><span>WeakSet =E2=80=93 =D0=BE=D1=
+=81=D0=BE=D0=B1=D1=8B=D0=B9 =D0=B2=D0=B8=D0=B4 Set, =D0=BD=D0=B5 =D0=BF=D1=
+=80=D0=B5=D0=BF=D1=8F=D1=82=D1=81=D1=82=D0=B2=D1=83=D1=8E=D1=89=D0=B8=D0=B9=
+ =D1=81=D0=B1=D0=BE=D1=80=D1=89=D0=B8=D0=BA=D1=83 =D0=BC=D1=83=D1=81=D0=BE=
+=D1=80=D0=B0 =D1=83=D0=B4=D0=B0=D0=BB=D1=8F=D1=82=D1=8C =D1=81=D0=B2=D0=BE=
+=D0=B8 =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82=D1=8B. =D0=A2=D0=BE =D0=
+=B6=D0=B5 =D1=81=D0=B0=D0=BC=D0=BE=D0=B5 =E2=80=93 WeakMap =D0=B4=D0=BB=D1=
+=8F Map.&nbsp;</span></span></p>
+<p><span style=3D"color: rgb(36,41,46);"><span>=D0=94=D0=B5=D1=82=D0=B0=D0=
+=BB=D1=8C=D0=BD=D0=BE <a href=3D"https://learn.javascript.ru/set-map" class=
+=3D"external-link" rel=3D"nofollow">=D1=82=D1=83=D1=82</a></span></span></p=
+>
+</div>
+</div>
+<div id=3D"expander-1016278714" class=3D"expand-container">
+<div id=3D"expander-control-1016278714" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=9A=D0=BE=D0=B3=D0=B4=D0=
+=B0 =D0=BA=D0=B0=D0=BA=D0=BE=D0=B9 =D0=BB=D1=83=D1=87=D1=88=D0=B5 =D0=B8=D1=
+=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C: var vs let=
+ vs const? </span>
+</div>
+<div id=3D"expander-content-1016278714" class=3D"expand-content">
+<p>=D0=94=D0=B5=D1=82=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE <a href=3D"https://lear=
+n.javascript.ru/let-const" class=3D"external-link" rel=3D"nofollow">=D1=82=
+=D1=83=D1=82</a></p>
+</div>
+</div>
+<div id=3D"expander-56903306" class=3D"expand-container">
+<div id=3D"expander-control-56903306" class=3D"expand-control" aria-expande=
+d=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 class =D0=B2 JS =D0=B8 =D0=BA=D0=B0=D0=BA=D0=B8=D0=B5=
+ =D0=BF=D1=80=D0=BE=D0=B1=D0=BB=D0=B5=D0=BC=D1=8B =D1=80=D0=B5=D1=88=D0=B0=
+=D0=B5=D1=82</span>
+</div>
+<div id=3D"expander-content-56903306" class=3D"expand-content">
+<p><span style=3D"color: rgb(33,33,33);">=D0=9A=D0=BB=D0=B0=D1=81=D1=81=D1=
+=8B =D0=B2 JavaScript =D0=B1=D1=8B=D0=BB=D0=B8 =D0=B2=D0=B2=D0=B5=D0=B4=D0=
+=B5=D0=BD=D1=8B =D0=B2 ECMAScript 2015 =D0=B8 =D0=BF=D1=80=D0=B5=D0=B4=D1=
+=81=D1=82=D0=B0=D0=B2=D0=BB=D1=8F=D1=8E=D1=82 =D1=81=D0=BE=D0=B1=D0=BE=D0=
+=B9 =D1=81=D0=B8=D0=BD=D1=82=D0=B0=D0=BA=D1=81=D0=B8=D1=87=D0=B5=D1=81=D0=
+=BA=D0=B8=D0=B9 =D1=81=D0=B0=D1=85=D0=B0=D1=80 =D0=BD=D0=B0=D0=B4 =D1=81=D1=
+=83=D1=89=D0=B5=D1=81=D1=82=D0=B2=D1=83=D1=8E=D1=89=D0=B8=D0=BC =D0=B2 Java=
+Script =D0=BC=D0=B5=D1=85=D0=B0=D0=BD=D0=B8=D0=B7=D0=BC=D0=BE=D0=BC =D0=BF=
+=D1=80=D0=BE=D1=82=D0=BE=D1=82=D0=B8=D0=BF=D0=BD=D0=BE=D0=B3=D0=BE =D0=BD=
+=D0=B0=D1=81=D0=BB=D0=B5=D0=B4=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F.&nbsp;=
+=D0=A1=D0=B8=D0=BD=D1=82=D0=B0=D0=BA=D1=81=D0=B8=D1=81 =D0=BA=D0=BB=D0=B0=
+=D1=81=D1=81=D0=BE=D0=B2<span>&nbsp;</span></span><strong>=D0=BD=D0=B5 =D0=
+=B2=D0=B2=D0=BE=D0=B4=D0=B8=D1=82</strong><span style=3D"color: rgb(33,33,3=
+3);">&nbsp;=D0=BD=D0=BE=D0=B2=D1=83=D1=8E =D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=D1=
+=82=D0=BD=D0=BE-=D0=BE=D1=80=D0=B8=D0=B5=D0=BD=D1=82=D0=B8=D1=80=D0=BE=D0=
+=B2=D0=B0=D0=BD=D0=BD=D1=83=D1=8E =D0=BC=D0=BE=D0=B4=D0=B5=D0=BB=D1=8C, =D0=
+=B0 =D0=BF=D1=80=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D0=B0=D0=B2=D0=BB=D1=8F=D0=
+=B5=D1=82&nbsp;=D0=B1=D0=BE=D0=BB=D0=B5=D0=B5 =D0=BF=D1=80=D0=BE=D1=81=D1=
+=82=D0=BE=D0=B9 =D0=B8 =D0=BF=D0=BE=D0=BD=D1=8F=D1=82=D0=BD=D1=8B=D0=B9 =D1=
+=81=D0=BF=D0=BE=D1=81=D0=BE=D0=B1 =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD=D0=
+=B8=D1=8F =D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=D1=82=D0=BE=D0=B2 =D0=B8 =D0=BE=D1=
+=80=D0=B3=D0=B0=D0=BD=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8 =D0=BD=D0=B0=D1=
+=81=D0=BB=D0=B5=D0=B4=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F.</span><br>=D0=94=
+=D0=B5=D1=82=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE <a href=3D"https://developer.moz=
+illa.org/ru/docs/Web/JavaScript/Reference/Classes" class=3D"external-link" =
+rel=3D"nofollow">=D1=82=D1=83=D1=82</a></p>
+<p><br></p>
+<div id=3D"expander-1820966123" class=3D"expand-container">
+<div id=3D"expander-control-1820966123" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 =D0=BF=D1=80=D0=BE=D1=82=D0=BE=D1=82=D0=B8=D0=BF =D0=
+=B2 JS =D0=B8 =D0=B4=D0=BB=D1=8F =D1=87=D0=B5=D0=B3=D0=BE =D0=B8=D1=81=D0=
+=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D0=B5=D1=82=D1=81=D1=8F?</span>
+</div>
+<div id=3D"expander-content-1820966123" class=3D"expand-content">
+<p>=D0=A0=D0=B5=D0=B0=D0=BB=D0=B8=D0=B7=D1=83=D1=8E=D1=82 =D0=BD=D0=B0=D1=
+=81=D0=BB=D0=B5=D0=B4=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5 =D1=87=D0=B5=D1=
+=80=D0=B5=D0=B7 =D0=BF=D1=80=D0=BE=D1=82=D0=BE=D1=82=D0=B8=D0=BF=D1=8B.<br>=
+=D0=94=D0=B5=D1=82=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE <a href=3D"https://learn.j=
+avascript.ru/prototypes" class=3D"external-link" rel=3D"nofollow">=D1=82=D1=
+=83=D1=82</a></p>
+</div>
+</div>
+</div>
+</div>
+<div id=3D"expander-2049880859" class=3D"expand-container">
+<div id=3D"expander-control-2049880859" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 Promise (=D0=9F=D1=80=D0=BE=D0=BC=D0=B8=D1=81)?</span=
+>
+</div>
+<div id=3D"expander-content-2049880859" class=3D"expand-content">
+<p>Promise =E2=80=93 =D1=8D=D1=82=D0=BE =D1=81=D0=BF=D0=B5=D1=86=D0=B8=D0=
+=B0=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9 =D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=D1=82, =D0=
+=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B9 =D1=81=D0=BE=D0=B4=D0=B5=D1=80=D0=
+=B6=D0=B8=D1=82 =D1=81=D0=B2=D0=BE=D1=91 =D1=81=D0=BE=D1=81=D1=82=D0=BE=D1=
+=8F=D0=BD=D0=B8=D0=B5. =D0=92=D0=BD=D0=B0=D1=87=D0=B0=D0=BB=D0=B5 pending (=
+=C2=AB=D0=BE=D0=B6=D0=B8=D0=B4=D0=B0=D0=BD=D0=B8=D0=B5=C2=BB), =D0=B7=D0=B0=
+=D1=82=D0=B5=D0=BC =E2=80=93 =D0=BE=D0=B4=D0=BD=D0=BE =D0=B8=D0=B7: fulfill=
+ed (=C2=AB=D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B5=D0=BD=D0=BE =D1=83=D1=
+=81=D0=BF=D0=B5=D1=88=D0=BD=D0=BE=C2=BB) =D0=B8=D0=BB=D0=B8 rejected (=C2=
+=AB=D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B5=D0=BD=D0=BE =D1=81 =D0=BE=D1=
+=88=D0=B8=D0=B1=D0=BA=D0=BE=D0=B9=C2=BB).</p>
+<p>=D0=A1=D0=B8=D0=BD=D1=82=D0=B0=D0=BA=D1=81=D0=B8=D1=81 =D1=81=D0=BE=D0=
+=B7=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F Promise:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: js; gutter: false; theme: Confluence" data-theme=3D"Confluence">var promi=
+se =3D new Promise(function(resolve, reject) {
+  // =D0=AD=D1=82=D0=B0 =D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D1=8F =D0=B1=
+=D1=83=D0=B4=D0=B5=D1=82 =D0=B2=D1=8B=D0=B7=D0=B2=D0=B0=D0=BD=D0=B0 =D0=B0=
+=D0=B2=D1=82=D0=BE=D0=BC=D0=B0=D1=82=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8
+
+  // =D0=92 =D0=BD=D0=B5=D0=B9 =D0=BC=D0=BE=D0=B6=D0=BD=D0=BE =D0=B4=D0=B5=
+=D0=BB=D0=B0=D1=82=D1=8C =D0=BB=D1=8E=D0=B1=D1=8B=D0=B5 =D0=B0=D1=81=D0=B8=
+=D0=BD=D1=85=D1=80=D0=BE=D0=BD=D0=BD=D1=8B=D0=B5 =D0=BE=D0=BF=D0=B5=D1=80=
+=D0=B0=D1=86=D0=B8=D0=B8,
+  // =D0=90 =D0=BA=D0=BE=D0=B3=D0=B4=D0=B0 =D0=BE=D0=BD=D0=B8 =D0=B7=D0=B0=
+=D0=B2=D0=B5=D1=80=D1=88=D0=B0=D1=82=D1=81=D1=8F =E2=80=94 =D0=BD=D1=83=D0=
+=B6=D0=BD=D0=BE =D0=B2=D1=8B=D0=B7=D0=B2=D0=B0=D1=82=D1=8C =D0=BE=D0=B4=D0=
+=BD=D0=BE =D0=B8=D0=B7:
+  // resolve(=D1=80=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82) =D0=BF=
+=D1=80=D0=B8 =D1=83=D1=81=D0=BF=D0=B5=D1=88=D0=BD=D0=BE=D0=BC =D0=B2=D1=8B=
+=D0=BF=D0=BE=D0=BB=D0=BD=D0=B5=D0=BD=D0=B8=D0=B8
+  // reject(=D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D0=B0) =D0=BF=D1=80=D0=B8 =D0=BE=
+=D1=88=D0=B8=D0=B1=D0=BA=D0=B5
+})
+
+// =D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80
+// =D0=A1=D0=BE=D0=B7=D0=B4=D0=B0=D1=91=D1=82=D1=81=D1=8F =D0=BE=D0=B1=D1=
+=8A=D0=B5=D0=BA=D1=82 promise
+let promise =3D new Promise((resolve, reject) =3D&gt; {
+
+  setTimeout(() =3D&gt; {
+    // =D0=BF=D0=B5=D1=80=D0=B5=D0=B2=D0=B5=D0=B4=D1=91=D1=82 =D0=BF=D1=80=
+=D0=BE=D0=BC=D0=B8=D1=81 =D0=B2 =D1=81=D0=BE=D1=81=D1=82=D0=BE=D1=8F=D0=BD=
+=D0=B8=D0=B5 fulfilled =D1=81 =D1=80=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=
+=B0=D1=82=D0=BE=D0=BC "result"
+    resolve("result");
+  }, 1000);
+
+});
+
+// promise.then =D0=BD=D0=B0=D0=B2=D0=B5=D1=88=D0=B8=D0=B2=D0=B0=D0=B5=D1=
+=82 =D0=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D1=87=D0=B8=D0=BA=D0=B8 =D0=
+=BD=D0=B0 =D1=83=D1=81=D0=BF=D0=B5=D1=88=D0=BD=D1=8B=D0=B9 =D1=80=D0=B5=D0=
+=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82 =D0=B8=D0=BB=D0=B8 =D0=BE=D1=88=D0=
+=B8=D0=B1=D0=BA=D1=83
+promise
+  .then(
+    result =3D&gt; {
+      // =D0=BF=D0=B5=D1=80=D0=B2=D0=B0=D1=8F =D1=84=D1=83=D0=BD=D0=BA=D1=
+=86=D0=B8=D1=8F-=D0=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D1=87=D0=B8=D0=
+=BA - =D0=B7=D0=B0=D0=BF=D1=83=D1=81=D1=82=D0=B8=D1=82=D1=81=D1=8F =D0=BF=
+=D1=80=D0=B8 =D0=B2=D1=8B=D0=B7=D0=BE=D0=B2=D0=B5 resolve
+      alert("Fulfilled: " + result); // result - =D0=B0=D1=80=D0=B3=D1=83=
+=D0=BC=D0=B5=D0=BD=D1=82 resolve
+    },
+    error =3D&gt; {
+      // =D0=B2=D1=82=D0=BE=D1=80=D0=B0=D1=8F =D1=84=D1=83=D0=BD=D0=BA=D1=
+=86=D0=B8=D1=8F - =D0=B7=D0=B0=D0=BF=D1=83=D1=81=D1=82=D0=B8=D1=82=D1=81=D1=
+=8F =D0=BF=D1=80=D0=B8 =D0=B2=D1=8B=D0=B7=D0=BE=D0=B2=D0=B5 reject
+      alert("Rejected: " + error); // error - =D0=B0=D1=80=D0=B3=D1=83=D0=
+=BC=D0=B5=D0=BD=D1=82 reject
+    }
+  );</pre>=20
+</div>
+</div>
+</div>
+</div>
+<div id=3D"expander-105846906" class=3D"expand-container">
+<div id=3D"expander-control-105846906" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D0=B4=D0=
+=B5=D0=BB=D0=B0=D1=8E=D1=82 =D0=BE=D0=BF=D0=B5=D1=80=D0=B0=D1=82=D0=BE=D1=
+=80=D1=8B Spread =D0=B8 Rest?</span>
+</div>
+<div id=3D"expander-content-105846906" class=3D"expand-content">
+Spread
+<p><br></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: js; gutter: false; theme: Confluence" data-theme=3D"Confluence">var log =
+=3D function(a, b, c) {
+  console.log(a, b, c);
+};
+
+log(...['Spread', 'Rest', 'Operator']); // Spread Rest Operator</pre>=20
+</div>
+</div>
+<p>=D0=98=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=
+=D0=B5 =D0=BE=D0=BF=D0=B5=D1=80=D0=B0=D1=82=D0=BE=D1=80=D0=B0&nbsp;spread&n=
+bsp;=D0=BD=D0=B5 =D0=BE=D0=B3=D1=80=D0=B0=D0=BD=D0=B8=D1=87=D0=B8=D0=B2=D0=
+=B0=D0=B5=D1=82=D1=81=D1=8F =D0=BF=D0=B5=D1=80=D0=B5=D0=B4=D0=B0=D1=87=D0=
+=B5=D0=B9 =D0=BF=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=80=D0=BE=D0=B2 =D1=
+=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D0=B8. =D0=9D=D0=B5=D1=81=D0=BA=D0=BE=D0=
+=BB=D1=8C=D0=BA=D0=BE =D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=BE=D0=B2 =D0=
+=B5=D0=B3=D0=BE&nbsp;=D0=BF=D0=BE=D0=BB=D0=B5=D0=B7=D0=BD=D0=BE=D0=B3=D0=BE=
+&nbsp;=D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=
+=B8=D1=8F</p>
+<p><br></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: js; gutter: false; theme: Confluence" data-theme=3D"Confluence">// =D0=9A=
+=D0=BB=D0=BE=D0=BD=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5 =D1=81=
+=D0=B2=D0=BE=D0=B9=D1=81=D1=82=D0=B2 =D0=BC=D0=B0=D1=81=D1=81=D0=B8=D0=B2=
+=D0=BE=D0=B2
+var arr =3D ['will', 'love'];
+var data =3D ['You', ...arr, 'spread', 'operator'];
+console.log(data); // ['You', 'will', 'love', 'spread', 'operator']
+
+// =D0=9F=D0=BE=D0=B4=D0=BE=D0=B1=D0=BD=D1=8B=D0=BC =D0=BE=D0=B1=D1=80=D0=
+=B0=D0=B7=D0=BE=D0=BC =D0=BC=D0=BE=D0=B6=D0=BD=D0=BE =D1=81=D0=BA=D0=BE=D0=
+=BF=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=B8 =D0=B2=D0=B5=D1=81=D1=
+=8C =D0=BC=D0=B0=D1=81=D1=81=D0=B8=D0=B2 =D1=86=D0=B5=D0=BB=D0=B8=D0=BA=D0=
+=BE=D0=BC
+var arr =3D [1, 2, 3, 4, 5];
+var data =3D [...arr];
+console.log(data); // [1, 2, 3, 4, 5]
+
+// =D0=92=D0=B0=D0=B6=D0=BD=D0=BE =D0=BF=D0=BE=D0=BD=D0=B8=D0=BC=D0=B0=D1=
+=82=D1=8C, =D1=87=D1=82=D0=BE =D0=BF=D1=80=D0=B8 =D0=BF=D0=BE=D0=B4=D0=BE=
+=D0=B1=D0=BD=D0=BE=D0=BC =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=
+=D0=B2=D0=B0=D0=BD=D0=B8=D0=B8 =D0=BE=D0=BF=D0=B5=D1=80=D0=B0=D1=82=D0=BE=
+=D1=80=D0=B0&nbsp;...&nbsp;=D0=BF=D1=80=D0=BE=D0=B8=D1=81=D1=85=D0=BE=D0=B4=
+=D0=B8=D1=82 =D0=B8=D0=BC=D0=B5=D0=BD=D0=BD=D0=BE =D0=BA=D0=BE=D0=BF=D0=B8=
+=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5 =D0=B2=D1=81=D0=B5=D1=85 =D1=81=
+=D0=B2=D0=BE=D0=B9=D1=81=D1=82=D0=B2, =D0=B0 =D0=BD=D0=B5 =D1=81=D1=81=D1=
+=8B=D0=BB=D0=BA=D0=B8 =D0=BD=D0=B0 =D0=BC=D0=B0=D1=81=D1=81=D0=B8=D0=B2.
+var arr =3D [1, 2, 3, 4, 5];
+var data =3D [...arr];
+var copy =3D arr;
+arr =3D=3D=3D data; // false =E2=88=92 =D1=81=D1=81=D1=8B=D0=BB=D0=BA=D0=B8=
+ =D0=BE=D1=82=D0=BB=D0=B8=D1=87=D0=B0=D1=8E=D1=82=D1=81=D1=8F =E2=88=92 =D0=
+=B4=D0=B2=D0=B0 =D1=80=D0=B0=D0=B7=D0=BD=D1=8B=D1=85 =D0=BC=D0=B0=D1=81=D1=
+=81=D0=B8=D0=B2=D0=B0
+arr =3D=3D=3D copy; // true =E2=88=92 =D0=B4=D0=B2=D0=B5 =D0=BF=D0=B5=D1=80=
+=D0=B5=D0=BC=D0=B5=D0=BD=D0=BD=D1=8B=D0=B5 =D1=81=D1=81=D1=8B=D0=BB=D0=B0=
+=D1=8E=D1=82=D1=81=D1=8F =D0=BD=D0=B0 =D0=BE=D0=B4=D0=B8=D0=BD =D0=BC=D0=B0=
+=D1=81=D1=81=D0=B8=D0=B2</pre>=20
+</div>
+</div>
+<pre><br></pre>Rest
+<p>=D0=92 =D1=81=D0=B0=D0=BC=D0=BE=D0=BC =D0=BD=D0=B0=D1=87=D0=B0=D0=BB=D0=
+=B5 =D1=81=D1=82=D0=B0=D1=82=D1=8C=D0=B8 =D1=8F =D1=83=D0=B6=D0=B5 =D1=83=
+=D0=BF=D0=BE=D0=BC=D0=B8=D0=BD=D0=B0=D0=BB, =D1=87=D1=82=D0=BE =D0=BE=D0=BF=
+=D0=B5=D1=80=D0=B0=D1=82=D0=BE=D1=80<span>&nbsp;</span><code class=3D"highl=
+ighter-rouge">...</code><span>&nbsp;</span>=D0=B8=D0=BD=D1=82=D0=B5=D1=80=
+=D0=BF=D1=80=D0=B5=D1=82=D0=B8=D1=80=D1=83=D0=B5=D1=82=D1=81=D1=8F =D0=BF=
+=D0=BE-=D1=80=D0=B0=D0=B7=D0=BD=D0=BE=D0=BC=D1=83, =D0=B2 =D0=B7=D0=B0=D0=
+=B2=D0=B8=D1=81=D0=B8=D0=BC=D0=BE=D1=81=D1=82=D0=B8 =D0=BE=D1=82 =D0=BA=D0=
+=BE=D0=BD=D1=82=D0=B5=D0=BA=D1=81=D1=82=D0=B0 =D0=BF=D1=80=D0=B8=D0=BC=D0=
+=B5=D0=BD=D0=B5=D0=BD=D0=B8=D1=8F.<span>&nbsp;</span><em>Spread</em><span>&=
+nbsp;</span>=D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D0=B5=D1=82=D1=
+=81=D1=8F =D0=B4=D0=BB=D1=8F =D1=80=D0=B0=D0=B7=D0=B4=D0=B5=D0=BB=D0=B5=D0=
+=BD=D0=B8=D1=8F =D0=BA=D0=BE=D0=BB=D0=BB=D0=B5=D0=BA=D1=86=D0=B8=D0=B9 =D0=
+=BD=D0=B0 =D0=BE=D1=82=D0=B4=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D0=B5 =D1=8D=D0=
+=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82=D1=8B, =D0=B0<span>&nbsp;</span><em>rest<=
+/em>, =D0=BD=D0=B0=D0=BE=D0=B1=D0=BE=D1=80=D0=BE=D1=82, =D0=B4=D0=BB=D1=8F =
+=D1=81=D0=BE=D0=B5=D0=B4=D0=B8=D0=BD=D0=B5=D0=BD=D0=B8=D1=8F =D0=BE=D1=82=
+=D0=B4=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D1=85 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=
+=D0=BD=D0=B8=D0=B9 =D0=B2 =D0=BC=D0=B0=D1=81=D1=81=D0=B8=D0=B2.</p>
+<pre><code class=3D"language-javascript"><span class=3D"kd" style=3D"color:=
+ rgb(142,68,173);">var</span> <span class=3D"nx" style=3D"color: rgb(68,85,=
+136);">log</span> <span class=3D"o">=3D</span> <span class=3D"kd" style=3D"=
+color: rgb(142,68,173);">function</span><span class=3D"p">(</span><span cla=
+ss=3D"nx" style=3D"color: rgb(68,85,136);">a</span><span class=3D"p">,</spa=
+n> <span class=3D"nx" style=3D"color: rgb(68,85,136);">b</span><span class=
+=3D"p">,</span> <span class=3D"p">...</span><span class=3D"nx" style=3D"col=
+or: rgb(68,85,136);">rest</span><span class=3D"p">)</span> <span class=3D"p=
+">{</span>
+  <span class=3D"nx" style=3D"color: rgb(68,85,136);">console</span><span c=
+lass=3D"p">.</span><span class=3D"nx" style=3D"color: rgb(68,85,136);">log<=
+/span><span class=3D"p">(</span><span class=3D"nx" style=3D"color: rgb(68,8=
+5,136);">a</span><span class=3D"p">,</span> <span class=3D"nx" style=3D"col=
+or: rgb(68,85,136);">b</span><span class=3D"p">,</span> <span class=3D"nx" =
+style=3D"color: rgb(68,85,136);">rest</span><span class=3D"p">);</span>
+<span class=3D"p">};</span>
+
+<span class=3D"nx" style=3D"color: rgb(68,85,136);">log</span><span class=
+=3D"p">(</span><span class=3D"s1" style=3D"color: rgb(227,47,28);">'Basic'<=
+/span><span class=3D"p">,</span> <span class=3D"s1" style=3D"color: rgb(227=
+,47,28);">'rest'</span><span class=3D"p">,</span> <span class=3D"s1" style=
+=3D"color: rgb(227,47,28);">'operator'</span><span class=3D"p">,</span> <sp=
+an class=3D"s1" style=3D"color: rgb(227,47,28);">'usage'</span><span class=
+=3D"p">);</span> <span class=3D"c1" style=3D"color: rgb(151,151,151);">// B=
+asic rest ['operator', usage]</span></code></pre>
+<p><br>=D0=94=D0=B5=D1=82=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE <a href=3D"http://j=
+sraccoon.ru/es6-spread-rest" class=3D"external-link" rel=3D"nofollow">=D1=
+=82=D1=83=D1=82</a></p>
+</div>
+</div>
+<div id=3D"expander-1322139970" class=3D"expand-container">
+<div id=3D"expander-control-1322139970" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 =D0=BA=D0=BB=D1=8E=D1=87=D0=B5=D0=B2=D0=BE=D0=B5 =D1=
+=81=D0=BB=D0=BE=D0=B2=D0=BE super =D0=B4=D0=BB=D1=8F =D0=BE=D0=B1=D1=8A=D0=
+=B5=D0=BA=D1=82=D0=BE=D0=B2?</span>
+</div>
+<div id=3D"expander-content-1322139970" class=3D"expand-content">
+<p class=3D"auto-cursor-target"><span style=3D"color: rgb(34,34,34);">ES6 =
+=D0=BF=D0=BE=D0=B7=D0=B2=D0=BE=D0=BB=D1=8F=D0=B5=D1=82 =D0=B8=D1=81=D0=BF=
+=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=BC=D0=B5=D1=82=
+=D0=BE=D0=B4<span>&nbsp;</span></span><code>super</code><span style=3D"colo=
+r: rgb(34,34,34);"><span>&nbsp;</span>=D0=B2 (=D0=B1=D0=B5=D0=B7=D0=BA=D0=
+=BB=D0=B0=D1=81=D1=81=D0=BE=D0=B2=D1=8B=D1=85) =D0=BE=D0=B1=D1=8A=D0=B5=D0=
+=BA=D1=82=D0=B0=D1=85 =D1=81 =D0=BF=D1=80=D0=BE=D1=82=D0=BE=D1=82=D0=B8=D0=
+=BF=D0=B0=D0=BC=D0=B8. =D0=92=D0=BE=D1=82 =D0=BF=D1=80=D0=BE=D1=81=D1=82=D0=
+=BE=D0=B9 =D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D1=80:</span></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: js; gutter: false; theme: Confluence" data-theme=3D"Confluence">var paren=
+t =3D {
+    foo() {
+        console.log("=D0=9F=D1=80=D0=B8=D0=B2=D0=B5=D1=82 =D0=BE=D1=82 =D0=
+=A0=D0=BE=D0=B4=D0=B8=D1=82=D0=B5=D0=BB=D1=8F!");
+    }
+}
+
+var child =3D {
+    foo() {
+        super.foo();
+        console.log("=D0=9F=D1=80=D0=B8=D0=B2=D0=B5=D1=82 =D0=BE=D1=82 =D0=
+=A0=D0=B5=D0=B1=D1=91=D0=BD=D0=BA=D0=B0!");
+    }
+}
+
+Object.setPrototypeOf(child, parent);
+child.foo(); // =D0=9F=D1=80=D0=B8=D0=B2=D0=B5=D1=82 =D0=BE=D1=82 =D0=A0=D0=
+=BE=D0=B4=D0=B8=D1=82=D0=B5=D0=BB=D1=8F!
+             // =D0=9F=D1=80=D0=B8=D0=B2=D0=B5=D1=82 =D0=BE=D1=82 =D0=A0=D0=
+=B5=D0=B1=D1=91=D0=BD=D0=BA=D0=B0!</pre>=20
+</div>
+</div>
+</div>
+</div>
+<div id=3D"expander-1380079181" class=3D"expand-container">
+<div id=3D"expander-control-1380079181" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=9E=D1=82=D0=BB=D0=B8=D1=
+=87=D0=B8=D1=8F for...of =D0=BE=D1=82 for...in</span>
+</div>
+<div id=3D"expander-content-1380079181" class=3D"expand-content">
+<p><code>for...of</code><span>&nbsp;</span>=D0=B8=D1=81=D0=BF=D0=BE=D0=BB=
+=D1=8C=D0=B7=D1=83=D0=B5=D1=82=D1=81=D1=8F =D0=B4=D0=BB=D1=8F =D0=BF=D0=B5=
+=D1=80=D0=B5=D0=B1=D0=BE=D1=80=D0=B0 =D0=B2 =D1=86=D0=B8=D0=BA=D0=BB=D0=B5 =
+=D0=B8=D1=82=D0=B5=D1=80=D0=B8=D1=80=D1=83=D0=B5=D0=BC=D1=8B=D1=85 =D0=BE=
+=D0=B1=D1=8A=D0=B5=D0=BA=D1=82=D0=BE=D0=B2, =D0=BD=D0=B0=D0=BF=D1=80=D0=B8=
+=D0=BC=D0=B5=D1=80, =D0=BC=D0=B0=D1=81=D1=81=D0=B8=D0=B2=D0=BE=D0=B2.</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: js; gutter: false; theme: Confluence" data-theme=3D"Confluence">let nickn=
+ames =3D ['di', 'boo', 'punkeye'];
+nicknames.size =3D 3;
+for (let nickname of nicknames) {
+    console.log(nickname);
+}
+// di
+// boo
+// punkeye</pre>=20
+</div>
+</div>
+<p><br></p>
+<p><code>for...in</code><span>&nbsp;</span>=D0=B8=D1=81=D0=BF=D0=BE=D0=BB=
+=D1=8C=D0=B7=D1=83=D0=B5=D1=82=D1=81=D1=8F =D0=B4=D0=BB=D1=8F =D0=BF=D0=B5=
+=D1=80=D0=B5=D0=B1=D0=BE=D1=80=D0=B0 =D0=B2 =D1=86=D0=B8=D0=BA=D0=BB=D0=B5 =
+=D0=B2=D1=81=D0=B5=D1=85 =D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=BD=D1=8B=
+=D1=85 =D0=B4=D0=BB=D1=8F =D0=BF=D0=B5=D1=80=D0=B5=D0=B1=D0=BE=D1=80=D0=B0 =
+(enumerable) =D1=81=D0=B2=D0=BE=D0=B9=D1=81=D1=82=D0=B2 =D0=BE=D0=B1=D1=8A=
+=D0=B5=D0=BA=D1=82=D0=B0.</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: js; gutter: false; theme: Confluence" data-theme=3D"Confluence">let nickn=
+ames =3D ['di', 'boo', 'punkeye'];
+nicknames.size =3D 3;
+for (let nickname in nicknames) {
+    console.log(nickname);
+}
+// 0
+// 1
+// 2
+// size</pre>=20
+</div>
+</div>
+<pre class=3D"auto-cursor-target"><br></pre>
+</div>
+</div>
+<div id=3D"expander-1229523679" class=3D"expand-container">
+<div id=3D"expander-control-1229523679" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 =D0=B4=D0=B5=D1=81=D1=82=D1=80=D1=83=D0=BA=D1=82=D1=
+=83=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D1=8F =D0=BC=D0=B0=D1=81=D1=81=D0=
+=B8=D0=B2=D0=BE=D0=B2 =D0=B8 =D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=D1=82=D0=BE=D0=
+=B2</span>
+</div>
+<div id=3D"expander-content-1229523679" class=3D"expand-content">
+<p>=D0=94=D0=B5=D1=81=D1=82=D1=80=D1=83=D0=BA=D1=82=D1=83=D1=80=D0=B8=D0=B7=
+=D0=B0=D1=86=D0=B8=D1=8F =D0=BF=D0=BE=D0=BC=D0=BE=D0=B3=D0=B0=D0=B5=D1=82 =
+=D0=B8=D0=B7=D0=B1=D0=B5=D0=B6=D0=B0=D1=82=D1=8C =D0=B8=D1=81=D0=BF=D0=BE=
+=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D0=B2=D1=81=D0=BF=
+=D0=BE=D0=BC=D0=BE=D0=B3=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D1=85 =
+=D0=BF=D0=B5=D1=80=D0=B5=D0=BC=D0=B5=D0=BD=D0=BD=D1=8B=D1=85 =D0=BF=D1=80=
+=D0=B8 =D0=B2=D0=B7=D0=B0=D0=B8=D0=BC=D0=BE=D0=B4=D0=B5=D0=B9=D1=81=D1=82=
+=D0=B2=D0=B8=D0=B8 =D1=81 =D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=D1=82=D0=B0=D0=BC=
+=D0=B8 =D0=B8 =D0=BC=D0=B0=D1=81=D1=81=D0=B8=D0=B2=D0=B0=D0=BC=D0=B8.</p>
+<pre><br></pre>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: js; gutter: false; theme: Confluence" data-theme=3D"Confluence">function =
+foo() {
+    return [1, 2, 3];
+}
+let arr =3D foo(); // [1,2,3]
+
+let [a, b, c] =3D foo();
+console.log(a, b, c); // 1 2 3
+
+function bar() {
+    return {
+        x: 4,
+        y: 5,
+        z: 6
+    };
+}
+let { x: a, y: b, z: c } =3D bar();
+console.log(a, b, c); // 4 5 6</pre>=20
+</div>
+</div>
+</div>
+</div>
+<h2 id=3D"QuestionsforInterview-TypeScript">TypeScript</h2>
+<hr>
+<div id=3D"expander-926135021" class=3D"expand-container">
+<div id=3D"expander-control-926135021" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=97=D0=B0=D1=87=D0=B5=D0=
+=BC =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=
+=8C TypeScript =D0=B2=D0=BC=D0=B5=D1=81=D1=82=D0=BE JavaScript?</span>
+</div>
+<div id=3D"expander-content-926135021" class=3D"expand-content">
+<p><span style=3D"color: rgb(34,34,34);">=D0=92 =D1=81=D0=BA=D0=BE=D0=B1=D0=
+=BA=D0=B0=D1=85, =D0=BF=D0=BE=D1=81=D0=BB=D0=B5 =D0=BD=D0=BE=D0=BC=D0=B5=D1=
+=80=D0=B0 =D0=B2=D0=BE=D0=BF=D1=80=D0=BE=D1=81=D0=B0, =D1=83=D0=BA=D0=B0=D0=
+=B7=D0=B0=D0=BD=D0=B0 =D0=B5=D0=B3=D0=BE =D1=81=D0=BB=D0=BE=D0=B6=D0=BD=D0=
+=BE=D1=81=D1=82=D1=8C, =D0=BE=D1=86=D0=B5=D0=BD=D0=B8=D0=B2=D0=B0=D0=B5=D0=
+=BC=D0=B0=D1=8F =D0=BF=D0=BE =D0=BF=D1=8F=D1=82=D0=B8=D0=B1=D0=B0=D0=BB=D0=
+=BB=D1=8C=D0=BD=D0=BE=D0=B9 =D1=88=D0=BA=D0=B0=D0=BB=D0=B5.</span><br><br><=
+span style=3D"color: rgb(34,34,34);">TypeScript (TS) =E2=80=93 =D1=8D=D1=82=
+=D0=BE =D0=BD=D0=B0=D0=B4=D0=BC=D0=BD=D0=BE=D0=B6=D0=B5=D1=81=D1=82=D0=B2=
+=D0=BE JavaScript (JS), =D1=81=D1=80=D0=B5=D0=B4=D0=B8 =D0=BE=D1=81=D0=BD=
+=D0=BE=D0=B2=D0=BD=D1=8B=D1=85 =D0=BE=D1=81=D0=BE=D0=B1=D0=B5=D0=BD=D0=BD=
+=D0=BE=D1=81=D1=82=D0=B5=D0=B9 =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=B3=
+=D0=BE =D0=BC=D0=BE=D0=B6=D0=BD=D0=BE =D0=BE=D1=82=D0=BC=D0=B5=D1=82=D0=B8=
+=D1=82=D1=8C =D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=D0=B6=D0=BD=D0=BE=D1=81=D1=82=
+=D1=8C =D1=8F=D0=B2=D0=BD=D0=BE=D0=B3=D0=BE =D1=81=D1=82=D0=B0=D1=82=D0=B8=
+=D1=87=D0=B5=D1=81=D0=BA=D0=BE=D0=B3=D0=BE =D0=BD=D0=B0=D0=B7=D0=BD=D0=B0=
+=D1=87=D0=B5=D0=BD=D0=B8=D1=8F =D1=82=D0=B8=D0=BF=D0=BE=D0=B2, =D0=BF=D0=BE=
+=D0=B4=D0=B4=D0=B5=D1=80=D0=B6=D0=BA=D1=83 =D0=BA=D0=BB=D0=B0=D1=81=D1=81=
+=D0=BE=D0=B2 =D0=B8 =D0=B8=D0=BD=D1=82=D0=B5=D1=80=D1=84=D0=B5=D0=B9=D1=81=
+=D0=BE=D0=B2. =D0=9E=D0=B4=D0=BD=D0=B8=D0=BC =D0=B8=D0=B7 =D1=81=D0=B5=D1=
+=80=D1=8C=D1=91=D0=B7=D0=BD=D1=8B=D1=85 =D0=BF=D1=80=D0=B5=D0=B8=D0=BC=D1=
+=83=D1=89=D0=B5=D1=81=D1=82=D0=B2 TS =D0=BF=D0=B5=D1=80=D0=B5=D0=B4 JS =D1=
+=8F=D0=B2=D0=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=B2=D0=BE=D0=B7=D0=BC=D0=
+=BE=D0=B6=D0=BD=D0=BE=D1=81=D1=82=D1=8C =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=
+=BD=D0=B8=D1=8F, =D0=B2 =D1=80=D0=B0=D0=B7=D0=BB=D0=B8=D1=87=D0=BD=D1=8B=D1=
+=85 IDE, =D1=82=D0=B0=D0=BA=D0=BE=D0=B9 =D1=81=D1=80=D0=B5=D0=B4=D1=8B =D1=
+=80=D0=B0=D0=B7=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B8, =D0=BA=D0=BE=D1=
+=82=D0=BE=D1=80=D0=B0=D1=8F =D0=BF=D0=BE=D0=B7=D0=B2=D0=BE=D0=BB=D1=8F=D0=
+=B5=D1=82, =D0=BF=D1=80=D1=8F=D0=BC=D0=BE =D0=B2 =D0=BF=D1=80=D0=BE=D1=86=
+=D0=B5=D1=81=D1=81=D0=B5 =D0=B2=D0=B2=D0=BE=D0=B4=D0=B0 =D0=BA=D0=BE=D0=B4=
+=D0=B0, =D0=B2=D1=8B=D1=8F=D0=B2=D0=BB=D1=8F=D1=82=D1=8C =D1=80=D0=B0=D1=81=
+=D0=BF=D1=80=D0=BE=D1=81=D1=82=D1=80=D0=B0=D0=BD=D1=91=D0=BD=D0=BD=D1=8B=D0=
+=B5 =D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D0=B8. =D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D0=
+=BD=D0=B5=D0=BD=D0=B8=D0=B5 TypeScript =D0=B2 =D0=B1=D0=BE=D0=BB=D1=8C=D1=
+=88=D0=B8=D1=85 =D0=BF=D1=80=D0=BE=D0=B5=D0=BA=D1=82=D0=B0=D1=85 =D0=BC=D0=
+=BE=D0=B6=D0=B5=D1=82 =D0=B2=D0=B5=D1=81=D1=82=D0=B8 =D0=BA =D0=BF=D0=BE=D0=
+=B2=D1=8B=D1=88=D0=B5=D0=BD=D0=B8=D1=8E =D0=BD=D0=B0=D0=B4=D1=91=D0=B6=D0=
+=BD=D0=BE=D1=81=D1=82=D0=B8 =D0=BF=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=
+=BC, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B5, =D0=BF=D1=80=D0=B8 =D1=8D=
+=D1=82=D0=BE=D0=BC, =D0=BC=D0=BE=D0=B6=D0=BD=D0=BE =D1=80=D0=B0=D0=B7=D0=B2=
+=D0=BE=D1=80=D0=B0=D1=87=D0=B8=D0=B2=D0=B0=D1=82=D1=8C =D0=B2 =D1=82=D0=B5=
+=D1=85 =D0=B6=D0=B5 =D1=81=D1=80=D0=B5=D0=B4=D0=B0=D1=85, =D0=B3=D0=B4=D0=
+=B5 =D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=B0=D1=8E=D1=82 =D0=BE=D0=B1=D1=8B=D1=
+=87=D0=BD=D1=8B=D0=B5 JS-=D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=
+=D0=B8=D1=8F.</span><br><br><span style=3D"color: rgb(34,34,34);">=D0=92=D0=
+=BE=D1=82 =D0=BD=D0=B5=D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B5 =D0=BF=D0=
+=BE=D0=B4=D1=80=D0=BE=D0=B1=D0=BD=D0=BE=D1=81=D1=82=D0=B8 =D0=BE TypeScript=
+:</span><br><br></p>
+<ul>
+<li>TypeScript =D0=BF=D0=BE=D0=B4=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D0=B2=D0=B0=
+=D0=B5=D1=82 =D1=81=D0=BE=D0=B2=D1=80=D0=B5=D0=BC=D0=B5=D0=BD=D0=BD=D1=8B=
+=D0=B5 =D1=80=D0=B5=D0=B4=D0=B0=D0=BA=D1=86=D0=B8=D0=B8 =D1=81=D1=82=D0=B0=
+=D0=BD=D0=B4=D0=B0=D1=80=D1=82=D0=BE=D0=B2 ECMAScript, =D0=BA=D0=BE=D0=B4, =
+=D0=BD=D0=B0=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9 =D1=81 =D0=B8=
+=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5=D0=
+=BC =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D1=85, =D0=BA=D0=BE=D0=BC=D0=BF=D0=
+=B8=D0=BB=D0=B8=D1=80=D1=83=D0=B5=D1=82=D1=81=D1=8F =D1=81 =D1=83=D1=87=D1=
+=91=D1=82=D0=BE=D0=BC =D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=D0=B6=D0=BD=D0=BE=D1=
+=81=D1=82=D0=B8 =D0=B5=D0=B3=D0=BE =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=
+=B5=D0=BD=D0=B8=D1=8F =D0=BD=D0=B0 =D0=BF=D0=BB=D0=B0=D1=82=D1=84=D0=BE=D1=
+=80=D0=BC=D0=B0=D1=85, =D0=BF=D0=BE=D0=B4=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D0=
+=B2=D0=B0=D1=8E=D1=89=D0=B8=D1=85 =D0=B1=D0=BE=D0=BB=D0=B5=D0=B5 =D1=81=D1=
+=82=D0=B0=D1=80=D1=8B=D0=B5 =D0=B2=D0=B5=D1=80=D1=81=D0=B8=D0=B8 =D1=81=D1=
+=82=D0=B0=D0=BD=D0=B4=D0=B0=D1=80=D1=82=D0=BE=D0=B2. =D0=AD=D1=82=D0=BE =D0=
+=BE=D0=B7=D0=BD=D0=B0=D1=87=D0=B0=D0=B5=D1=82, =D1=87=D1=82=D0=BE TS-=D0=BF=
+=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D0=B8=D1=81=D1=82 =D0=BC=D0=BE=
+=D0=B6=D0=B5=D1=82 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=
+=D0=B0=D1=82=D1=8C =D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=D0=B6=D0=BD=D0=BE=D1=81=
+=D1=82=D0=B8 ES2015 =D0=B8 =D0=B1=D0=BE=D0=BB=D0=B5=D0=B5 =D0=BD=D0=BE=D0=
+=B2=D1=8B=D1=85 =D1=81=D1=82=D0=B0=D0=BD=D0=B4=D0=B0=D1=80=D1=82=D0=BE=D0=
+=B2, =D0=BD=D0=B0=D0=BF=D0=BE=D0=B4=D0=BE=D0=B1=D0=B8=D0=B5 =D0=BC=D0=BE=D0=
+=B4=D1=83=D0=BB=D0=B5=D0=B9, =D1=81=D1=82=D1=80=D0=B5=D0=BB=D0=BE=D1=87=D0=
+=BD=D1=8B=D1=85 =D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D0=B9, =D0=BA=D0=BB=D0=
+=B0=D1=81=D1=81=D0=BE=D0=B2, =D0=BE=D0=BF=D0=B5=D1=80=D0=B0=D1=82=D0=BE=D1=
+=80=D0=B0 spread, =D0=B4=D0=B5=D1=81=D1=82=D1=80=D1=83=D0=BA=D1=82=D1=83=D1=
+=80=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F, =D0=B8 =D0=B2=D1=8B=D0=
+=BF=D0=BE=D0=BB=D0=BD=D1=8F=D1=82=D1=8C =D1=82=D0=BE, =D1=87=D1=82=D0=BE =
+=D1=83 =D0=BD=D0=B5=D0=B3=D0=BE =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B0=D0=B5=
+=D1=82=D1=81=D1=8F, =D0=B2 =D1=81=D1=83=D1=89=D0=B5=D1=81=D1=82=D0=B2=D1=83=
+=D1=8E=D1=89=D0=B8=D1=85 =D1=81=D1=80=D0=B5=D0=B4=D0=B0=D1=85, =D0=BA=D0=BE=
+=D1=82=D0=BE=D1=80=D1=8B=D0=B5 =D0=BF=D0=BE=D0=BA=D0=B0 =D1=8D=D1=82=D0=B8=
+=D1=85 =D1=81=D1=82=D0=B0=D0=BD=D0=B4=D0=B0=D1=80=D1=82=D0=BE=D0=B2 =D0=BD=
+=D0=B5 =D0=BF=D0=BE=D0=B4=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D0=B2=D0=B0=D1=8E=
+=D1=82.</li>
+<li>TypeScript =E2=80=93 =D1=8D=D1=82=D0=BE =D0=BD=D0=B0=D0=B4=D1=81=D1=82=
+=D1=80=D0=BE=D0=B9=D0=BA=D0=B0 =D0=BD=D0=B0=D0=B4 JavaScript. =D0=9A=D0=BE=
+=D0=B4, =D0=BD=D0=B0=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9 =D0=BD=
+=D0=B0 =D1=87=D0=B8=D1=81=D1=82=D0=BE=D0=BC JavaScript, =D1=8F=D0=B2=D0=BB=
+=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=
+=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D0=BC TypeScript-=D0=BA=D0=BE=D0=B4=D0=
+=BE=D0=BC.</li>
+<li>TypeScript =D1=80=D0=B0=D1=81=D1=88=D0=B8=D1=80=D1=8F=D0=B5=D1=82 JavaS=
+cript =D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=D0=B6=D0=BD=D0=BE=D1=81=D1=82=D1=8C=D1=
+=8E =D1=81=D1=82=D0=B0=D1=82=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=BE=D0=B3=D0=
+=BE =D0=BD=D0=B0=D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D1=8F =D1=82=D0=
+=B8=D0=BF=D0=BE=D0=B2. =D0=A1=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D0=B0 =D1=82=D0=
+=B8=D0=BF=D0=BE=D0=B2 TS =D0=BE=D1=82=D0=BB=D0=B8=D1=87=D0=B0=D0=B5=D1=82=
+=D1=81=D1=8F =D0=B4=D0=BE=D0=B2=D0=BE=D0=BB=D1=8C=D0=BD=D0=BE =D0=BE=D0=B1=
+=D1=88=D0=B8=D1=80=D0=BD=D1=8B=D0=BC=D0=B8 =D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=
+=D0=B6=D0=BD=D0=BE=D1=81=D1=82=D1=8F=D0=BC=D0=B8. =D0=90 =D0=B8=D0=BC=D0=B5=
+=D0=BD=D0=BD=D0=BE, =D0=BE=D0=BD=D0=B0 =D0=B2=D0=BA=D0=BB=D1=8E=D1=87=D0=B0=
+=D0=B5=D1=82 =D0=B2 =D1=81=D0=B5=D0=B1=D1=8F =D0=B8=D0=BD=D1=82=D0=B5=D1=80=
+=D1=84=D0=B5=D0=B9=D1=81=D1=8B, =D0=BF=D0=B5=D1=80=D0=B5=D1=87=D0=B8=D1=81=
+=D0=BB=D0=B5=D0=BD=D0=B8=D1=8F, =D0=B3=D0=B8=D0=B1=D1=80=D0=B8=D0=B4=D0=BD=
+=D1=8B=D0=B5 =D1=82=D0=B8=D0=BF=D1=8B, =D0=BE=D0=B1=D0=BE=D0=B1=D1=89=D1=91=
+=D0=BD=D0=BD=D1=8B=D0=B5 =D1=82=D0=B8=D0=BF=D1=8B (generics), =D1=82=D0=B8=
+=D0=BF=D1=8B-=D0=BE=D0=B1=D1=8A=D0=B5=D0=B4=D0=B8=D0=BD=D0=B5=D0=BD=D0=B8=
+=D1=8F =D0=B8 =D1=82=D0=B8=D0=BF=D1=8B-=D0=BF=D0=B5=D1=80=D0=B5=D1=81=D0=B5=
+=D1=87=D0=B5=D0=BD=D0=B8=D1=8F, =D0=BC=D0=BE=D0=B4=D0=B8=D1=84=D0=B8=D0=BA=
+=D0=B0=D1=82=D0=BE=D1=80=D1=8B =D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=B0 =
+=D0=B8 =D0=BC=D0=BD=D0=BE=D0=B3=D0=BE=D0=B5 =D0=B4=D1=80=D1=83=D0=B3=D0=BE=
+=D0=B5. =D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=B8=D0=B5 TypeSc=
+ript, =D0=BA=D1=80=D0=BE=D0=BC=D0=B5 =D1=82=D0=BE=D0=B3=D0=BE, =D0=BD=D0=B5=
+=D0=BC=D0=BD=D0=BE=D0=B3=D0=BE =D1=83=D0=BF=D1=80=D0=BE=D1=89=D0=B0=D0=B5=
+=D1=82 =D1=80=D0=B0=D0=B1=D0=BE=D1=82=D1=83 =D0=B7=D0=B0 =D1=81=D1=87=D1=91=
+=D1=82 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=
+=D0=B8=D1=8F =D0=B2=D1=8B=D0=B2=D0=BE=D0=B4=D0=B0 =D1=82=D0=B8=D0=BF=D0=BE=
+=D0=B2.</li>
+<li>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=B8=D0=B5 TypeScript=
+, =D0=B2 =D1=81=D1=80=D0=B0=D0=B2=D0=BD=D0=B5=D0=BD=D0=B8=D0=B8 =D1=81 Java=
+Script, =D0=B7=D0=BD=D0=B0=D1=87=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE =
+=D1=83=D0=BB=D1=83=D1=87=D1=88=D0=B0=D0=B5=D1=82 =D0=BF=D1=80=D0=BE=D1=86=
+=D0=B5=D1=81=D1=81 =D1=80=D0=B0=D0=B7=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=
+=D0=B8. =D0=94=D0=B5=D0=BB=D0=BE =D0=B2 =D1=82=D0=BE=D0=BC, =D1=87=D1=82=D0=
+=BE IDE, =D0=B2 =D1=80=D0=B5=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE=D0=BC =D0=B2=D1=
+=80=D0=B5=D0=BC=D0=B5=D0=BD=D0=B8, =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B0=D0=
+=B5=D1=82 =D1=81=D0=B2=D0=B5=D0=B4=D0=B5=D0=BD=D0=B8=D1=8F =D0=BE =D1=82=D0=
+=B8=D0=BF=D0=B0=D1=85 =D0=BE=D1=82 TS-=D0=BA=D0=BE=D0=BC=D0=BF=D0=B8=D0=BB=
+=D1=8F=D1=82=D0=BE=D1=80=D0=B0.</li>
+<li>=D0=9F=D1=80=D0=B8 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=
+=B2=D0=B0=D0=BD=D0=B8=D0=B8 =D1=80=D0=B5=D0=B6=D0=B8=D0=BC=D0=B0 =D1=81=D1=
+=82=D1=80=D0=BE=D0=B3=D0=BE=D0=B9 =D0=BF=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=
+=BA=D0=B8 =D0=BD=D0=B0<span>&nbsp;</span><code>null</code><span>&nbsp;</spa=
+n>(=D0=B4=D0=BB=D1=8F =D1=8D=D1=82=D0=BE=D0=B3=D0=BE =D0=BF=D1=80=D0=B8=D0=
+=BC=D0=B5=D0=BD=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D1=84=D0=BB=D0=B0=D0=B3 =D0=
+=BA=D0=BE=D0=BC=D0=BF=D0=B8=D0=BB=D1=8F=D1=82=D0=BE=D1=80=D0=B0<span>&nbsp;=
+</span><code>--strictNullChecks</code>), =D0=BA=D0=BE=D0=BC=D0=BF=D0=B8=D0=
+=BB=D1=8F=D1=82=D0=BE=D1=80 TypeScript =D0=BD=D0=B5 =D1=80=D0=B0=D0=B7=D1=
+=80=D0=B5=D1=88=D0=B0=D0=B5=D1=82 =D0=BF=D1=80=D0=B8=D1=81=D0=B2=D0=BE=D0=
+=B5=D0=BD=D0=B8=D0=B5<span>&nbsp;</span><code>null</code><span>&nbsp;</span=
+>=D0=B8<span>&nbsp;</span><code>undefined</code><span>&nbsp;</span>=D0=BF=
+=D0=B5=D1=80=D0=B5=D0=BC=D0=B5=D0=BD=D0=BD=D1=8B=D0=BC =D1=82=D0=B5=D1=85 =
+=D1=82=D0=B8=D0=BF=D0=BE=D0=B2, =D0=B2 =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=
+=D1=85, =D0=B2 =D1=82=D0=B0=D0=BA=D0=BE=D0=BC =D1=80=D0=B5=D0=B6=D0=B8=D0=
+=BC=D0=B5, =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=
+=BD=D0=B8=D0=B5 =D1=8D=D1=82=D0=B8=D1=85 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=
+=BD=D0=B8=D0=B9 =D0=BD=D0=B5 =D0=B4=D0=BE=D0=BF=D1=83=D1=81=D0=BA=D0=B0=D0=
+=B5=D1=82=D1=81=D1=8F.</li>
+<li>=D0=94=D0=BB=D1=8F =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=
+=B2=D0=B0=D0=BD=D0=B8=D1=8F TypeScript =D0=BD=D1=83=D0=B6=D0=BD=D0=BE =D0=
+=BE=D1=80=D0=B3=D0=B0=D0=BD=D0=B8=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=
+=BF=D1=80=D0=BE=D1=86=D0=B5=D1=81=D1=81 =D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=
+=B8 =D0=BF=D1=80=D0=BE=D0=B5=D0=BA=D1=82=D0=B0, =D0=B2=D0=BA=D0=BB=D1=8E=D1=
+=87=D0=B0=D1=8E=D1=89=D0=B8=D0=B9 =D0=B2 =D1=81=D0=B5=D0=B1=D1=8F =D1=8D=D1=
+=82=D0=B0=D0=BF =D0=BA=D0=BE=D0=BC=D0=BF=D0=B8=D0=BB=D1=8F=D1=86=D0=B8=D0=
+=B8 TS-=D0=BA=D0=BE=D0=B4=D0=B0 =D0=B2 JavaScript. =D0=9A=D0=BE=D0=BC=D0=BF=
+=D0=B8=D0=BB=D1=8F=D1=82=D0=BE=D1=80 =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=B2=
+=D1=81=D1=82=D1=80=D0=BE=D0=B8=D1=82=D1=8C =D0=BA=D0=B0=D1=80=D1=82=D1=83 =
+=D0=BA=D0=BE=D0=B4=D0=B0 (source map) =D0=B2 =D1=81=D0=B3=D0=B5=D0=BD=D0=B5=
+=D1=80=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=BD=D1=8B=D0=B5 =D0=B8=D0=BC J=
+S-=D1=84=D0=B0=D0=B9=D0=BB=D1=8B, =D0=B8=D0=BB=D0=B8 =D1=81=D0=BE=D0=B7=D0=
+=B4=D0=B0=D0=B2=D0=B0=D1=82=D1=8C =D0=BE=D1=82=D0=B4=D0=B5=D0=BB=D1=8C=D0=
+=BD=D1=8B=D0=B5 .map-=D1=84=D0=B0=D0=B9=D0=BB=D1=8B. =D0=AD=D1=82=D0=BE =D0=
+=BF=D0=BE=D0=B7=D0=B2=D0=BE=D0=BB=D1=8F=D0=B5=D1=82 =D1=83=D1=81=D1=82=D0=
+=B0=D0=BD=D0=B0=D0=B2=D0=BB=D0=B8=D0=B2=D0=B0=D1=82=D1=8C =D1=82=D0=BE=D1=
+=87=D0=BA=D0=B8 =D0=BE=D1=81=D1=82=D0=B0=D0=BD=D0=BE=D0=B2=D0=B0 =D0=B8 =D0=
+=B8=D1=81=D1=81=D0=BB=D0=B5=D0=B4=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=B7=D0=
+=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D1=8F =D0=BF=D0=B5=D1=80=D0=B5=D0=BC=D0=
+=B5=D0=BD=D0=BD=D1=8B=D1=85 =D0=B2=D0=BE =D0=B2=D1=80=D0=B5=D0=BC=D1=8F =D0=
+=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B5=D0=BD=D0=B8=D1=8F =D0=BF=D1=80=D0=
+=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC, =D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=B0=D1=
+=8F =D0=BD=D0=B5=D0=BF=D0=BE=D1=81=D1=80=D0=B5=D0=B4=D1=81=D1=82=D0=B2=D0=
+=B5=D0=BD=D0=BD=D0=BE =D1=81 TypeScript-=D0=BA=D0=BE=D0=B4=D0=BE=D0=BC.</li=
+>
+<li>TypeScript =E2=80=94 =D1=8D=D1=82=D0=BE<span>&nbsp;</span><a style=3D"t=
+ext-decoration: none;" href=3D"https://github.com/Microsoft/TypeScript" cla=
+ss=3D"external-link" rel=3D"nofollow">=D0=BE=D0=BF=D0=B5=D0=BD=D1=81=D0=BE=
+=D1=80=D1=81=D0=BD=D1=8B=D0=B9</a><span>&nbsp;</span>=D0=BF=D1=80=D0=BE=D0=
+=B5=D0=BA=D1=82 Microsoft, =D0=B2=D1=8B=D0=BF=D1=83=D1=89=D0=B5=D0=BD=D0=BD=
+=D1=8B=D0=B9 =D0=BF=D0=BE=D0=B4 =D0=BB=D0=B8=D1=86=D0=B5=D0=BD=D0=B7=D0=B8=
+=D0=B5=D0=B9 Apache 2. =D0=98=D0=BD=D0=B8=D1=86=D0=B8=D0=B0=D1=82=D0=BE=D1=
+=80=D0=BE=D0=BC =D1=80=D0=B0=D0=B7=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=
+=B8 TypeScript =D1=8F=D0=B2=D0=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=90=D0=
+=BD=D0=B4=D0=B5=D1=80=D1=81 =D0=A5=D0=B5=D0=B9=D0=BB=D1=81=D0=B1=D0=B5=D1=
+=80=D0=B3. =D0=9E=D0=BD =D0=BF=D1=80=D0=B8=D1=87=D0=B0=D1=81=D1=82=D0=B5=D0=
+=BD =D0=BA =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD=D0=B8=D1=8E Turbo Pascal, D=
+elphi =D0=B8 C#.</li>
+</ul>
+<p>=D0=94=D0=B5=D0=BB=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE <a href=3D"https://stac=
+koverflow.com/questions/12694530/what-is-typescript-and-why-would-i-use-it-=
+in-place-of-javascript" class=3D"external-link" rel=3D"nofollow">=D1=82=D1=
+=83=D1=82</a></p>
+</div>
+</div>
+<div id=3D"expander-804230610" class=3D"expand-container">
+<div id=3D"expander-control-804230610" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 =D0=B4=D0=B5=D0=BA=D0=BE=D1=80=D0=B0=D1=82=D0=BE=D1=
+=80 =D0=B8 =D0=BA=D0=B0=D0=BA=D0=B8=D0=B5 =D0=B2=D0=B8=D0=B4=D1=8B =D0=B4=
+=D0=B5=D0=BA=D0=BE=D1=80=D0=B0=D1=82=D0=BE=D1=80=D0=BE=D0=B2 =D0=B2=D1=8B =
+=D0=B7=D0=BD=D0=B0=D0=B5=D1=82=D0=B5?</span>
+</div>
+<div id=3D"expander-content-804230610" class=3D"expand-content">
+<p>=D0=94=D0=B5=D0=BA=D0=BE=D1=80=D0=B0=D1=82=D0=BE=D1=80 =E2=80=94 =D1=81=
+=D0=BF=D0=BE=D1=81=D0=BE=D0=B1 =D0=B4=D0=BE=D0=B1=D0=B0=D0=B2=D0=BB=D0=B5=
+=D0=BD=D0=B8=D1=8F =D0=BC=D0=B5=D1=82=D0=B0=D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=
+=D1=85 =D0=BA =D0=BE=D0=B1=D1=8A=D1=8F=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D1=8E =
+=D0=BA=D0=BB=D0=B0=D1=81=D1=81=D0=B0. =D0=AD=D1=82=D0=BE =D1=81=D0=BF=D0=B5=
+=D1=86=D0=B8=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9 =D0=B2=D0=B8=D0=B4 =D0=BE=
+=D0=B1=D1=8A=D1=8F=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D1=8F, =D0=BA=D0=BE=D1=82=
+=D0=BE=D1=80=D1=8B=D0=B9 =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=B1=D1=8B=D1=82=
+=D1=8C =D0=BF=D1=80=D0=B8=D1=81=D0=BE=D0=B5=D0=B4=D0=B8=D0=BD=D0=B5=D0=BD =
+=D0=BA =D0=BE=D0=B1=D1=8A=D1=8F=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D1=8E =D0=BA=
+=D0=BB=D0=B0=D1=81=D1=81=D0=B0, =D0=BC=D0=B5=D1=82=D0=BE=D0=B4=D1=83, =D0=
+=BC=D0=B5=D1=82=D0=BE=D0=B4=D1=83 =D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=
+=B0, =D1=81=D0=B2=D0=BE=D0=B9=D1=81=D1=82=D0=B2=D1=83 =D0=B8=D0=BB=D0=B8 =
+=D0=BF=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=80=D1=83.<br><br>=D0=94=D0=B5=
+=D0=BA=D0=BE=D1=80=D0=B0=D1=82=D0=BE=D1=80=D1=8B =D0=B8=D1=81=D0=BF=D0=BE=
+=D0=BB=D1=8C=D0=B7=D1=83=D1=8E=D1=82 =D1=84=D0=BE=D1=80=D0=BC=D1=83 @expres=
+sion, =D0=B3=D0=B4=D0=B5 expression - =D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=
+=D1=8F, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=B0=D1=8F =D0=B1=D1=83=D0=B4=D0=B5=
+=D1=82 =D0=B2=D1=8B=D0=B7=D1=8B=D0=B2=D0=B0=D1=82=D1=8C=D1=81=D1=8F =D0=B2=
+=D0=BE =D0=B2=D1=80=D0=B5=D0=BC=D1=8F =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=
+=D0=B5=D0=BD=D0=B8=D1=8F =D1=81 =D0=B8=D0=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=
+=D1=86=D0=B8=D0=B5=D0=B9 =D0=BE =D0=B4=D0=B5=D0=BA=D0=BE=D1=80=D0=B8=D1=80=
+=D0=BE=D0=B2=D0=B0=D0=BD=D0=BD=D0=BE=D0=BC =D0=BE=D0=B1=D1=8A=D1=8F=D0=B2=
+=D0=BB=D0=B5=D0=BD=D0=B8=D0=B8.<br><br>=D0=98, =D1=87=D1=82=D0=BE=D0=B1=D1=
+=8B =D0=BD=D0=B0=D0=BF=D0=B8=D1=81=D0=B0=D1=82=D1=8C =D1=81=D0=BE=D0=B1=D1=
+=81=D1=82=D0=B2=D0=B5=D0=BD=D0=BD=D1=8B=D0=B9 =D0=B4=D0=B5=D0=BA=D0=BE=D1=
+=80=D0=B0=D1=82=D0=BE=D1=80, =D0=BD=D0=B0=D0=BC =D0=BD=D1=83=D0=B6=D0=BD=D0=
+=BE =D1=81=D0=B4=D0=B5=D0=BB=D0=B0=D1=82=D1=8C =D0=B5=D0=B3=D0=BE factory =
+=D0=B8 =D0=BE=D0=BF=D1=80=D0=B5=D0=B4=D0=B5=D0=BB=D0=B8=D1=82=D1=8C =D1=82=
+=D0=B8=D0=BF:</p>
+<ul>
+<li>ClassDecorator</li>
+<li>PropertyDecorator</li>
+<li>MethodDecorator</li>
+<li>ParameterDecorator</li>
+</ul>
+</div>
+</div>
+<div id=3D"expander-1564605626" class=3D"expand-container">
+<div id=3D"expander-control-1564605626" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A0=D0=B0=D1=81=D1=81=D0=
+=BA=D0=B0=D0=B6=D0=B8=D1=82=D0=B5 =D0=BE=D0=B1 Generic =D1=82=D0=B8=D0=BF=
+=D0=B0=D1=85 =D0=B2 TypeScript =D0=B8 =D0=B7=D0=B0=D1=87=D0=B5=D0=BC =D0=BE=
+=D0=BD=D0=B8 =D0=BD=D1=83=D0=B6=D0=BD=D1=8B.</span>
+</div>
+<div id=3D"expander-content-1564605626" class=3D"expand-content">
+<p><span style=3D"color: rgb(34,34,34);">=D0=9E=D0=B1=D0=BE=D0=B1=D1=89=D1=
+=91=D0=BD=D0=BD=D1=8B=D0=B5 =D1=82=D0=B8=D0=BF=D1=8B (generics) =D0=BF=D0=
+=BE=D0=B7=D0=B2=D0=BE=D0=BB=D1=8F=D1=8E=D1=82 =D1=81=D0=BE=D0=B7=D0=B4=D0=
+=B0=D0=B2=D0=B0=D1=82=D1=8C =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=
+=BD=D1=82=D1=8B =D0=B8=D0=BB=D0=B8 =D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D0=
+=B8, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B5 =D0=BC=D0=BE=D0=B3=D1=83=D1=
+=82 =D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=B0=D1=82=D1=8C =D1=81 =D1=80=D0=B0=D0=
+=B7=D0=BB=D0=B8=D1=87=D0=BD=D1=8B=D0=BC=D0=B8 =D1=82=D0=B8=D0=BF=D0=B0=D0=
+=BC=D0=B8, =D0=B0 =D0=BD=D0=B5 =D1=81 =D0=BA=D0=B0=D0=BA=D0=B8=D0=BC-=D1=82=
+=D0=BE =D0=BE=D0=B4=D0=BD=D0=B8=D0=BC. <br>=D0=A0=D0=B0=D1=81=D1=81=D0=BC=
+=D0=BE=D1=82=D1=80=D0=B8=D0=BC =D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D1=80:</span>=
+</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: js; gutter: false; theme: Confluence" data-theme=3D"Confluence">/** =D0=
+=9E=D0=B1=D1=8A=D1=8F=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BA=D0=BB=D0=
+=B0=D1=81=D1=81=D0=B0 =D1=81 =D0=BF=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=
+=80=D0=BE=D0=BC =D0=BE=D0=B1=D0=BE=D0=B1=D1=89=D1=91=D0=BD=D0=BD=D0=BE=D0=
+=B3=D0=BE =D1=82=D0=B8=D0=BF=D0=B0 */
+class Queue&lt;t&gt; {
+  private data =3D [];
+  push =3D (item: T) =3D&gt; this.data.push(item);
+  pop =3D (): T =3D&gt; this.data.shift();
+}
+
+const queue =3D new Queue&lt;number&gt;();
+queue.push(0);
+queue.push("1"); // =D0=9E=D1=88=D0=B8=D0=B1=D0=BA=D0=B0 : =D0=B2 =D1=82=D0=
+=B0=D0=BA=D1=83=D1=8E =D0=BE=D1=87=D0=B5=D1=80=D0=B5=D0=B4=D1=8C =D0=BD=D0=
+=B5=D0=BB=D1=8C=D0=B7=D1=8F =D0=B4=D0=BE=D0=B1=D0=B0=D0=B2=D0=B8=D1=82=D1=
+=8C =D1=81=D1=82=D1=80=D0=BE=D0=BA=D1=83, =D1=82=D1=83=D1=82 =D1=80=D0=B0=
+=D0=B7=D1=80=D0=B5=D1=88=D0=B5=D0=BD=D0=BE =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=
+=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=BB=D0=B8=D1=88=D1=8C =D1=87=
+=D0=B8=D1=81=D0=BB=D0=B0</pre>=20
+</div>
+</div>
+</div>
+</div>
+<div id=3D"expander-1565612338" class=3D"expand-container">
+<div id=3D"expander-control-1565612338" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=9A=D0=B0=D0=BA=D0=B8=D0=
+=B5 =D0=BF=D1=80=D0=B8=D0=BD=D1=86=D0=B8=D0=BF=D1=8B =D0=9E=D0=9E=D0=9F =D0=
+=BF=D0=BE=D0=B4=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D0=B2=D0=B0=D0=B5=D1=82 TypeS=
+cript?</span>
+</div>
+<div id=3D"expander-content-1565612338" class=3D"expand-content">
+<p><span style=3D"color: rgb(34,34,34);">=D0=94=D0=B0, =D0=BF=D0=BE=D0=B4=
+=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D0=B2=D0=B0=D0=B5=D1=82. =D0=A1=D1=83=D1=89=
+=D0=B5=D1=81=D1=82=D0=B2=D1=83=D1=8E=D1=82 =D1=87=D0=B5=D1=82=D1=8B=D1=80=
+=D0=B5 =D0=BE=D1=81=D0=BD=D0=BE=D0=B2=D0=BD=D1=8B=D1=85 =D0=BF=D1=80=D0=B8=
+=D0=BD=D1=86=D0=B8=D0=BF=D0=B0 =D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=D1=82=D0=BD=
+=D0=BE-=D0=BE=D1=80=D0=B8=D0=B5=D0=BD=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=
+=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D0=BF=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=
+=D0=BC=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F:</span><br><br></p>
+<ul>
+<li>=D0=98=D0=BD=D0=BA=D0=B0=D0=BF=D1=81=D1=83=D0=BB=D1=8F=D1=86=D0=B8=D1=
+=8F</li>
+<li>=D0=9D=D0=B0=D1=81=D0=BB=D0=B5=D0=B4=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=
+=B5</li>
+<li>=D0=90=D0=B1=D1=81=D1=82=D1=80=D0=B0=D0=BA=D1=86=D0=B8=D1=8F</li>
+<li>=D0=9F=D0=BE=D0=BB=D0=B8=D0=BC=D0=BE=D1=80=D1=84=D0=B8=D0=B7=D0=BC</li>
+</ul>
+<p><br><span style=3D"color: rgb(34,34,34);">=D0=9F=D0=BE=D0=BB=D1=8C=D0=B7=
+=D1=83=D1=8F=D1=81=D1=8C =D0=BF=D1=80=D0=BE=D1=81=D1=82=D1=8B=D0=BC=D0=B8 =
+=D0=B8 =D0=BF=D0=BE=D0=BD=D1=8F=D1=82=D0=BD=D1=8B=D0=BC=D0=B8 =D1=81=D1=80=
+=D0=B5=D0=B4=D1=81=D1=82=D0=B2=D0=B0=D0=BC=D0=B8 TypeScript, =D0=BC=D0=BE=
+=D0=B6=D0=BD=D0=BE =D1=80=D0=B5=D0=B0=D0=BB=D0=B8=D0=B7=D0=BE=D0=B2=D0=B0=
+=D1=82=D1=8C =D0=B2=D1=81=D0=B5 =D1=8D=D1=82=D0=B8 =D0=BF=D1=80=D0=B8=D0=BD=
+=D1=86=D0=B8=D0=BF=D1=8B.</span></p>
+</div>
+</div>
+<div id=3D"expander-385502498" class=3D"expand-container">
+<div id=3D"expander-control-385502498" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D0=BF=D1=
+=80=D0=B5=D0=B4=D1=81=D1=82=D0=B0=D0=B2=D0=BB=D1=8F=D1=8E=D1=82 =D1=81=D0=
+=BE=D0=B1=D0=BE=D0=B9 .map-=D1=84=D0=B0=D0=B9=D0=BB=D1=8B =D0=B2 TypeScript=
+?</span>
+</div>
+<div id=3D"expander-content-385502498" class=3D"expand-content">
+<p><span style=3D"color: rgb(34,34,34);">=D0=A4=D0=B0=D0=B9=D0=BB=D1=8B =D1=
+=81 =D1=80=D0=B0=D1=81=D1=88=D0=B8=D1=80=D0=B5=D0=BD=D0=B8=D0=B5=D0=BC .map=
+ =D1=85=D1=80=D0=B0=D0=BD=D1=8F=D1=82 =D0=BA=D0=B0=D1=80=D1=82=D1=8B =D0=BA=
+=D0=BE=D0=B4=D0=B0 (source map), =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B5=
+ =D1=81=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B0=D1=82 =D0=B4=D0=B0=D0=BD=D0=BD=
+=D1=8B=D0=B5 =D0=BE =D1=81=D0=BE=D0=BE=D1=82=D0=B2=D0=B5=D1=82=D1=81=D1=82=
+=D0=B2=D0=B8=D0=B8 =D0=BA=D0=BE=D0=B4=D0=B0, =D0=BD=D0=B0=D0=BF=D0=B8=D1=81=
+=D0=B0=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D0=BD=D0=B0 TypeScript, JavaScript-=
+=D0=BA=D0=BE=D0=B4=D1=83, =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD=D0=BD=D0=BE=
+=D0=BC=D1=83 =D0=BD=D0=B0 =D0=B5=D0=B3=D0=BE =D0=BE=D1=81=D0=BD=D0=BE=D0=B2=
+=D0=B5. =D0=A1 =D1=8D=D1=82=D0=B8=D0=BC =D1=84=D0=B0=D0=B9=D0=BB=D0=B0=D0=
+=BC=D0=B8 =D0=BC=D0=BE=D0=B3=D1=83=D1=82 =D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=
+=B0=D1=82=D1=8C =D0=BC=D0=BD=D0=BE=D0=B3=D0=B8=D0=B5 =D0=BE=D1=82=D0=BB=D0=
+=B0=D0=B4=D1=87=D0=B8=D0=BA=D0=B8 (=D0=BD=D0=B0=D0=BF=D1=80=D0=B8=D0=BC=D0=
+=B5=D1=80 =E2=80=94 Visual Studio =D0=B8 =D0=B8=D0=BD=D1=81=D1=82=D1=80=D1=
+=83=D0=BC=D0=B5=D0=BD=D1=82=D1=8B =D1=80=D0=B0=D0=B7=D1=80=D0=B0=D0=B1=D0=
+=BE=D1=82=D1=87=D0=B8=D0=BA=D0=B0 Chrome). =D0=AD=D1=82=D0=BE =D0=BF=D0=BE=
+=D0=B7=D0=B2=D0=BE=D0=BB=D1=8F=D0=B5=D1=82, =D0=B2 =D1=85=D0=BE=D0=B4=D0=B5=
+ =D0=BE=D1=82=D0=BB=D0=B0=D0=B4=D0=BA=D0=B8, =D1=80=D0=B0=D0=B1=D0=BE=D1=82=
+=D0=B0=D1=82=D1=8C =D1=81 =D0=B8=D1=81=D1=85=D0=BE=D0=B4=D0=BD=D1=8B=D0=BC =
+=D0=BA=D0=BE=D0=B4=D0=BE=D0=BC =D0=BF=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=
+=D0=BC =D0=BD=D0=B0 TypeScript, =D0=B0 =D0=BD=D0=B5 =D1=81 =D0=B8=D1=85 JS-=
+=D1=8D=D0=BA=D0=B2=D0=B8=D0=B2=D0=B0=D0=BB=D0=B5=D0=BD=D1=82=D0=B0=D0=BC=D0=
+=B8.</span></p>
+</div>
+</div>
+<div id=3D"expander-1798852276" class=3D"expand-container">
+<div id=3D"expander-control-1798852276" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 =D0=B3=D0=B5=D1=82=D1=82=D0=B5=D1=80=D1=8B =D0=B8 =D1=
+=81=D0=B5=D1=82=D1=82=D0=B5=D1=80=D1=8B =D0=B2 TypeScript?</span>
+</div>
+<div id=3D"expander-content-1798852276" class=3D"expand-content">
+<p><span style=3D"color: rgb(34,34,34);">TypeScript =D0=BF=D0=BE=D0=B4=D0=
+=B4=D0=B5=D1=80=D0=B6=D0=B8=D0=B2=D0=B0=D0=B5=D1=82 =D0=B3=D0=B5=D1=82=D1=
+=82=D0=B5=D1=80=D1=8B =D0=B8 =D1=81=D0=B5=D1=82=D1=82=D0=B5=D1=80=D1=8B, =
+=D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B5 =D0=BF=D0=BE=D0=B7=D0=B2=D0=BE=
+=D0=BB=D1=8F=D1=8E=D1=82 =D1=83=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D1=8F=D1=82=
+=D1=8C =D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=BE=D0=BC =D0=BA =D1=87=D0=BB=
+=D0=B5=D0=BD=D0=B0=D0=BC =D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=D1=82=D0=BE=D0=B2. =
+=D0=9E=D0=BD=D0=B8 =D0=B4=D0=B0=D1=8E=D1=82 =D1=80=D0=B0=D0=B7=D1=80=D0=B0=
+=D0=B1=D0=BE=D1=82=D1=87=D0=B8=D0=BA=D1=83 =D1=81=D1=80=D0=B5=D0=B4=D1=81=
+=D1=82=D0=B2=D0=B0 =D0=BA=D0=BE=D0=BD=D1=82=D1=80=D0=BE=D0=BB=D1=8F =D0=BD=
+=D0=B0=D0=B4 =D1=87=D1=82=D0=B5=D0=BD=D0=B8=D0=B5=D0=BC =D0=B8 =D0=B7=D0=B0=
+=D0=BF=D0=B8=D1=81=D1=8C=D1=8E =D1=81=D0=B2=D0=BE=D0=B9=D1=81=D1=82=D0=B2 =
+=D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=D1=82=D0=BE=D0=B2.</span></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: js; gutter: false; theme: Confluence" data-theme=3D"Confluence">class foo=
+ {
+ &nbsp;private _bar:boolean =3D false;
+
+ &nbsp;get bar():boolean {
+ &nbsp;&nbsp;&nbsp;return this._bar;
+ &nbsp;}
+ &nbsp;set bar(theBar:boolean) {
+ &nbsp;&nbsp;&nbsp;this._bar =3D theBar;
+ &nbsp;}
+}
+
+var myBar =3D myFoo.bar; &nbsp;// =D0=B7=D0=B4=D0=B5=D1=81=D1=8C =D0=B2=D1=
+=8B=D0=B7=D1=8B=D0=B2=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=B3=D0=B5=D1=82=D1=
+=82=D0=B5=D1=80
+myFoo.bar =3D true; &nbsp;// =D0=B7=D0=B4=D0=B5=D1=81=D1=8C =D0=B2=D1=8B=D0=
+=B7=D1=8B=D0=B2=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D1=81=D0=B5=D1=82=D1=82=D0=
+=B5=D1=80</pre>=20
+</div>
+</div>
+<pre class=3D"auto-cursor-target"><br></pre>
+</div>
+</div>
+<div id=3D"expander-485060419" class=3D"expand-container">
+<div id=3D"expander-control-485060419" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=9C=D0=BE=D0=B6=D0=BD=D0=
+=BE =D0=BB=D0=B8 =D0=B2 TypeScript =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=
+=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D1=81=D1=82=D1=80=D0=BE=D0=B3=D0=BE =D1=
+=82=D0=B8=D0=BF=D0=B8=D0=B7=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=BD=D1=8B=
+=D0=B5 =D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D0=B8 =D0=B2 =D0=BA=D0=B0=D1=87=
+=D0=B5=D1=81=D1=82=D0=B2=D0=B5 =D0=BF=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=
+=D1=80=D0=BE=D0=B2?</span>
+</div>
+<div id=3D"expander-content-485060419" class=3D"expand-content">
+<p>=D0=94=D0=B0, =D0=BC=D0=BE=D0=B6=D0=BD=D0=BE.</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: js; gutter: false; theme: Confluence" data-theme=3D"Confluence">type Numb=
+erCallback =3D (n: number) =3D&gt; any;
+
+class Foo {
+    // =D0=AD=D0=BA=D0=B2=D0=B8=D0=B2=D0=B0=D0=BB=D0=B5=D0=BD=D1=82
+    save(callback: NumberCallback): void {
+        console.log(1)
+        callback(42);
+    }
+}
+
+var numCallback: NumberCallback =3D (result: number) : void =3D&gt; {
+    console.log("numCallback: ", result.toString());
+}
+
+var foo =3D new Foo();
+foo.save(numCallback)</pre>=20
+</div>
+</div>
+</div>
+</div>
+<div id=3D"expander-1409545477" class=3D"expand-container">
+<div id=3D"expander-control-1409545477" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D0=B5=D0=BC =D1=80=D0=
+=B0=D0=B7=D0=BB=D0=B8=D1=87=D0=B0=D1=8E=D1=82=D1=81=D1=8F =D0=BA=D0=BB=D1=
+=8E=D1=87=D0=B5=D0=B2=D1=8B=D0=B5 =D1=81=D0=BB=D0=BE=D0=B2=D0=B0 interface =
+=D0=B8 type =D0=B2 TypeScript?</span>
+</div>
+<div id=3D"expander-content-1409545477" class=3D"expand-content">
+<p><span style=3D"color: rgb(34,34,34);">=D0=92=D0=BE=D1=82 =D0=BF=D1=80=D0=
+=B8=D0=BC=D0=B5=D1=80=D1=8B =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=
+=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D1=8D=D1=82=D0=B8=D1=85 =D0=BA=D0=BB=D1=
+=8E=D1=87=D0=B5=D0=B2=D1=8B=D1=85 =D1=81=D0=BB=D0=BE=D0=B2:</span></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: js; gutter: false; theme: Confluence" data-theme=3D"Confluence">interface=
+ X {
+ &nbsp;&nbsp;&nbsp;a: number
+ &nbsp;&nbsp;&nbsp;b: string
+}
+
+type X =3D {
+ &nbsp;&nbsp;&nbsp;a: number
+ &nbsp;&nbsp;&nbsp;b: string
+};</pre>=20
+</div>
+</div>
+<p><br><span style=3D"color: rgb(34,34,34);">=D0=92 =D0=BE=D1=82=D0=BB=D0=
+=B8=D1=87=D0=B8=D0=B5 =D0=BE=D1=82 =D0=BE=D0=B1=D1=8A=D1=8F=D0=B2=D0=BB=D0=
+=B5=D0=BD=D0=B8=D1=8F =D0=B8=D0=BD=D1=82=D0=B5=D1=80=D1=84=D0=B5=D0=B9=D1=
+=81=D0=B0, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=B5 =D0=B2=D1=81=D0=B5=D0=
+=B3=D0=B4=D0=B0 =D0=BF=D1=80=D0=B5=D0=B4=D1=81=D1=82=D0=B0=D0=B2=D0=BB=D1=
+=8F=D0=B5=D1=82 =D0=B8=D0=BC=D0=B5=D0=BD=D0=BE=D0=B2=D0=B0=D0=BD=D0=BD=D1=
+=8B=D0=B9 =D1=82=D0=B8=D0=BF =D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=D1=82=D0=B0, =
+=D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BA=D0=BB=
+=D1=8E=D1=87=D0=B5=D0=B2=D0=BE=D0=B3=D0=BE =D1=81=D0=BB=D0=BE=D0=B2=D0=B0<s=
+pan>&nbsp;</span></span><code>type</code><span style=3D"color: rgb(34,34,34=
+);"><span>&nbsp;</span>=D0=BF=D0=BE=D0=B7=D0=B2=D0=BE=D0=BB=D1=8F=D0=B5=D1=
+=82 =D0=B7=D0=B0=D0=B4=D0=B0=D1=82=D1=8C =D0=BF=D1=81=D0=B5=D0=B2=D0=B4=D0=
+=BE=D0=BD=D0=B8=D0=BC =D0=B4=D0=BB=D1=8F =D0=BB=D1=8E=D0=B1=D0=BE=D0=B9 =D1=
+=80=D0=B0=D0=B7=D0=BD=D0=BE=D0=B2=D0=B8=D0=B4=D0=BD=D0=BE=D1=81=D1=82=D0=B8=
+ =D1=82=D0=B8=D0=BF=D0=B0, =D0=B2=D0=BA=D0=BB=D1=8E=D1=87=D0=B0=D1=8F =D0=
+=BF=D1=80=D0=B8=D0=BC=D0=B8=D1=82=D0=B8=D0=B2=D0=BD=D1=8B=D0=B5 =D1=82=D0=
+=B8=D0=BF=D1=8B, =D1=82=D0=B8=D0=BF=D1=8B-=D0=BE=D0=B1=D1=8A=D0=B5=D0=B4=D0=
+=B8=D0=BD=D0=B5=D0=BD=D0=B8=D1=8F =D0=B8 =D1=82=D0=B8=D0=BF=D1=8B-=D0=BF=D0=
+=B5=D1=80=D0=B5=D1=81=D0=B5=D1=87=D0=B5=D0=BD=D0=B8=D1=8F.</span><br><br><s=
+pan style=3D"color: rgb(34,34,34);">=D0=9F=D1=80=D0=B8 =D0=B8=D1=81=D0=BF=
+=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B8 =D0=BA=D0=BB=
+=D1=8E=D1=87=D0=B5=D0=B2=D0=BE=D0=B3=D0=BE =D1=81=D0=BB=D0=BE=D0=B2=D0=B0<s=
+pan>&nbsp;</span></span><code>type</code><span style=3D"color: rgb(34,34,34=
+);"><span>&nbsp;</span>=D0=B2=D0=BC=D0=B5=D1=81=D1=82=D0=BE =D0=BA=D0=BB=D1=
+=8E=D1=87=D0=B5=D0=B2=D0=BE=D0=B3=D0=BE =D1=81=D0=BB=D0=BE=D0=B2=D0=B0<span=
+>&nbsp;</span></span><code>interface</code><span style=3D"color: rgb(34,34,=
+34);"><span>&nbsp;</span>=D1=82=D0=B5=D1=80=D1=8F=D1=8E=D1=82=D1=81=D1=8F =
+=D1=81=D0=BB=D0=B5=D0=B4=D1=83=D1=8E=D1=89=D0=B8=D0=B5 =D0=B2=D0=BE=D0=B7=
+=D0=BC=D0=BE=D0=B6=D0=BD=D0=BE=D1=81=D1=82=D0=B8:</span></p>
+<ul>
+<li>=D0=98=D0=BD=D1=82=D0=B5=D1=80=D1=84=D0=B5=D0=B9=D1=81 =D0=BC=D0=BE=D0=
+=B6=D0=B5=D1=82 =D0=B1=D1=8B=D1=82=D1=8C =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=
+=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD =D0=B2 =D0=B2=D1=8B=D1=80=D0=B0=D0=B6=D0=
+=B5=D0=BD=D0=B8=D0=B8<span>&nbsp;</span><code>extends</code><span>&nbsp;</s=
+pan>=D0=B8=D0=BB=D0=B8<span>&nbsp;</span><code>implements</code>, =D0=B0 =
+=D0=BF=D1=81=D0=B5=D0=B2=D0=B4=D0=BE=D0=BD=D0=B8=D0=BC =D0=B4=D0=BB=D1=8F =
+=D0=BB=D0=B8=D1=82=D0=B5=D1=80=D0=B0=D0=BB=D0=B0 =D0=BE=D0=B1=D1=8A=D0=B5=
+=D0=BA=D1=82=D0=BD=D0=BE=D0=B3=D0=BE =D1=82=D0=B8=D0=BF=D0=B0 =E2=80=94 =D0=
+=BD=D0=B5=D1=82.</li>
+<li>=D0=98=D0=BD=D1=82=D0=B5=D1=80=D1=84=D0=B5=D0=B9=D1=81 =D0=BC=D0=BE=D0=
+=B6=D0=B5=D1=82 =D0=B8=D0=BC=D0=B5=D1=82=D1=8C =D0=BD=D0=B5=D1=81=D0=BA=D0=
+=BE=D0=BB=D1=8C=D0=BA=D0=BE =D0=BE=D0=B1=D1=8A=D0=B5=D0=B4=D0=B8=D0=BD=D1=
+=91=D0=BD=D0=BD=D1=8B=D1=85 =D0=BE=D0=B1=D1=8A=D1=8F=D0=B2=D0=BB=D0=B5=D0=
+=BD=D0=B8=D0=B9, =D0=B0 =D0=BF=D1=80=D0=B8 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=
+=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B8 =D0=BA=D0=BB=D1=8E=D1=87=
+=D0=B5=D0=B2=D0=BE=D0=B3=D0=BE =D1=81=D0=BB=D0=BE=D0=B2=D0=B0<span>&nbsp;</=
+span><code>type</code><span>&nbsp;</span>=D1=8D=D1=82=D0=B0 =D0=B2=D0=BE=D0=
+=B7=D0=BC=D0=BE=D0=B6=D0=BD=D0=BE=D1=81=D1=82=D1=8C =D0=BD=D0=B5 =D0=B4=D0=
+=BE=D1=81=D1=82=D1=83=D0=BF=D0=BD=D0=B0.</li>
+</ul>
+</div>
+</div>
+<h2 class=3D"auto-cursor-target" id=3D"QuestionsforInterview-Angular">Angul=
+ar</h2>
+<hr>
+<div id=3D"expander-93575551" class=3D"expand-container">
+<div id=3D"expander-control-93575551" class=3D"expand-control" aria-expande=
+d=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 Angular?</span>
+</div>
+<div id=3D"expander-content-93575551" class=3D"expand-content">
+<p>=D0=A4=D1=80=D0=B5=D0=B9=D0=BC=D0=B2=D0=BE=D1=80=D0=BA&nbsp; - =D1=8D=D1=
+=82=D0=BE=D0=B3=D0=BE =D1=85=D0=B2=D0=B0=D1=82=D0=B8=D1=82</p>
+<div id=3D"expander-1020443798" class=3D"expand-container">
+<div id=3D"expander-control-1020443798" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=B0 =D0=B5=D1=81=D0=BB=D0=
+=B8 =D0=B4=D0=B5=D1=82=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE</span>
+</div>
+<div id=3D"expander-content-1020443798" class=3D"expand-content">
+<p><span style=3D"color: rgb(36,41,46);">=D0=AD=D1=82=D0=BE =D0=BF=D0=BB=D0=
+=B0=D1=82=D1=84=D0=BE=D1=80=D0=BC=D0=B0 =D0=B4=D0=BB=D1=8F =D1=80=D0=B0=D0=
+=B7=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B8 =D0=BC=D0=BE=D0=B1=D0=B8=D0=
+=BB=D1=8C=D0=BD=D1=8B=D1=85 =D0=B8&nbsp;=D0=B4=D0=B5=D1=81=D0=BA=D1=82=D0=
+=BE=D0=BF=D0=BD=D1=8B=D1=85 =D0=B2=D0=B5=D0=B1-=D0=BF=D1=80=D0=B8=D0=BB=D0=
+=BE=D0=B6=D0=B5=D0=BD=D0=B8=D0=B9. =D0=9D=D0=B0=D1=88=D0=B8 =D0=BF=D1=80=D0=
+=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F =D1=82=D0=B5=D0=BF=D0=B5=D1=
+=80=D1=8C =D0=BF=D1=80=D0=B5=D0=B4=D1=81=D1=82=D0=B0=D0=B2=D0=BB=D1=8F=D1=
+=8E=D1=82 =D0=B8=D0=B7&nbsp;=D1=81=D0=B5=D0=B1=D1=8F =C2=AB=D1=82=D0=BE=D0=
+=BB=D1=81=D1=82=D1=8B=D0=B9 =D0=BA=D0=BB=D0=B8=D0=B5=D0=BD=D1=82=C2=BB, =D0=
+=B3=D0=B4=D0=B5 =D1=83=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D0=
+=B5 =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5=D0=
+=BC =D0=B8&nbsp;=D1=87=D0=B0=D1=81=D1=82=D1=8C =D0=BB=D0=BE=D0=B3=D0=B8=D0=
+=BA=D0=B8 =D0=BF=D0=B5=D1=80=D0=B5=D0=BD=D0=B5=D1=81=D0=B5=D0=BD=D1=8B =D0=
+=BD=D0=B0&nbsp;=D1=81=D1=82=D0=BE=D1=80=D0=BE=D0=BD=D1=83 =D0=B1=D1=80=D0=
+=B0=D1=83=D0=B7=D0=B5=D1=80=D0=B0. =D0=A2=D0=B0=D0=BA =D1=81=D0=B5=D1=80=D0=
+=B2=D0=B5=D1=80 =D1=83=D0=B4=D0=B5=D0=BB=D1=8F=D0=B5=D1=82 =D0=B1=D0=BE=D0=
+=BB=D1=8C=D1=88=D0=B5 =D0=B2=D1=80=D0=B5=D0=BC=D0=B5=D0=BD=D0=B8 =D0=B4=D0=
+=BE=D1=81=D1=82=D0=B0=D0=B2=D0=BA=D0=B5 =D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D1=
+=85, =D0=BF=D0=BB=D1=8E=D1=81 =D0=BF=D1=80=D0=BE=D0=BF=D0=B0=D0=B4=D0=B0=D0=
+=B5=D1=82 =D0=BD=D0=B5=D0=BE=D0=B1=D1=85=D0=BE=D0=B4=D0=B8=D0=BC=D0=BE=D1=
+=81=D1=82=D1=8C =D0=B2&nbsp;=D0=BF=D0=BE=D1=81=D1=82=D0=BE=D1=8F=D0=BD=D0=
+=BD=D0=BE=D0=B9 =D0=BF=D0=B5=D1=80=D0=B5=D1=80=D0=B8=D1=81=D0=BE=D0=B2=D0=
+=BA=D0=B5. =D0=A1&nbsp;Angular =D0=BC=D1=8B&nbsp;=D0=BE=D0=BF=D0=B8=D1=81=
+=D1=8B=D0=B2=D0=B0=D0=B5=D0=BC =D1=81=D1=82=D1=80=D1=83=D0=BA=D1=82=D1=83=
+=D1=80=D1=83 =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F =
+=D0=B4=D0=B5=D0=BA=D0=BB=D0=B0=D1=80=D0=B0=D1=82=D0=B8=D0=B2=D0=BD=D0=BE, =
+=D0=B0&nbsp;=D1=81&nbsp;TypeScript =D0=BD=D0=B0=D1=87=D0=B8=D0=BD=D0=B0=D0=
+=B5=D0=BC =D0=B4=D0=BE=D0=BF=D1=83=D1=81=D0=BA=D0=B0=D1=82=D1=8C =D0=BC=D0=
+=B5=D0=BD=D1=8C=D1=88=D0=B5 =D0=BE=D1=88=D0=B8=D0=B1=D0=BE=D0=BA, =D0=B1=D0=
+=BB=D0=B0=D0=B3=D0=BE=D0=B4=D0=B0=D1=80=D1=8F =D1=81=D1=82=D0=B0=D1=82=D0=
+=B8=D1=87=D0=B5=D1=81=D0=BA=D0=BE=D0=B9 =D1=82=D0=B8=D0=BF=D0=B8=D0=B7=D0=
+=B0=D1=86=D0=B8=D0=B8. =D0=92&nbsp;Angular =D0=BF=D1=80=D0=B8=D1=81=D1=83=
+=D1=82=D1=81=D1=82=D0=B2=D1=83=D0=B5=D1=82 =D0=BE=D0=B3=D1=80=D0=BE=D0=BC=
+=D0=BD=D0=BE=D0=B5 =D0=BA=D0=BE=D0=BB=D0=B8=D1=87=D0=B5=D1=81=D1=82=D0=B2=
+=D0=BE =D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=D0=B6=D0=BD=D0=BE=D1=81=D1=82=D0=B5=
+=D0=B9 =D0=B8=D0=B7&nbsp;=D0=BA=D0=BE=D1=80=D0=BE=D0=B1=D0=BA=D0=B8. =D0=AD=
+=D1=82=D0=BE =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=B1=D1=8B=D1=82=D1=8C =D0=BE=
+=D0=B4=D0=BD=D0=BE=D0=B2=D1=80=D0=B5=D0=BC=D0=B5=D0=BD=D0=BD=D0=BE =D0=B8&n=
+bsp;=D1=85=D0=BE=D1=80=D0=BE=D1=88=D0=BE =D0=B8&nbsp;=D0=BF=D0=BB=D0=BE=D1=
+=85=D0=BE, =D0=B2&nbsp;=D0=B7=D0=B0=D0=B2=D0=B8=D1=81=D0=B8=D0=BC=D0=BE=D1=
+=81=D1=82=D0=B8 =D0=BE=D1=82&nbsp;=D1=82=D0=BE=D0=B3=D0=BE, =D1=87=D1=82=D0=
+=BE =D0=B2=D0=B0=D0=BC =D0=BD=D0=B5=D0=BE=D0=B1=D1=85=D0=BE=D0=B4=D0=B8=D0=
+=BC=D0=BE.</span></p>
+</div>
+</div>
+</div>
+</div>
+<div id=3D"expander-603444497" class=3D"expand-container">
+<div id=3D"expander-control-603444497" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=92 =D1=87=D0=B5=D0=BC =D0=
+=BE=D1=82=D0=BB=D0=B8=D1=87=D0=B8=D0=B5 =D1=84=D1=80=D0=B5=D0=B9=D0=BC=D0=
+=B2=D0=BE=D1=80=D0=BA=D0=B0 =D0=BE=D1=82 =D0=B1=D0=B8=D0=B1=D0=BB=D0=B8=D0=
+=BE=D1=82=D0=B5=D0=BA=D0=B8 (=D0=BF=D1=80=D0=B8=D0=B2=D0=B5=D0=B4=D0=B8=D1=
+=82=D0=B5 =D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D1=8B =D0=B8 =D0=BE=D1=82=D0=
+=BB=D0=B8=D1=87=D0=B8=D1=8F)?</span>
+</div>
+<div id=3D"expander-content-603444497" class=3D"expand-content">
+<p>...</p>
+</div>
+</div>
+<div id=3D"expander-44095139" class=3D"expand-container">
+<div id=3D"expander-control-44095139" class=3D"expand-control" aria-expande=
+d=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=9A=D0=B0=D0=BA=D0=BE=D0=
+=B9 =D0=B4=D0=BE=D0=BB=D0=B6=D0=BD=D0=B0 =D0=B1=D1=8B=D1=82=D1=8C =D1=81=D1=
+=82=D1=80=D1=83=D0=BA=D1=82=D1=83=D1=80=D0=B0 =D0=BA=D0=B0=D1=82=D0=B0=D0=
+=BB=D0=BE=D0=B3=D0=BE=D0=B2 =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=
+=BD=D1=82=D0=BE=D0=B2 =D0=BB=D1=8E=D0=B1=D0=BE=D0=B3=D0=BE Angular =D0=BF=
+=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F =D0=B8 =D0=BF=D0=BE=
+=D1=87=D0=B5=D0=BC=D1=83?</span>
+</div>
+<div id=3D"expander-content-44095139" class=3D"expand-content">
+<p>...</p>
+</div>
+</div>
+<div id=3D"expander-334541721" class=3D"expand-container">
+<div id=3D"expander-control-334541721" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 MVVM =D0=B8 =D0=B2 =D1=87=D0=B5=D0=BC =D1=80=D0=B0=D0=
+=B7=D0=BD=D0=B8=D1=86=D0=B0 =D0=BF=D0=B5=D1=80=D0=B5=D0=B4 MVC?</span>
+</div>
+<div id=3D"expander-content-334541721" class=3D"expand-content">
+<p><strong>MVVM</strong><span style=3D"color: rgb(36,41,46);"><span>&nbsp;<=
+/span>- =D1=88=D0=B0=D0=B1=D0=BB=D0=BE=D0=BD =D0=BF=D1=80=D0=BE=D0=B5=D0=BA=
+=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D0=B0=D1=80=D1=85=
+=D0=B8=D1=82=D0=B5=D0=BA=D1=82=D1=83=D1=80=D1=8B =D0=BF=D1=80=D0=B8=D0=BB=
+=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F. =D0=A1=D0=BE=D1=81=D1=82=D0=BE=D0=B8=
+=D1=82 =D0=B8=D0=B7 3 =D0=BA=D0=BB=D1=8E=D1=87=D0=B5=D0=B2=D1=8B=D1=85 =D0=
+=B1=D0=BB=D0=BE=D0=BA=D0=BE=D0=B2: Model, View, ViewModel.</span><br><span =
+style=3D"color: rgb(36,41,46);">=D0=9E=D1=82=D0=BB=D0=B8=D1=87=D0=B8=D0=B5 =
+=D0=BE=D1=82 MV=D0=A1 =D0=B7=D0=B0=D0=BA=D0=BB=D1=8E=D1=87=D0=B0=D1=8E=D1=
+=82=D1=81=D1=8F =D0=B2:</span><br><br></p>
+<ul>
+<li>View =D1=80=D0=B5=D0=B0=D0=B3=D0=B8=D1=80=D1=83=D0=B5=D1=82 =D0=BD=D0=
+=B0 =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D1=8F =D0=BF=D0=BE=D0=BB=D1=
+=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8F =D0=B8 =D0=BF=D0=B5=D1=
+=80=D0=B5=D0=B4=D0=B0=D0=B5=D1=82 =D0=B8=D1=85 =D0=B2=D0=BE View Model =D1=
+=87=D0=B5=D1=80=D0=B5=D0=B7 Data Binding.</li>
+<li>View Model, =D0=B2 =D0=BE=D1=82=D0=BB=D0=B8=D1=87=D0=B8=D0=B5 =D0=BE=D1=
+=82 =D0=BA=D0=BE=D0=BD=D1=82=D1=80=D0=BE=D0=BB=D0=BB=D0=B5=D1=80=D0=B0 =D0=
+=B2 MVC, =D0=B8=D0=BC=D0=B5=D0=B5=D1=82 =D0=BE=D1=81=D0=BE=D0=B1=D1=8B=D0=
+=B9 =D0=BC=D0=B5=D1=85=D0=B0=D0=BD=D0=B8=D0=B7=D0=BC, =D0=B0=D0=B2=D1=82=D0=
+=BE=D0=BC=D0=B0=D1=82=D0=B8=D0=B7=D0=B8=D1=80=D1=83=D1=8E=D1=89=D0=B8=D0=B9=
+ =D1=81=D0=B2=D1=8F=D0=B7=D1=8C =D0=BC=D0=B5=D0=B6=D0=B4=D1=83 View =D0=B8 =
+=D1=81=D0=B2=D1=8F=D0=B7=D0=B0=D0=BD=D0=BD=D1=8B=D0=BC=D0=B8 =D1=81=D0=B2=
+=D0=BE=D0=B9=D1=81=D1=82=D0=B2=D0=B0=D0=BC=D0=B8 =D0=B2 ViewModel.</li>
+</ul>
+<p><br>=D0=9F=D1=80=D0=B8=D0=B2=D1=8F=D0=B7=D0=BA=D0=B0 =D0=B4=D0=B0=D0=BD=
+=D0=BD=D1=8B=D1=85 =D0=BC=D0=B5=D0=B6=D0=B4=D1=83 View =D0=B8 ViewModel =D0=
+=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=B1=D1=8B=D1=82=D1=8C =D0=BE=D0=B4=D0=BD=D0=
+=BE=D1=81=D1=82=D0=BE=D1=80=D0=BE=D0=BD=D0=BD=D0=B5=D0=B9 =D0=B8=D0=BB=D0=
+=B8 =D0=B4=D0=B2=D1=83=D1=81=D1=82=D0=BE=D1=80=D0=BE=D0=BD=D0=BD=D0=B5=D0=
+=B9 (one-way, two-way data-binding).</p>
+</div>
+</div>
+<div id=3D"expander-1759862242" class=3D"expand-container">
+<div id=3D"expander-control-1759862242" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=92 =D1=87=D0=B5=D0=BC =D1=
+=80=D0=B0=D0=B7=D0=BD=D0=B8=D1=86=D0=B0 =D0=BC=D0=B5=D0=B6=D0=B4=D1=83 =D1=
+=81=D1=82=D1=80=D1=83=D0=BA=D1=82=D1=83=D1=80=D0=BD=D0=BE=D0=B9 =D0=B8 =D0=
+=B0=D1=82=D1=80=D0=B8=D0=B1=D1=83=D1=82=D0=BD=D0=BE=D0=B9 =D0=B4=D0=B8=D1=
+=80=D0=B5=D0=BA=D1=82=D0=B8=D0=B2=D0=BE=D0=B9, =D0=BD=D0=B0=D0=B7=D0=BE=D0=
+=B2=D0=B8=D1=82=D0=B5 =D0=B2=D1=81=D1=82=D1=80=D0=BE=D0=B5=D0=BD=D0=BD=D1=
+=8B=D0=B5 =D0=B4=D0=B8=D1=80=D0=B5=D0=BA=D1=82=D0=B8=D0=B2=D1=8B?</span>
+</div>
+<div id=3D"expander-content-1759862242" class=3D"expand-content">
+<ul>
+<li>=D0=A1=D1=82=D1=80=D1=83=D0=BA=D1=82=D1=83=D1=80=D0=BD=D1=8B=D0=B5 =D0=
+=B4=D0=B8=D1=80=D0=B5=D0=BA=D1=82=D0=B8=D0=B2=D1=8B =D0=B2=D0=BB=D0=B8=D1=
+=8F=D1=8E=D1=82 =D0=BD=D0=B0 DOM =D0=B8 =D0=BC=D0=BE=D0=B3=D1=83=D1=82 =D0=
+=B4=D0=BE=D0=B1=D0=B0=D0=B2=D0=BB=D1=8F=D1=82=D1=8C/=D1=83=D0=B4=D0=B0=D0=
+=BB=D1=8F=D1=82=D1=8C =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82=D1=8B (ng-=
+template, NgIf, NgFor, NgSwitch, etc)</li>
+<li>=D0=90=D1=82=D1=80=D0=B8=D0=B1=D1=83=D1=82=D0=BD=D1=8B=D0=B5 =D0=B4=D0=
+=B8=D1=80=D0=B5=D0=BA=D1=82=D0=B8=D0=B2=D1=8B =D0=BC=D0=B5=D0=BD=D1=8F=D1=
+=8E=D1=82 =D0=B2=D0=BD=D0=B5=D1=88=D0=BD=D0=B8=D0=B9 =D0=B2=D0=B8=D0=B4 =D0=
+=B8=D0=BB=D0=B8 =D0=BF=D0=BE=D0=B2=D0=B5=D0=B4=D0=B5=D0=BD=D0=B8=D0=B5 =D1=
+=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82=D0=BE=D0=B2, =D0=BA=D0=BE=D0=BC=D0=
+=BF=D0=BE=D0=BD=D0=B5=D0=BD=D1=82=D0=BE=D0=B2 =D0=B8=D0=BB=D0=B8 =D0=B4=D1=
+=80=D1=83=D0=B3=D0=B8=D1=85 =D0=B4=D0=B8=D1=80=D0=B5=D0=BA=D1=82=D0=B8=D0=
+=B2 NgStyle, NgClass, etc).</li>
+</ul>
+</div>
+</div>
+<div id=3D"expander-1925824390" class=3D"expand-container">
+<div id=3D"expander-control-1925824390" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=94=D0=BB=D1=8F =D1=87=D0=
+=B5=D0=B3=D0=BE =D0=BD=D1=83=D0=B6=D0=BD=D1=8B =D0=B4=D0=B8=D1=80=D0=B5=D0=
+=BA=D1=82=D0=B8=D0=B2=D1=8B ng-template, ng-container, ng-content?</span>
+</div>
+<div id=3D"expander-content-1925824390" class=3D"expand-content">
+<h4 id=3D"QuestionsforInterview-ng-template">ng-template</h4>
+<p><code>&lt;template&gt;</code><span>&nbsp;</span>=E2=80=94 =D1=8D=D1=82=
+=D0=BE =D0=BC=D0=B5=D1=85=D0=B0=D0=BD=D0=B8=D0=B7=D0=BC =D0=B4=D0=BB=D1=8F =
+=D0=BE=D1=82=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D1=80=
+=D0=B5=D0=BD=D0=B4=D0=B5=D1=80=D0=B0 =D0=BA=D0=BB=D0=B8=D0=B5=D0=BD=D1=82=
+=D1=81=D0=BA=D0=BE=D0=B3=D0=BE =D0=BA=D0=BE=D0=BD=D1=82=D0=B5=D0=BD=D1=82=
+=D0=B0, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B9 =D0=BD=D0=B5 =D0=BE=D1=
+=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=B2=D0=
+=BE =D0=B2=D1=80=D0=B5=D0=BC=D1=8F =D0=B7=D0=B0=D0=B3=D1=80=D1=83=D0=B7=D0=
+=BA=D0=B8, =D0=BD=D0=BE =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=B1=D1=8B=D1=82=
+=D1=8C =D0=B8=D0=BD=D0=B8=D1=86=D0=B8=D0=B0=D0=BB=D0=B8=D0=B7=D0=B8=D1=80=
+=D0=BE=D0=B2=D0=B0=D0=BD =D0=BF=D1=80=D0=B8 =D0=BF=D0=BE=D0=BC=D0=BE=D1=89=
+=D0=B8 JavaScript.<br><br>Template =D0=BC=D0=BE=D0=B6=D0=BD=D0=BE =D0=BF=D1=
+=80=D0=B5=D0=B4=D1=81=D1=82=D0=B0=D0=B2=D0=B8=D1=82=D1=8C =D1=81=D0=B5=D0=
+=B1=D0=B5 =D0=BA=D0=B0=D0=BA =D1=84=D1=80=D0=B0=D0=B3=D0=BC=D0=B5=D0=BD=D1=
+=82 =D0=BA=D0=BE=D0=BD=D1=82=D0=B5=D0=BD=D1=82=D0=B0, =D1=81=D0=BE=D1=85=D1=
+=80=D0=B0=D0=BD=D1=91=D0=BD=D0=BD=D1=8B=D0=B9 =D0=B4=D0=BB=D1=8F =D0=BF=D0=
+=BE=D1=81=D0=BB=D0=B5=D0=B4=D1=83=D1=8E=D1=89=D0=B5=D0=B3=D0=BE =D0=B8=D1=
+=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D0=
+=B2 =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=D0=BD=D1=82=D0=B5. =D0=A5=D0=BE=D1=
+=82=D1=8F =D0=BF=D0=B0=D1=80=D1=81=D0=B5=D1=80 =D0=B8 =D0=BE=D0=B1=D1=80=D0=
+=B0=D0=B1=D0=B0=D1=82=D1=8B=D0=B2=D0=B0=D0=B5=D1=82 =D1=81=D0=BE=D0=B4=D0=
+=B5=D1=80=D0=B6=D0=B8=D0=BC=D0=BE=D0=B5 =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=
+=BD=D1=82=D0=B0<span>&nbsp;</span><code>template</code><span>&nbsp;</span>=
+=D0=B2=D0=BE =D0=B2=D1=80=D0=B5=D0=BC=D1=8F =D0=B7=D0=B0=D0=B3=D1=80=D1=83=
+=D0=B7=D0=BA=D0=B8 =D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D1=8B, =D0=BE=
+=D0=BD =D0=B4=D0=B5=D0=BB=D0=B0=D0=B5=D1=82 =D1=8D=D1=82=D0=BE =D1=82=D0=BE=
+=D0=BB=D1=8C=D0=BA=D0=BE =D1=87=D1=82=D0=BE=D0=B1=D1=8B =D1=83=D0=B1=D0=B5=
+=D0=B4=D0=B8=D1=82=D1=8C=D1=81=D1=8F =D0=B2 =D0=B2=D0=B0=D0=BB=D0=B8=D0=B4=
+=D0=BD=D0=BE=D1=81=D1=82=D0=B8 =D1=81=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=
+=D0=BC=D0=BE=D0=B3=D0=BE; =D1=81=D0=B0=D0=BC=D0=BE =D1=81=D0=BE=D0=B4=D0=B5=
+=D1=80=D0=B6=D0=B8=D0=BC=D0=BE=D0=B5 =D0=BF=D1=80=D0=B8 =D1=8D=D1=82=D0=BE=
+=D0=BC =D0=BD=D0=B5 =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B0=D0=B5=
+=D1=82=D1=81=D1=8F.<br><br></p>
+<p><code>&lt;ng-template&gt;</code><span>&nbsp;</span>- =D1=8F=D0=B2=D0=BB=
+=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=B8=D0=BC=D0=BF=D0=BB=D0=B5=D0=BC=D0=B5=
+=D0=BD=D1=82=D0=B0=D1=86=D0=B8=D0=B5=D0=B9 =D1=81=D1=82=D0=B0=D0=BD=D0=B4=
+=D0=B0=D1=80=D1=82=D0=BD=D0=BE=D0=B3=D0=BE =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=
+=D0=BD=D1=82=D0=B0 template, =D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9 =D1=8D=D0=
+=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82 =D0=BF=D0=BE=D1=8F=D0=B2=D0=B8=D0=BB=D1=
+=81=D1=8F =D1=81 =D1=87=D0=B5=D1=82=D0=B2=D0=B5=D1=80=D1=82=D0=BE=D0=B9 =D0=
+=B2=D0=B5=D1=80=D1=81=D0=B8=D0=B8 Angular, =D1=8D=D1=82=D0=BE =D0=B1=D1=8B=
+=D0=BB=D0=BE =D1=81=D0=B4=D0=B5=D0=BB=D0=B0=D0=BD=D0=BE =D1=81 =D1=82=D0=BE=
+=D1=87=D0=BA=D0=B8 =D0=B7=D1=80=D0=B5=D0=BD=D0=B8=D1=8F =D1=81=D0=BE=D0=B2=
+=D0=BC=D0=B5=D1=81=D1=82=D0=B8=D0=BC=D0=BE=D1=81=D1=82=D0=B8 =D1=81=D0=BE =
+=D0=B2=D1=81=D1=82=D1=80=D0=B0=D0=B8=D0=B2=D0=B0=D0=B5=D0=BC=D1=8B=D0=BC=D0=
+=B8 =D0=BD=D0=B0 =D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D1=83 template =
+=D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82=D0=B0=D0=BC=D0=B8, =D0=BA=D0=BE=
+=D1=82=D0=BE=D1=80=D1=8B=D0=B5 =D0=BC=D0=BE=D0=B3=D0=BB=D0=B8 =D0=BF=D0=BE=
+=D0=BF=D0=B0=D1=81=D1=82=D1=8C =D0=B2 =D1=88=D0=B0=D0=B1=D0=BB=D0=BE=D0=BD =
+=D0=B2=D0=B0=D1=88=D0=B8=D1=85 =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=
+=D0=BD=D1=82=D0=BE=D0=B2 =D0=BF=D0=BE =D1=82=D0=B5=D0=BC =D0=B8=D0=BB=D0=B8=
+ =D0=B8=D0=BD=D1=8B=D0=BC =D0=BF=D1=80=D0=B8=D1=87=D0=B8=D0=BD=D0=B0=D0=BC.=
+</p>
+<p><br></p>
+<h4 id=3D"QuestionsforInterview-ng-container">ng-container</h4>
+<p><code>&lt;ng-container&gt;</code><span>&nbsp;</span>- =D1=8D=D1=82=D0=BE=
+ =D0=BB=D0=BE=D0=B3=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8=D0=B9 =D0=BA=D0=BE=
+=D0=BD=D1=82=D0=B5=D0=B9=D0=BD=D0=B5=D1=80, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=
+=D1=8B=D0=B9 =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=
+=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C=D1=81=D1=8F =D0=B4=D0=BB=D1=8F =
+=D0=B3=D1=80=D1=83=D0=BF=D0=BF=D0=B8=D1=80=D0=BE=D0=B2=D0=BA=D0=B8 =D1=83=
+=D0=B7=D0=BB=D0=BE=D0=B2, =D0=BD=D0=BE =D0=BD=D0=B5 =D0=BE=D1=82=D0=BE=D0=
+=B1=D1=80=D0=B0=D0=B6=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=B2 =D0=B4=D0=B5=D1=
+=80=D0=B5=D0=B2=D0=B5 DOM =D0=BA=D0=B0=D0=BA =D1=83=D0=B7=D0=B5=D0=BB (node=
+).</p>
+<p>=D0=9D=D0=B0 =D1=81=D0=B0=D0=BC=D0=BE=D0=BC =D0=B4=D0=B5=D0=BB=D0=B5 =D1=
+=81=D1=82=D1=80=D1=83=D0=BA=D1=82=D1=83=D1=80=D0=BD=D1=8B=D0=B5 =D0=B4=D0=
+=B8=D1=80=D0=B5=D0=BA=D1=82=D0=B8=D0=B2=D1=8B (*ngIf, *ngFor, =E2=80=A6) =
+=D1=8F=D0=B2=D0=BB=D1=8F=D1=8E=D1=82=D1=81=D1=8F =D1=81=D0=B8=D0=BD=D1=82=
+=D0=B0=D0=BA=D1=81=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8=D0=BC =D1=81=D0=B0=
+=D1=85=D0=B0=D1=80=D0=BE=D0=BC =D0=B4=D0=BB=D1=8F =D0=BD=D0=B0=D1=88=D0=B8=
+=D1=85 =D1=88=D0=B0=D0=B1=D0=BB=D0=BE=D0=BD=D0=BE=D0=B2. =D0=92 =D1=80=D0=
+=B5=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE=D1=81=D1=82=D0=B8, =D0=B4=D0=B0=D0=BD=D0=
+=BD=D1=8B=D0=B5 =D1=88=D0=B0=D0=B1=D0=BB=D0=BE=D0=BD=D1=8B =D1=82=D1=80=D0=
+=B0=D0=BD=D1=81=D1=84=D0=BE=D1=80=D0=BC=D0=B8=D1=80=D1=83=D1=8E=D1=82=D1=81=
+=D1=8F =D0=B2 =D1=82=D0=B0=D0=BA=D0=B8=D0=B5 =D0=BA=D0=BE=D0=BD=D1=81=D1=82=
+=D1=80=D1=83=D0=BA=D1=86=D0=B8=D0=B8<br><br></p>
+<h4 id=3D"QuestionsforInterview-ng-content">ng-content</h4>
+<p><code>&lt;ng-content&gt;</code><span>&nbsp;</span>- =D0=BF=D0=BE=D0=B7=
+=D0=B2=D0=BE=D0=BB=D1=8F=D0=B5=D1=82 =D0=B2=D0=BD=D0=B5=D0=B4=D1=80=D1=8F=
+=D1=82=D1=8C =D1=80=D0=BE=D0=B4=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D1=81=D0=BA=
+=D0=B8=D0=BC =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=BD=D1=82=D0=B0=
+=D0=BC html-=D0=BA=D0=BE=D0=B4 =D0=B2 =D0=B4=D0=BE=D1=87=D0=B5=D1=80=D0=BD=
+=D0=B8=D0=B5 =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=BD=D1=82=D1=8B.<=
+/p>
+<p>=D0=97=D0=B4=D0=B5=D1=81=D1=8C =D0=BD=D0=B0 =D1=81=D0=B0=D0=BC=D0=BE=D0=
+=BC =D0=B4=D0=B5=D0=BB=D0=B5, =D0=BD=D0=B5=D0=BC=D0=BD=D0=BE=D0=B3=D0=BE =
+=D1=81=D0=BB=D0=BE=D0=B6=D0=BD=D0=B5=D0=B5 =D1=83=D0=B6=D0=B5 =D1=87=D0=B5=
+=D0=BC =D1=81 ng-template, ng-container. =D0=A2=D0=B0=D0=BA =D0=BA=D0=B0=D0=
+=BA ng-content =D1=80=D0=B5=D1=88=D0=B0=D0=B5=D1=82 =D0=B7=D0=B0=D0=B4=D0=
+=B0=D1=87=D1=83 =D0=BF=D1=80=D0=BE=D0=B5=D1=86=D0=B8=D1=80=D0=BE=D0=B2=D0=
+=B0=D0=BD=D0=B8=D1=8F =D0=BA=D0=BE=D0=BD=D1=82=D0=B5=D0=BD=D1=82=D0=B0 =D0=
+=B2 =D0=B2=D0=B0=D1=88=D0=B8 =D0=B2=D0=B5=D0=B1-=D0=BA=D0=BE=D0=BC=D0=BF=D0=
+=BE=D0=BD=D0=B5=D0=BD=D1=82=D1=8B. =D0=92=D0=B5=D0=B1-=D0=BA=D0=BE=D0=BC=D0=
+=BF=D0=BE=D0=BD=D0=B5=D0=BD=D1=82=D1=8B =D1=81=D0=BE=D1=81=D1=82=D0=BE=D1=
+=8F=D1=82 =D0=B8=D0=B7 =D0=BD=D0=B5=D1=81=D0=BA=D0=BE=D0=BB=D1=8C=D0=BA=D0=
+=B8=D1=85 =D0=BE=D1=82=D0=B4=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D1=85 =D1=82=D0=
+=B5=D1=85=D0=BD=D0=BE=D0=BB=D0=BE=D0=B3=D0=B8=D0=B9. =D0=92=D1=8B =D0=BC=D0=
+=BE=D0=B6=D0=B5=D1=82=D0=B5 =D0=B4=D1=83=D0=BC=D0=B0=D1=82=D1=8C =D0=BE =D0=
+=92=D0=B5=D0=B1-=D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=BD=D1=82=D0=
+=B0=D1=85 =D0=BA=D0=B0=D0=BA =D0=BE =D0=BF=D0=B5=D1=80=D0=B5=D0=B8=D1=81=D0=
+=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D0=B5=D0=BC=D1=8B=D1=85 =D0=B2=D0=B8=D0=
+=B4=D0=B6=D0=B5=D1=82=D0=B0=D1=85 =D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=
+=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D1=81=D0=BA=D0=BE=D0=B3=D0=BE =D0=B8=D0=
+=BD=D1=82=D0=B5=D1=80=D1=84=D0=B5=D0=B9=D1=81=D0=B0, =D0=BA=D0=BE=D1=82=D0=
+=BE=D1=80=D1=8B=D0=B5 =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D1=8E=D1=82=D1=81=D1=
+=8F =D1=81 =D0=BF=D0=BE=D0=BC=D0=BE=D1=89=D1=8C=D1=8E =D0=BE=D1=82=D0=BA=D1=
+=80=D1=8B=D1=82=D1=8B=D1=85 =D0=B2=D0=B5=D0=B1-=D1=82=D0=B5=D1=85=D0=BD=D0=
+=BE=D0=BB=D0=BE=D0=B3=D0=B8=D0=B9. =D0=9E=D0=BD=D0=B8 =D1=8F=D0=B2=D0=BB=D1=
+=8F=D1=8E=D1=82=D1=81=D1=8F =D1=87=D0=B0=D1=81=D1=82=D1=8C=D1=8E =D0=B1=D1=
+=80=D0=B0=D1=83=D0=B7=D0=B5=D1=80=D0=B0 =D0=B8 =D0=BF=D0=BE=D1=8D=D1=82=D0=
+=BE=D0=BC=D1=83 =D0=BD=D0=B5 =D0=BD=D1=83=D0=B6=D0=B4=D0=B0=D1=8E=D1=82=D1=
+=81=D1=8F =D0=B2=D0=BE =D0=B2=D0=BD=D0=B5=D1=88=D0=BD=D0=B8=D1=85 =D0=B1=D0=
+=B8=D0=B1=D0=BB=D0=B8=D0=BE=D1=82=D0=B5=D0=BA=D0=B0=D1=85, =D1=82=D0=B0=D0=
+=BA=D0=B8=D1=85 =D0=BA=D0=B0=D0=BA jQuery =D0=B8=D0=BB=D0=B8 Dojo. =D0=A1=
+=D1=83=D1=89=D0=B5=D1=81=D1=82=D0=B2=D1=83=D1=8E=D1=89=D0=B8=D0=B9 =D0=92=
+=D0=B5=D0=B1-=D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=BD=D1=82 =D0=BC=
+=D0=BE=D0=B6=D0=B5=D1=82 =D0=B1=D1=8B=D1=82=D1=8C =D0=B8=D1=81=D0=BF=D0=BE=
+=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD =D0=B1=D0=B5=D0=B7 =D0=BD=D0=B0=
+=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D1=8F =D0=BA=D0=BE=D0=B4=D0=B0, =D0=BF=
+=D1=80=D0=BE=D1=81=D1=82=D0=BE =D0=BF=D1=83=D1=82=D0=B5=D0=BC =D0=B8=D0=BC=
+=D0=BF=D0=BE=D1=80=D1=82=D0=B0 =D0=B2=D1=8B=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D1=8F =D0=BD=D0=B0 HTML-=D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=
+=D1=83. =D0=92=D0=B5=D0=B1-=D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=BD=
+=D1=82=D1=8B =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D1=8E=D1=82 =
+=D0=BD=D0=BE=D0=B2=D1=8B=D0=B5 =D0=B8=D0=BB=D0=B8 =D1=80=D0=B0=D0=B7=D1=80=
+=D0=B0=D0=B1=D0=B0=D1=82=D1=8B=D0=B2=D0=B0=D0=B5=D0=BC=D1=8B=D0=B5 =D1=81=
+=D1=82=D0=B0=D0=BD=D0=B4=D0=B0=D1=80=D1=82=D0=BD=D1=8B=D0=B5 =D0=B2=D0=BE=
+=D0=B7=D0=BC=D0=BE=D0=B6=D0=BD=D0=BE=D1=81=D1=82=D0=B8 =D0=B1=D1=80=D0=B0=
+=D1=83=D0=B7=D0=B5=D1=80=D0=B0.</p>
+<p>=D0=94=D0=B0=D0=B2=D0=B0=D0=B9=D1=82=D0=B5 =D0=BF=D1=80=D0=B5=D0=B4=D1=
+=81=D1=82=D0=B0=D0=B2=D0=B8=D0=BC =D1=81=D0=B8=D1=82=D1=83=D0=B0=D1=86=D0=
+=B8=D1=8E =D0=BE=D1=82 =D0=BE=D0=B1=D1=80=D0=B0=D1=82=D0=BD=D0=BE=D0=B3=D0=
+=BE, =D0=BD=D0=B0=D0=BC =D0=BD=D1=83=D0=B6=D0=BD=D0=BE =D0=BF=D0=B0=D1=80=
+=D0=B0=D0=BC=D0=B5=D1=82=D1=80=D0=B8=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =
+=D0=BD=D0=B0=D1=88 =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=BD=D1=82. =
+=D0=9C=D1=8B =D1=85=D0=BE=D1=82=D0=B8=D0=BC =D1=81=D0=B4=D0=B5=D0=BB=D0=B0=
+=D1=82=D1=8C =D1=82=D0=B0=D0=BA, =D1=87=D1=82=D0=BE=D0=B1=D1=8B =D0=BD=D0=
+=B0 =D0=B2=D1=85=D0=BE=D0=B4 =D0=B2 =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=
+=B5=D0=BD=D1=82 =D0=BC=D1=8B =D0=BC=D0=BE=D0=B3=D0=BB=D0=B8 =D0=BF=D0=B5=D1=
+=80=D0=B5=D0=B4=D0=B0=D1=82=D1=8C =D0=BA=D0=B0=D0=BA=D0=B8=D0=B5-=D0=BB=D0=
+=B8=D0=B1=D0=BE =D1=81=D1=82=D0=B0=D1=82=D0=B8=D1=87=D0=BD=D1=8B=D0=B5 =D0=
+=B4=D0=B0=D0=BD=D0=BD=D1=8B=D0=B5. =D0=AD=D1=82=D0=BE =D0=BC=D0=BE=D0=B6=D0=
+=BD=D0=BE =D1=81=D0=B4=D0=B5=D0=BB=D0=B0=D1=82=D1=8C =D0=BD=D0=B5=D1=81=D0=
+=BA=D0=BE=D0=BB=D1=8C=D0=BA=D0=B8=D0=BC=D0=B8 =D1=81=D0=BF=D0=BE=D1=81=D0=
+=BE=D0=B1=D0=B0=D0=BC=D0=B8.</p>
+</div>
+</div>
+<div id=3D"expander-1860713193" class=3D"expand-container">
+<div id=3D"expander-control-1860713193" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 =D0=B4=D0=B8=D1=80=D0=B5=D0=BA=D1=82=D0=B8=D0=B2=D0=
+=B0, =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=BD=D1=82, =D0=BC=D0=BE=
+=D0=B4=D1=83=D0=BB=D1=8C, =D1=81=D0=B5=D1=80=D0=B2=D0=B8=D1=81, =D0=BF=D0=
+=B0=D0=B9=D0=BF =D0=B2 Angular =D0=B8 =D0=B4=D0=BB=D1=8F =D1=87=D0=B5=D0=B3=
+=D0=BE =D0=BE=D0=BD=D0=B8 =D0=BD=D1=83=D0=B6=D0=BD=D1=8B?</span>
+</div>
+<div id=3D"expander-content-1860713193" class=3D"expand-content">
+<ul>
+<li>=D0=9A=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=BD=D1=82 =D0=BA=D0=BE=D0=
+=BD=D1=82=D1=80=D0=BE=D0=BB=D0=B8=D1=80=D1=83=D0=B5=D1=82 =D1=83=D1=87=D0=
+=B0=D1=81=D1=82=D0=BE=D0=BA =D1=8D=D0=BA=D1=80=D0=B0=D0=BD=D0=B0, =D1=82.=
+=D0=BD. view.</li>
+<li>=D0=A1=D0=B5=D1=80=D0=B2=D0=B8=D1=81 =D1=8D=D1=82=D0=BE =D0=BA=D0=BB=D0=
+=B0=D1=81=D1=81 =D1=81 =D1=83=D0=B7=D0=BA=D0=BE=D0=B9, =D1=87=D0=B5=D1=82=
+=D0=BA=D0=BE =D0=BE=D0=BF=D1=80=D0=B5=D0=B4=D0=B5=D0=BB=D0=B5=D0=BD=D0=BD=
+=D0=BE=D0=B9 =D1=86=D0=B5=D0=BB=D1=8C=D1=8E. =D0=AD=D1=82=D0=BE =D0=BC=D0=
+=BE=D0=B6=D0=B5=D1=82 =D0=B1=D1=8B=D1=82=D1=8C =D0=B7=D0=BD=D0=B0=D1=87=D0=
+=B5=D0=BD=D0=B8=D0=B5, =D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D1=8F, =D0=B7=
+=D0=B0=D0=BF=D1=80=D0=BE=D1=81, etc. =D0=93=D0=BB=D0=B0=D0=B2=D0=BD=D0=BE=
+=D0=B5 =D0=B2 =D0=BD=D0=B8=D1=85 =D1=82=D0=BE, =D1=87=D1=82=D0=BE =D0=BE=D0=
+=BD=D0=B8 =D0=BF=D0=BE=D0=B2=D1=82=D0=BE=D1=80=D0=BD=D0=BE =D0=B8=D1=81=D0=
+=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D1=8E=D1=82=D1=81=D1=8F, =D0=BE=D1=82=D0=
+=B4=D0=B5=D0=BB=D1=8F=D1=8F =D1=87=D0=B8=D1=81=D1=82=D1=83=D1=8E =D1=84=D1=
+=83=D0=BD=D0=BA=D1=86=D0=B8=D0=BE=D0=BD=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE=D1=81=
+=D1=82=D1=8C =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=BD=D1=82=D0=B0.<=
+/li>
+<li>=D0=9F=D0=B0=D0=B9=D0=BF =D0=BF=D1=80=D0=B5=D0=BE=D0=B1=D1=80=D0=B0=D0=
+=B7=D1=83=D0=B5=D1=82 =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=
+=BD=D0=B8=D0=B5 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B9 =D0=B2 =D1=
+=88=D0=B0=D0=B1=D0=BB=D0=BE=D0=BD=D0=B5, =D0=BA =D0=BF=D1=80=D0=B8=D0=BC=D0=
+=B5=D1=80=D1=83 =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=
+=B8=D0=B5 =D0=B4=D0=B0=D1=82 =D0=B2 =D1=80=D0=B0=D0=B7=D0=BD=D1=8B=D1=85 =
+=D0=BB=D0=BE=D0=BA=D0=B0=D0=BB=D1=8F=D1=85 =D0=B8=D0=BB=D0=B8 =D0=B8=D0=B7=
+=D0=BC=D0=B5=D0=BD=D1=8F=D1=8E=D1=82 =D0=B2 =D0=BE=D1=82=D0=BE=D0=B1=D1=80=
+=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B8 =D1=80=D0=B5=D0=B3=D0=B8=D1=81=D1=82=
+=D1=80 =D1=81=D1=82=D1=80=D0=BE=D0=BA.</li>
+</ul>
+</div>
+</div>
+<div id=3D"expander-1905631180" class=3D"expand-container">
+<div id=3D"expander-control-1905631180" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=9E=D0=B1=D1=8A=D1=8F=D1=
+=81=D0=BD=D0=B8=D1=82=D0=B5 =D0=BC=D0=B5=D1=85=D0=B0=D0=BD=D0=B8=D0=B7=D0=
+=BC =D0=B7=D0=B0=D0=B3=D1=80=D1=83=D0=B7=D0=BA=D0=B8 (bootstrap) Angular-=
+=D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F =D0=B2 =D0=B1=
+=D1=80=D0=B0=D1=83=D0=B7=D0=B5=D1=80=D0=B5?</span>
+</div>
+<div id=3D"expander-content-1905631180" class=3D"expand-content">
+<p>=D0=97=D0=B0=D0=BF=D1=83=D1=81=D0=BA Angular =D0=BF=D1=80=D0=B8=D0=BB=D0=
+=BE=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F =D0=BD=D0=B0=D1=87=D0=B8=D0=BD=D0=B0=D0=
+=B5=D1=82=D1=81=D1=8F =D1=81 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0<span>&nbsp;</sp=
+an><strong>main.ts</strong>. =D0=AD=D1=82=D0=BE=D1=82 =D1=84=D0=B0=D0=B9=D0=
+=BB =D1=81=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D1=82 =D0=B2 =D1=81=D0=B5=D0=
+=B1=D0=B5 =D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=BD=D0=BE =D1=81=D0=BB=D0=
+=B5=D0=B4=D1=83=D1=8E=D1=89=D0=B5=D0=B5:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: js; gutter: false; theme: Confluence" data-theme=3D"Confluence">import { =
+platformBrowserDynamic } from "@angular/platform-browser-dynamic";
+import { AppModule } from "./app/app.module";
+
+const platform =3D platformBrowserDynamic();
+
+platform.bootstrapModule(AppModule);</pre>=20
+</div>
+</div>
+<p><br></p>
+<p>platformBrowserDynamic =D0=B7=D0=B0=D0=BF=D1=83=D1=81=D0=BA=D0=B0=D0=B5=
+=D1=82 AppModule. =D0=9F=D0=BE=D1=81=D0=BB=D0=B5 =D1=8D=D1=82=D0=BE=D0=B3=
+=D0=BE, =D0=BD=D0=B0=D1=87=D0=B8=D0=BD=D0=B0=D0=B5=D1=82 =D1=80=D0=B0=D0=B1=
+=D0=BE=D1=82=D0=B0=D1=82=D1=8C =D0=BB=D0=BE=D0=B3=D0=B8=D0=BA=D0=B0 =D0=B2 =
+AppModule.</p>
+<p>=D0=92 AppModule =D0=BE=D0=B1=D1=8B=D1=87=D0=BD=D0=BE =D0=B7=D0=B0=D0=B4=
+=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=
+=D0=BD=D1=82, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B9 =D0=B1=D1=83=D0=B4=
+=D0=B5=D1=82 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=
+=D1=82=D1=8C=D1=81=D1=8F =D0=B4=D0=BB=D1=8F =D0=BE=D1=82=D0=BE=D0=B1=D1=80=
+=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F =D0=BF=D1=80=D0=B8 =D0=B7=D0=B0=D0=B3=
+=D1=80=D1=83=D0=B7=D0=BA=D0=B5. =D0=9A=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=
+=D0=BD=D1=82 =D0=BD=D0=B0=D1=85=D0=BE=D0=B4=D0=B8=D1=82=D1=81=D1=8F =D0=B2 =
+=D0=BF=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=80=D0=B5<span>&nbsp;</span><s=
+trong>bootstrap</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: js; gutter: false; theme: Confluence" data-theme=3D"Confluence">@NgModule=
+({
+  imports: [BrowserModule, FormsModule],
+  declarations: [AppComponent],
+  bootstrap: [AppComponent],
+})
+export class AppModule {}</pre>=20
+</div>
+</div>
+</div>
+</div>
+<div id=3D"expander-683828597" class=3D"expand-container">
+<div id=3D"expander-control-683828597" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=9A=D0=B0=D0=BA=D0=BE=D0=
+=B2 =D0=B6=D0=B8=D0=B7=D0=BD=D0=B5=D0=BD=D0=BD=D1=8B=D0=B9 =D1=86=D0=B8=D0=
+=BA=D0=BB =D1=83 =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=BD=D1=82=D0=
+=BE=D0=B2?</span>
+</div>
+<div id=3D"expander-content-683828597" class=3D"expand-content">
+<p>=D0=9C=D0=BE=D0=B6=D0=BD=D0=BE =D1=81=D0=BA=D0=B0=D0=B7=D0=B0=D1=82=D1=
+=8C =D0=BE=D0=BA, =D0=B5=D1=81=D0=BB=D0=B8 =D1=81=D0=BA=D0=B0=D0=B6=D0=B5=
+=D1=82 =D1=85=D0=BE=D1=82=D1=8F=D0=B1=D1=8B 4</p>
+<p><strong><br>=D0=9F=D0=BE=D1=81=D0=BB=D0=B5</strong><span>&nbsp;</span>=
+=D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F =D0=BA=D0=BE=D0=BC=D0=BF=
+=D0=BE=D0=BD=D0=B5=D0=BD=D1=82=D0=B0 =D0=B8=D0=BB=D0=B8 =D0=B4=D0=B8=D1=80=
+=D0=B5=D0=BA=D1=82=D0=B8=D0=B2=D1=8B =D1=87=D0=B5=D1=80=D0=B5=D0=B7 =D0=B2=
+=D1=8B=D0=B7=D0=BE=D0=B2 =D0=BA=D0=BE=D0=BD=D1=81=D1=82=D1=80=D1=83=D0=BA=
+=D1=82=D0=BE=D1=80=D0=B0, Angular =D0=B2=D1=8B=D0=B7=D1=8B=D0=B2=D0=B0=D0=
+=B5=D1=82 =D0=BC=D0=B5=D1=82=D0=BE=D0=B4=D1=8B =D0=B6=D0=B8=D0=B7=D0=BD=D0=
+=B5=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D1=86=D0=B8=D0=BA=D0=BB=D0=B0 =D0=B2 =D1=
+=81=D0=BB=D0=B5=D0=B4=D1=83=D1=8E=D1=89=D0=B5=D0=B9 =D0=BF=D0=BE=D1=81=D0=
+=BB=D0=B5=D0=B4=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE=D1=81=
+=D1=82=D0=B8 =D0=B2 =D1=81=D1=82=D1=80=D0=BE=D0=B3=D0=BE =D0=BE=D0=BF=D1=80=
+=D0=B5=D0=B4=D0=B5=D0=BB=D0=B5=D0=BD=D0=BD=D1=8B=D0=B5 =D0=BC=D0=BE=D0=BC=
+=D0=B5=D0=BD=D1=82=D1=8B:</p>
+<ul>
+<li>ngOnChanges() - =D0=B2=D1=8B=D0=B7=D1=8B=D0=B2=D0=B0=D0=B5=D1=82=D1=81=
+=D1=8F =D0=BA=D0=BE=D0=B3=D0=B4=D0=B0 Angular =D0=BF=D0=B5=D1=80=D0=B5=D0=
+=BF=D1=80=D0=B8=D1=81=D0=B2=D0=B0=D0=B8=D0=B2=D0=B0=D0=B5=D1=82 =D0=BF=D1=
+=80=D0=B8=D0=B2=D1=8F=D0=B7=D0=B0=D0=BD=D0=BD=D1=8B=D0=B5 =D0=B4=D0=B0=D0=
+=BD=D0=BD=D1=8B=D0=B5 =D0=BA input properties. =D0=9C=D0=B5=D1=82=D0=BE=D0=
+=B4 =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B0=D0=B5=D1=82 =D0=BE=D0=B1=D1=8A=D0=
+=B5=D0=BA=D1=82 SimpleChanges, =D1=81=D0=BE =D1=81=D1=82=D0=B0=D1=80=D1=8B=
+=D0=BC=D0=B8 =D0=B8 =D0=BD=D0=BE=D0=B2=D1=8B=D0=BC=D0=B8 =D0=B7=D0=BD=D0=B0=
+=D1=87=D0=B5=D0=BD=D0=B8=D1=8F=D0=BC=D0=B8. =D0=92=D1=8B=D0=B7=D1=8B=D0=B2=
+=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=BF=D0=B5=D1=80=D0=B5=D0=B4 NgOnInit =D0=
+=B8 =D0=BA=D0=B0=D0=B6=D0=B4=D1=8B=D0=B9 =D1=80=D0=B0=D0=B7, =D0=BA=D0=BE=
+=D0=B3=D0=B4=D0=B0 =D0=B8=D0=B7=D0=BC=D0=B5=D0=BD=D1=8F=D0=B5=D1=82=D1=81=
+=D1=8F =D0=BE=D0=B4=D0=BD=D0=BE =D0=B8=D0=BB=D0=B8 =D0=BD=D0=B5=D1=81=D0=BA=
+=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE =D1=81=D0=B2=D1=8F=D0=B7=D0=B0=D0=BD=D0=BD=
+=D1=8B=D1=85 =D1=81=D0=B2=D0=BE=D0=B9=D1=81=D1=82=D0=B2.</li>
+<li>ngOnInit() - =D0=B8=D0=BD=D0=B8=D1=86=D0=B8=D0=B0=D0=BB=D0=B8=D0=B7=D0=
+=B8=D1=80=D1=83=D0=B5=D1=82 =D0=B4=D0=B8=D1=80=D0=B5=D0=BA=D1=82=D0=B8=D0=
+=B2=D1=83/=D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=BD=D1=82 =D0=BF=D0=
+=BE=D1=81=D0=BB=D0=B5 =D1=82=D0=BE=D0=B3=D0=BE, =D0=BA=D0=B0=D0=BA Angular =
+=D0=B2=D0=BF=D0=B5=D1=80=D0=B2=D1=8B=D0=B5 =D0=BE=D1=82=D0=BE=D0=B1=D1=80=
+=D0=B0=D0=B7=D0=B8=D1=82 =D1=81=D0=B2=D1=8F=D0=B7=D0=B0=D0=BD=D0=BD=D1=8B=
+=D0=B5 =D1=81=D0=B2=D0=BE=D0=B9=D1=81=D1=82=D0=B2=D0=B0 =D0=B8 =D1=83=D1=81=
+=D1=82=D0=B0=D0=BD=D0=B0=D0=B2=D0=BB=D0=B8=D0=B2=D0=B0=D0=B5=D1=82 =D0=B2=
+=D1=85=D0=BE=D0=B4=D1=8F=D1=89=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=D0=B0=D0=BC=
+=D0=B5=D1=82=D1=80=D1=8B.</li>
+<li>ngDoCheck() - =D0=BF=D1=80=D0=B8 =D0=BE=D0=B1=D0=BD=D0=B0=D1=80=D1=83=
+=D0=B6=D0=B5=D0=BD=D0=B8=D0=B8 =D0=B8=D0=B7=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=
+=D0=B8=D0=B9, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B5 Angular =D0=BD=D0=
+=B5 =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D1=81=D0=B0=D0=BC=D0=BE=D1=81=D1=82=D0=
+=BE=D1=8F=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE =D0=BE=D0=B1=D0=BD=D0=B0=D1=
+=80=D1=83=D0=B6=D0=B8=D1=82=D1=8C, =D1=80=D0=B5=D0=B0=D0=B3=D0=B8=D1=80=D1=
+=83=D0=B5=D1=82 =D0=BD=D0=B0 =D0=BD=D0=B8=D1=85.</li>
+<li>ngAfterContentInit() - =D0=B2=D1=8B=D0=B7=D1=8B=D0=B2=D0=B0=D0=B5=D1=82=
+=D1=81=D1=8F =D0=BF=D0=BE=D1=81=D0=BB=D0=B5 =D1=82=D0=BE=D0=B3=D0=BE, =D0=
+=BA=D0=B0=D0=BA Angular =D1=81=D0=BF=D1=80=D0=BE=D0=B5=D1=86=D0=B8=D1=80=D1=
+=83=D0=B5=D1=82 =D0=B2=D0=BD=D0=B5=D1=88=D0=BD=D0=B8=D0=B9 =D0=BA=D0=BE=D0=
+=BD=D1=82=D0=B5=D0=BD=D1=82 =D0=B2 =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=
+=B6=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=
+=BD=D1=82=D0=B0 =D0=B8=D0=BB=D0=B8 =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=
+=B6=D0=B5=D0=BD=D0=B8=D0=B5 =D1=81 =D0=B4=D0=B8=D1=80=D0=B5=D0=BA=D1=82=D0=
+=B8=D0=B2=D0=BE=D0=B9. =D0=92=D1=8B=D0=B7=D1=8B=D0=B2=D0=B0=D0=B5=D1=82=D1=
+=81=D1=8F =D0=B5=D0=B4=D0=B8=D0=BD=D0=BE=D0=B6=D0=B4=D1=8B, =D0=BF=D0=BE=D1=
+=81=D0=BB=D0=B5 =D0=BF=D0=B5=D1=80=D0=B2=D0=BE=D0=B3=D0=BE ngDoCheck().</li=
+>
+<li>ngAfterContentChecked() - =D1=80=D0=B5=D0=B0=D0=B3=D0=B8=D1=80=D1=83=D0=
+=B5=D1=82 =D0=BD=D0=B0 =D0=BF=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=BA=D1=83 Ang=
+ular-=D0=BE=D0=BC =D0=BF=D1=80=D0=BE=D0=B5=D1=86=D0=B8=D1=80=D1=83=D0=B5=D0=
+=BC=D0=BE=D0=B3=D0=BE =D1=81=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D0=BC=D0=
+=BE=D0=B3=D0=BE. =D0=92=D1=8B=D0=B7=D1=8B=D0=B2=D0=B0=D0=B5=D1=82=D1=81=D1=
+=8F =D0=BF=D0=BE=D1=81=D0=BB=D0=B5 ngAfterContentInit() =D0=B8 =D0=BA=D0=B0=
+=D0=B6=D0=B4=D1=8B=D0=B9 =D0=BF=D0=BE=D1=81=D0=BB=D0=B5=D0=B4=D1=83=D1=8E=
+=D1=89=D0=B8=D0=B9 ngDoCheck().</li>
+<li>ngAfterViewInit() - =D0=B2=D1=8B=D0=B7=D1=8B=D0=B2=D0=B0=D0=B5=D1=82=D1=
+=81=D1=8F =D0=BF=D0=BE=D1=81=D0=BB=D0=B5 =D0=B8=D0=BD=D0=B8=D1=86=D0=B8=D0=
+=B0=D0=BB=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8 =D0=BE=D1=82=D0=BE=D0=B1=D1=
+=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=
+=BD=D0=B5=D0=BD=D1=82=D0=B0 =D0=B8 =D0=B4=D0=BE=D1=87=D0=B5=D1=80=D0=BD=D0=
+=B8=D1=85/=D0=B4=D0=B8=D1=80=D0=B5=D0=BA=D1=82=D0=B8=D0=B2. =D0=92=D1=8B=D0=
+=B7=D1=8B=D0=B2=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=B5=D0=B4=D0=B8=D0=BD=D0=
+=BE=D0=B6=D0=B4=D1=8B, =D0=BF=D0=BE=D1=81=D0=BB=D0=B5 =D0=BF=D0=B5=D1=80=D0=
+=B2=D0=BE=D0=B3=D0=BE ngAfterContentChecked().</li>
+<li>ngAfterViewChecked() - =D1=80=D0=B5=D0=B0=D0=B3=D0=B8=D1=80=D1=83=D0=B5=
+=D1=82 =D0=BD=D0=B0 =D0=BF=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=BA=D1=83 =D0=BE=
+=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F =D0=BA=D0=BE=
+=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=BD=D1=82=D0=B0 =D0=B8 =D0=B4=D0=BE=D1=87=
+=D0=B5=D1=80=D0=BD=D0=B8=D1=85/=D0=B4=D0=B8=D1=80=D0=B5=D0=BA=D1=82=D0=B8=
+=D0=B2. =D0=92=D1=8B=D0=B7=D1=8B=D0=B2=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=BF=
+=D0=BE=D1=81=D0=BB=D0=B5 ngAfterViewInit() =D0=B8 =D0=BA=D0=B0=D0=B6=D0=B4=
+=D1=8B=D0=B9 =D0=BF=D0=BE=D1=81=D0=BB=D0=B5=D0=B4=D1=83=D1=8E=D1=89=D0=B8=
+=D0=B9 ngAfterContentChecked().</li>
+<li>ngOnDestroy() - =D0=BF=D0=BE=D1=81=D0=BB=D0=B5 =D1=83=D0=BD=D0=B8=D1=87=
+=D1=82=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F =D0=B4=D0=B8=D1=80=D0=B5=D0=BA=
+=D1=82=D0=B8=D0=B2=D1=8B/=D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=BD=
+=D1=82=D0=B0 =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D1=8F=D0=B5=D1=82=D1=81=
+=D1=8F =D0=BE=D1=87=D0=B8=D1=81=D1=82=D0=BA=D0=B0. =D0=9E=D1=82=D0=BF=D0=B8=
+=D1=81=D1=8B=D0=B2=D0=B0=D0=B5=D1=82 Observables =D0=B8 =D0=BE=D1=82=D0=BA=
+=D0=BB=D1=8E=D1=87=D0=B0=D0=B5=D1=82 =D0=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=
+=D1=82=D1=87=D0=B8=D0=BA=D0=B8 =D1=81=D0=BE=D0=B1=D1=8B=D1=82=D0=B8=D0=B9, =
+=D1=87=D1=82=D0=BE=D0=B1=D1=8B =D0=B8=D0=B7=D0=B1=D0=B5=D0=B6=D0=B0=D1=82=
+=D1=8C =D1=83=D1=82=D0=B5=D1=87=D0=B5=D0=BA =D0=BF=D0=B0=D0=BC=D1=8F=D1=82=
+=D0=B8.</li>
+</ul>
+</div>
+</div>
+<div id=3D"expander-175812177" class=3D"expand-container">
+<div id=3D"expander-control-175812177" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 Data Binding =D0=B8 =D0=BA=D0=B0=D0=BA=D0=B8=D0=B5 =
+=D0=BF=D1=80=D0=BE=D0=B1=D0=BB=D0=B5=D0=BC=D1=8B =D1=81=D0=B2=D1=8F=D0=B7=
+=D0=B0=D0=BD=D0=BD=D1=8B=D0=B5 =D1=81 =D0=BD=D0=B8=D0=BC =D0=B2=D1=8B =D0=
+=B7=D0=BD=D0=B0=D0=B5=D1=82=D0=B5?</span>
+</div>
+<div id=3D"expander-content-175812177" class=3D"expand-content">
+<p><span style=3D"color: rgb(36,41,46);">Angular =D0=BF=D0=BE=D0=B4=D0=B4=
+=D0=B5=D1=80=D0=B6=D0=B8=D0=B2=D0=B0=D0=B5=D1=82 =D0=BE=D0=B4=D0=BD=D0=BE=
+=D1=81=D1=82=D0=BE=D1=80=D0=BE=D0=BD=D0=BD=D1=8E=D1=8E =D0=B8 =D0=B4=D0=B2=
+=D1=83=D1=81=D1=82=D0=BE=D1=80=D0=BE=D0=BD=D0=BD=D1=8E=D1=8E Data Binding. =
+=D0=AD=D1=82=D0=BE =D0=BC=D0=B5=D1=85=D0=B0=D0=BD=D0=B8=D0=B7=D0=BC =D0=BA=
+=D0=BE=D0=BE=D1=80=D0=B4=D0=B8=D0=BD=D0=B0=D1=86=D0=B8=D0=B8 =D1=87=D0=B0=
+=D1=81=D1=82=D0=B5=D0=B9 =D1=88=D0=B0=D0=B1=D0=BB=D0=BE=D0=BD=D0=B0 =D1=81 =
+=D1=87=D0=B0=D1=81=D1=82=D1=8F=D0=BC=D0=B8 =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=
+=D0=BD=D0=B5=D0=BD=D1=82=D0=B0.</span><br><span style=3D"color: rgb(36,41,4=
+6);">=D0=94=D0=BE=D0=B1=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D0=B5 =D1=81=D0=
+=BF=D0=B5=D1=86=D0=B8=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE=D0=B9 =D1=80=D0=B0=D0=
+=B7=D0=BC=D0=B5=D1=82=D0=BA=D0=B8 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B0=D0=
+=B5=D1=82 Angular =D0=BA=D0=B0=D0=BA =D1=81=D0=BE=D0=B5=D0=B4=D0=B8=D0=BD=
+=D1=8F=D1=82=D1=8C =D0=BE=D0=B1=D0=B5 =D1=81=D1=82=D0=BE=D1=80=D0=BE=D0=BD=
+=D1=8B. =D0=A1=D0=BB=D0=B5=D0=B4=D1=83=D1=8E=D1=89=D0=B0=D1=8F =D0=B4=D0=B8=
+=D0=B0=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D0=B0 =D0=BF=D0=BE=D0=BA=D0=B0=D0=B7=
+=D1=8B=D0=B2=D0=B0=D0=B5=D1=82 =D1=87=D0=B5=D1=82=D1=8B=D1=80=D0=B5 =D1=84=
+=D0=BE=D1=80=D0=BC=D1=8B =D0=BF=D1=80=D0=B8=D0=B2=D1=8F=D0=B7=D0=BA=D0=B8 =
+=D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D1=85.</span><br><span style=3D"color: rgb(3=
+6,41,46);">=D0=9E=D0=B4=D0=BD=D0=BE=D1=81=D1=82=D0=BE=D1=80=D0=BE=D0=BD=D0=
+=BD=D0=B8=D0=B5:</span></p>
+<ul>
+<li>=D0=9E=D1=82 =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=BD=D1=82=D0=
+=B0 =D0=BA DOM =D1=81 =D0=BF=D1=80=D0=B8=D0=B2=D1=8F=D0=B7=D0=BA=D0=BE=D0=
+=B9 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D1=8F: {{<a href=3D"http://h=
+ero.name" class=3D"external-link" rel=3D"nofollow">hero.name</a>}}</li>
+<li>=D0=9E=D1=82 =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=BD=D1=82=D0=
+=B0 =D0=BA DOM =D1=81 =D0=BF=D1=80=D0=B8=D0=B2=D1=8F=D0=B7=D0=BA=D0=BE=D0=
+=B9 =D1=81=D0=B2=D0=BE=D0=B9=D1=81=D1=82=D0=B2=D0=B0 =D0=B8 =D0=BF=D1=80=D0=
+=B8=D1=81=D0=B2=D0=BE=D0=B5=D0=BD=D0=B8=D0=B5=D0=BC =D0=B7=D0=BD=D0=B0=D1=
+=87=D0=B5=D0=BD=D0=B8=D1=8F: [hero]=3D"selectedHero"</li>
+<li>=D0=9E=D1=82 DOM =D0=BA =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=
+=BD=D1=82=D1=83 =D1=81 =D0=BF=D1=80=D0=B8=D0=B2=D1=8F=D0=B7=D0=BA=D0=BE=D0=
+=B9 =D0=BD=D0=B0 =D0=B8=D0=B2=D0=B5=D0=BD=D1=82: (click)=3D"selectHero(hero=
+)"</li>
+</ul>
+<p><br>=D0=94=D0=B2=D1=83=D1=81=D1=82=D0=BE=D1=80=D0=BE=D0=BD=D0=BD=D1=8F=
+=D1=8F =D0=B2 =D0=BE=D1=81=D0=BD=D0=BE=D0=B2=D0=BD=D0=BE=D0=BC =D0=B8=D1=81=
+=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D0=B5=D1=82=D1=81=D1=8F =D0=B2 templat=
+e-driven forms, =D1=81=D0=BE=D1=87=D0=B5=D1=82=D0=B0=D0=B5=D1=82 =D0=B2 =D1=
+=81=D0=B5=D0=B1=D0=B5 =D0=BF=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=80 =D0=
+=B8 =D0=B8=D0=B2=D0=B5=D0=BD=D1=82.</p>
+</div>
+</div>
+<div id=3D"expander-1324322891" class=3D"expand-container">
+<div id=3D"expander-control-1324322891" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 ngZone?</span>
+</div>
+<div id=3D"expander-content-1324322891" class=3D"expand-content">
+<p><a href=3D"https://angular.io/api/core/NgZone" rel=3D"nofollow" style=3D=
+"text-decoration: none;" class=3D"external-link">NgZone</a><span>&nbsp;</sp=
+an>- =D1=8D=D1=82=D0=BE =D1=81=D0=B5=D1=80=D0=B2=D0=B8=D1=81, =D0=BA=D0=BE=
+=D1=82=D0=BE=D1=80=D1=8B=D0=B9 =D1=8F=D0=B2=D0=BB=D1=8F=D0=B5=D1=82=D1=81=
+=D1=8F =D0=BE=D0=B1=D1=91=D1=80=D1=82=D0=BA=D0=BE=D0=B9 =D0=BD=D0=B0=D0=B4 =
+zone.js, =D0=B4=D0=BB=D1=8F =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B5=D0=
+=BD=D0=B8=D1=8F =D0=BA=D0=BE=D0=B4=D0=B0 =D0=B2=D0=BD=D1=83=D1=82=D1=80=D0=
+=B8 =D0=B8=D0=BB=D0=B8 =D0=B2=D0=BD=D0=B5 =D0=B7=D0=BE=D0=BD=D1=8B Angular.=
+ =D0=AD=D1=82=D0=BE=D1=82 =D1=81=D0=B5=D1=80=D0=B2=D0=B8=D1=81 =D1=81=D0=BE=
+=D0=B7=D0=B4=D0=B0=D1=91=D1=82 =D0=B7=D0=BE=D0=BD=D1=83 =D1=81 =D0=B8=D0=BC=
+=D0=B5=D0=BD=D0=B5=D0=BC angular =D0=B4=D0=BB=D1=8F =D0=B0=D0=B2=D1=82=D0=
+=BE=D0=BC=D0=B0=D1=82=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=BE=D0=B3=D0=BE =D0=
+=B7=D0=B0=D0=BF=D1=83=D1=81=D0=BA=D0=B0 =D0=BE=D0=B1=D0=BD=D0=B0=D1=80=D1=
+=83=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F =D0=B8=D0=B7=D0=BC=D0=B5=D0=BD=D0=B5=D0=
+=BD=D0=B8=D0=B9, =D0=BA=D0=BE=D0=B3=D0=B4=D0=B0 =D0=B2=D1=8B=D0=BF=D0=BE=D0=
+=BB=D0=BD=D1=8F=D1=8E=D1=82=D1=81=D1=8F =D1=81=D0=BB=D0=B5=D0=B4=D1=83=D1=
+=8E=D1=89=D0=B8=D0=B5 =D1=83=D1=81=D0=BB=D0=BE=D0=B2=D0=B8=D1=8F:</p>
+<ul>
+<li>=D0=9A=D0=BE=D0=B3=D0=B4=D0=B0 =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D1=
+=8F=D0=B5=D1=82=D1=81=D1=8F =D1=81=D0=B8=D0=BD=D1=85=D1=80=D0=BE=D0=BD=D0=
+=BD=D0=B0=D1=8F =D0=B8=D0=BB=D0=B8 =D0=B0=D1=81=D0=B8=D0=BD=D1=85=D1=80=D0=
+=BE=D0=BD=D0=BD=D0=B0=D1=8F =D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D1=8F</li>
+<li>=D0=9A=D0=BE=D0=B3=D0=B4=D0=B0 =D0=BD=D0=B5=D1=82 =D0=B7=D0=B0=D0=BF=D0=
+=BB=D0=B0=D0=BD=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=BD=D0=BE=D0=B9 =D0=
+=BC=D0=B8=D0=BA=D1=80=D0=BE-=D0=B7=D0=B0=D0=B4=D0=B0=D1=87=D0=B8 =D0=B2 =D0=
+=BE=D1=87=D0=B5=D1=80=D0=B5=D0=B4=D0=B8</li>
+</ul>
+<p><br>=D0=9D=D0=B0=D0=B8=D0=B1=D0=BE=D0=BB=D0=B5=D0=B5 =D1=80=D0=B0=D1=81=
+=D0=BF=D1=80=D0=BE=D1=81=D1=82=D1=80=D0=B0=D0=BD=D1=91=D0=BD=D0=BD=D0=BE=D0=
+=B5 =D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=B8=D0=B5 NgZone =E2=
+=80=94 =D1=8D=D1=82=D0=BE =D0=BE=D0=BF=D1=82=D0=B8=D0=BC=D0=B8=D0=B7=D0=B0=
+=D1=86=D0=B8=D1=8F =D0=BF=D1=80=D0=BE=D0=B8=D0=B7=D0=B2=D0=BE=D0=B4=D0=B8=
+=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE=D1=81=D1=82=D0=B8 =D0=BF=D0=BE=D1=81=
+=D1=80=D0=B5=D0=B4=D1=81=D1=82=D0=B2=D0=BE=D0=BC =D0=B2=D1=8B=D0=BF=D0=BE=
+=D0=BB=D0=BD=D0=B5=D0=BD=D0=B8=D1=8F =D0=B0=D1=81=D0=B8=D0=BD=D1=85=D1=80=
+=D0=BE=D0=BD=D0=BD=D0=BE=D0=B9 =D0=BB=D0=BE=D0=B3=D0=B8=D0=BA=D0=B8 =D0=B2=
+=D0=BD=D0=B5 =D0=B7=D0=BE=D0=BD=D1=8B Angular (=D0=BC=D0=B5=D1=82=D0=BE=D0=
+=B4<span>&nbsp;</span><code>runOutsideAngular</code>), =D1=82=D0=B5=D0=BC =
+=D1=81=D0=B0=D0=BC=D1=8B=D0=BC =D0=BD=D0=B5 =D0=B2=D1=8B=D0=B7=D1=8B=D0=B2=
+=D0=B0=D1=8F =D0=BE=D0=B1=D0=BD=D0=B0=D1=80=D1=83=D0=B6=D0=B5=D0=BD=D0=B8=
+=D0=B5 =D0=B8=D0=B7=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=B8=D0=B9 =D0=B8=D0=BB=
+=D0=B8 =D0=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D1=83 =D0=BE=D1=88=
+=D0=B8=D0=B1=D0=BE=D0=BA. =D0=98=D0=BB=D0=B8 =D0=BD=D0=B0=D0=BE=D0=B1=D0=BE=
+=D1=80=D0=BE=D1=82, =D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9 =D1=81=D0=B5=D1=80=
+=D0=B2=D0=B8=D1=81 =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=B8=D1=81=D0=BF=D0=BE=
+=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C=D1=81=D1=8F =D0=B4=D0=BB=
+=D1=8F =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B5=D0=BD=D0=B8=D1=8F =D0=BB=
+=D0=BE=D0=B3=D0=B8=D0=BA=D0=B8 =D0=B2=D0=BD=D1=83=D1=82=D1=80=D0=B8 =D0=B7=
+=D0=BE=D0=BD=D1=8B (=D0=BC=D0=B5=D1=82=D0=BE=D0=B4<span>&nbsp;</span><code>=
+run</code>), =D1=87=D1=82=D0=BE =D0=B2 =D0=BA=D0=BE=D0=BD=D0=B5=D1=87=D0=BD=
+=D0=BE=D0=BC =D0=B8=D1=82=D0=BE=D0=B3=D0=B5 =D0=BF=D1=80=D0=B8=D0=B2=D0=B5=
+=D0=B4=D1=91=D1=82 =D0=BA =D1=82=D0=BE=D0=BC=D1=83, =D1=87=D1=82=D0=BE Angu=
+lar =D1=81=D0=BD=D0=BE=D0=B2=D0=B0 =D0=B2=D1=8B=D0=B7=D0=BE=D0=B2=D0=B5=D1=
+=82 =D0=BE=D0=B1=D0=BD=D0=B0=D1=80=D1=83=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5 =D0=
+=B8=D0=B7=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=B8=D0=B9 =D0=B8 =D0=BF=D1=80=D0=
+=B8 =D0=BD=D0=B5=D0=BE=D0=B1=D1=85=D0=BE=D0=B4=D0=B8=D0=BC=D0=BE=D1=81=D1=
+=82=D0=B8 =D0=BF=D0=B5=D1=80=D0=B5=D1=80=D0=B8=D1=81=D1=83=D0=B5=D1=82 =D0=
+=BF=D1=80=D0=B5=D0=B4=D1=81=D1=82=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D0=B5=
+.</p>
+</div>
+</div>
+<div id=3D"expander-1822429380" class=3D"expand-container">
+<div id=3D"expander-control-1822429380" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 EventEmitter =D0=B8 =D0=BA=D0=B0=D0=BA =D0=BF=D0=BE=
+=D0=B4=D0=BF=D0=B8=D1=81=D1=8B=D0=B2=D0=B0=D1=82=D1=8C=D1=81=D1=8F =D0=BD=
+=D0=B0 =D1=81=D0=BE=D0=B1=D1=8B=D1=82=D0=B8=D1=8F?</span>
+</div>
+<div id=3D"expander-content-1822429380" class=3D"expand-content">
+<p><span style=3D"color: rgb(36,41,46);">=D0=98=D1=81=D0=BF=D0=BE=D0=BB=D1=
+=8C=D0=B7=D1=83=D0=B5=D1=82=D1=81=D1=8F =D0=B2 =D0=B4=D0=B8=D1=80=D0=B5=D0=
+=BA=D1=82=D0=B8=D0=B2=D0=B0=D1=85 =D0=B8 =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=
+=BD=D0=B5=D0=BD=D1=82=D0=B0=D1=85 =D0=B4=D0=BB=D1=8F =D0=BF=D0=BE=D0=B4=D0=
+=BF=D0=B8=D1=81=D0=BA=D0=B8 =D0=BD=D0=B0 =D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=
+=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D1=81=D0=BA=D0=B8=D0=B5 =D0=B8=D0=
+=B2=D0=B5=D0=BD=D1=82=D1=8B =D1=81=D0=B8=D0=BD=D1=85=D1=80=D0=BE=D0=BD=D0=
+=BD=D0=BE =D0=B8=D0=BB=D0=B8 =D0=B0=D1=81=D0=B8=D0=BD=D1=85=D1=80=D0=BE=D0=
+=BD=D0=BD=D0=BE, =D0=B8 =D1=80=D0=B5=D0=B3=D0=B8=D1=81=D1=82=D1=80=D0=B0=D1=
+=86=D0=B8=D0=B8 =D0=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D1=87=D0=B8=D0=
+=BA=D0=BE=D0=B2 =D0=B4=D0=BB=D1=8F =D1=8D=D1=82=D0=B8=D1=85 =D0=B8=D0=B2=D0=
+=B5=D0=BD=D1=82=D0=BE=D0=B2.</span></p>
+</div>
+</div>
+<div id=3D"expander-1581403145" class=3D"expand-container">
+<div id=3D"expander-control-1581403145" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 Change Detection, =D0=BA=D0=B0=D0=BA =D1=80=D0=B0=D0=
+=B1=D0=BE=D1=82=D0=B0=D0=B5=D1=82 Change Detection Mechanism?</span>
+</div>
+<div id=3D"expander-content-1581403145" class=3D"expand-content">
+<h4 id=3D"QuestionsforInterview-ChangeDetection">Change Detection</h4>
+<p>Change Detection - =D0=BF=D1=80=D0=BE=D1=86=D0=B5=D1=81=D1=81 =D1=81=D0=
+=B8=D0=BD=D1=85=D1=80=D0=BE=D0=BD=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8 =D0=
+=BC=D0=BE=D0=B4=D0=B5=D0=BB=D0=B8 =D1=81 =D0=BF=D1=80=D0=B5=D0=B4=D1=81=D1=
+=82=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D0=B5=D0=BC. =D0=92 Angular =D0=BF=
+=D0=BE=D1=82=D0=BE=D0=BA =D0=B8=D0=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=
+=D0=B8=D0=B8 =D0=BE=D0=B4=D0=BD=D0=BE=D0=BD=D0=B0=D0=BF=D1=80=D0=B0=D0=B2=
+=D0=BB=D0=B5=D0=BD=D0=BD=D1=8B=D0=B9, =D0=B4=D0=B0=D0=B6=D0=B5 =D0=BF=D1=80=
+=D0=B8 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=
+=D0=B8=D0=B8<span>&nbsp;</span><code>ngModel</code><span>&nbsp;</span>=D0=
+=B4=D0=BB=D1=8F =D1=80=D0=B5=D0=B0=D0=BB=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=
+=B8 =D0=B4=D0=B2=D1=83=D1=81=D1=82=D0=BE=D1=80=D0=BE=D0=BD=D0=BD=D0=B5=D0=
+=B3=D0=BE =D1=81=D0=B2=D1=8F=D0=B7=D1=8B=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F, =D0=
+=BA=D0=BE=D1=82=D0=BE=D1=80=D0=B0=D1=8F =D1=8F=D0=B2=D0=BB=D1=8F=D0=B5=D1=
+=82=D1=81=D1=8F =D1=81=D0=B8=D0=BD=D1=82=D0=B0=D0=BA=D1=81=D0=B8=D1=87=D0=
+=B5=D1=81=D0=BA=D0=B8=D0=BC =D1=81=D0=B0=D1=85=D0=B0=D1=80=D0=BE=D0=BC =D0=
+=BF=D0=BE=D0=B2=D0=B5=D1=80=D1=85 =D0=BE=D0=B4=D0=BD=D0=BE=D0=BD=D0=B0=D0=
+=BF=D1=80=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D0=BF=D0=
+=BE=D1=82=D0=BE=D0=BA=D0=B0.</p>
+<h4 id=3D"QuestionsforInterview-ChangeDetectionMechanism">Change Detection =
+Mechanism</h4>
+<p>Change Detection Mechanism - =D0=BF=D1=80=D0=BE=D0=B4=D0=B2=D0=B8=D0=B3=
+=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D1=82=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE =D0=B2=
+=D0=BF=D0=B5=D1=80=D0=B5=D0=B4 =D0=B8 =D0=BD=D0=B8=D0=BA=D0=BE=D0=B3=D0=B4=
+=D0=B0 =D0=BD=D0=B5 =D0=BE=D0=B3=D0=BB=D1=8F=D0=B4=D1=8B=D0=B2=D0=B0=D0=B5=
+=D1=82=D1=81=D1=8F =D0=BD=D0=B0=D0=B7=D0=B0=D0=B4, =D0=BD=D0=B0=D1=87=D0=B8=
+=D0=BD=D0=B0=D1=8F =D1=81 =D0=BA=D0=BE=D1=80=D0=BD=D0=B5=D0=B2=D0=BE=D0=B3=
+=D0=BE (=D1=80=D1=83=D1=82) =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=
+=BD=D1=82=D0=B0 =D0=B4=D0=BE =D0=BF=D0=BE=D1=81=D0=BB=D0=B5=D0=B4=D0=BD=D0=
+=B5=D0=B3=D0=BE. =D0=92 =D1=8D=D1=82=D0=BE=D0=BC =D0=B8 =D0=B5=D1=81=D1=82=
+=D1=8C =D1=81=D0=BC=D1=8B=D1=81=D0=BB =D0=BE=D0=B4=D0=BD=D0=BE=D1=81=D1=82=
+=D0=BE=D1=80=D0=BE=D0=BD=D0=BD=D0=B5=D0=B3=D0=BE =D0=BF=D0=BE=D1=82=D0=BE=
+=D0=BA=D0=B0 =D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D1=85. =D0=90=D1=80=D1=85=D0=B8=
+=D1=82=D0=B5=D0=BA=D1=82=D1=83=D1=80=D0=B0 Angular =D0=BF=D1=80=D0=B8=D0=BB=
+=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F =D0=BE=D1=87=D0=B5=D0=BD=D1=8C =D0=BF=
+=D1=80=D0=BE=D1=81=D1=82=D0=B0 =E2=80=94 =D0=B4=D0=B5=D1=80=D0=B5=D0=B2=D0=
+=BE =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=BD=D1=82=D0=BE=D0=B2. =D0=
+=9A=D0=B0=D0=B6=D0=B4=D1=8B=D0=B9 =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=
+=B5=D0=BD=D1=82 =D1=83=D0=BA=D0=B0=D0=B7=D1=8B=D0=B2=D0=B0=D0=B5=D1=82 =D0=
+=BD=D0=B0 =D0=B4=D0=BE=D1=87=D0=B5=D1=80=D0=BD=D0=B8=D0=B9, =D0=BD=D0=BE =
+=D0=B4=D0=BE=D1=87=D0=B5=D1=80=D0=BD=D0=B8=D0=B9 =D0=BD=D0=B5 =D1=83=D0=BA=
+=D0=B0=D0=B7=D1=8B=D0=B2=D0=B0=D0=B5=D1=82 =D0=BD=D0=B0 =D1=80=D0=BE=D0=B4=
+=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D1=81=D0=BA=D0=B8=D0=B9. =D0=9E=D0=B4=D0=BD=
+=D0=BE=D1=81=D1=82=D0=BE=D1=80=D0=BE=D0=BD=D0=BD=D0=B8=D0=B9 =D0=BF=D0=BE=
+=D1=82=D0=BE=D0=BA =D1=83=D1=81=D1=82=D1=80=D0=B0=D0=BD=D1=8F=D0=B5=D1=82 =
+=D0=BD=D0=B5=D0=BE=D0=B1=D1=85=D0=BE=D0=B4=D0=B8=D0=BC=D0=BE=D1=81=D1=82=D1=
+=8C<span>&nbsp;</span><code>$digest</code><span>&nbsp;</span>=D1=86=D0=B8=
+=D0=BA=D0=BB=D0=B0.</p>
+</div>
+</div>
+<div id=3D"expander-1197250556" class=3D"expand-container">
+<div id=3D"expander-control-1197250556" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=9A=D0=B0=D0=BA=D0=B8=D0=
+=B5 =D1=81=D1=83=D1=89=D0=B5=D1=81=D1=82=D0=B2=D1=83=D1=8E=D1=82 =D1=81=D1=
+=82=D1=80=D0=B0=D1=82=D0=B5=D0=B3=D0=B8=D0=B8 =D0=BE=D0=B1=D0=BD=D0=B0=D1=
+=80=D1=83=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F =D0=B8=D0=B7=D0=BC=D0=B5=D0=BD=D0=
+=B5=D0=BD=D0=B8=D0=B9?</span>
+</div>
+<div id=3D"expander-content-1197250556" class=3D"expand-content">
+<p><span style=3D"color: rgb(36,41,46);">=D0=92=D1=81=D0=B5=D0=B3=D0=BE =D0=
+=B5=D1=81=D1=82=D1=8C =D0=B4=D0=B2=D0=B5 =D1=81=D1=82=D1=80=D0=B0=D1=82=D0=
+=B5=D0=B3=D0=B8=D0=B8 -<span>&nbsp;</span></span><code>Default</code><span =
+style=3D"color: rgb(36,41,46);"><span>&nbsp;</span>=D0=B8<span>&nbsp;</span=
+></span><code>OnPush</code><span style=3D"color: rgb(36,41,46);">. =D0=95=
+=D1=81=D0=BB=D0=B8 =D0=B2=D1=81=D0=B5 =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=
+=D0=B5=D0=BD=D1=82=D1=8B =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=
+=D1=8E=D1=82 =D0=BF=D0=B5=D1=80=D0=B2=D1=83=D1=8E =D1=81=D1=82=D1=80=D0=B0=
+=D1=82=D0=B5=D0=B3=D0=B8=D1=8E, =D1=82=D0=BE<span>&nbsp;</span></span><code=
+>Zone</code><span style=3D"color: rgb(36,41,46);"><span>&nbsp;</span>=D0=BF=
+=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D1=8F=D0=B5=D1=82 =D0=B2=D1=81=D0=B5 =D0=B4=
+=D0=B5=D1=80=D0=B5=D0=B2=D0=BE =D0=BD=D0=B5=D0=B7=D0=B0=D0=B2=D0=B8=D1=81=
+=D0=B8=D0=BC=D0=BE =D0=BE=D1=82 =D1=82=D0=BE=D0=B3=D0=BE, =D0=B3=D0=B4=D0=
+=B5 =D0=BF=D1=80=D0=BE=D0=B8=D0=B7=D0=BE=D1=88=D0=BB=D0=BE =D0=B8=D0=B7=D0=
+=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=B8=D0=B5. =D0=A7=D1=82=D0=BE=D0=B1=D1=8B =D1=
+=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B8=D1=82=D1=8C Angular, =D1=87=D1=82=D0=BE =
+=D0=BC=D1=8B =D0=B1=D1=83=D0=B4=D0=B5=D0=BC =D1=81=D0=BE=D0=B1=D0=BB=D1=8E=
+=D0=B4=D0=B0=D1=82=D1=8C =D1=83=D1=81=D0=BB=D0=BE=D0=B2=D0=B8=D1=8F =D0=BF=
+=D0=BE=D0=B2=D1=8B=D1=88=D0=B5=D0=BD=D0=B8=D1=8F =D0=BF=D1=80=D0=BE=D0=B8=
+=D0=B7=D0=B2=D0=BE=D0=B4=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE=D1=81=D1=
+=82=D0=B8 =D0=BD=D1=83=D0=B6=D0=BD=D0=BE =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=
+=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D1=81=D1=82=D1=80=D0=B0=D1=82=D0=
+=B5=D0=B3=D0=B8=D1=8E =D0=BE=D0=B1=D0=BD=D0=B0=D1=80=D1=83=D0=B6=D0=B5=D0=
+=BD=D0=B8=D1=8F =D0=B8=D0=B7=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=B8=D0=B9<span=
+>&nbsp;</span></span><code>OnPush</code><span style=3D"color: rgb(36,41,46)=
+;">. =D0=AD=D1=82=D0=BE =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B8=D1=82 Angular,=
+ =D1=87=D1=82=D0=BE =D0=BD=D0=B0=D1=88 =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=
+=D0=B5=D0=BD=D1=82 =D0=B7=D0=B0=D0=B2=D0=B8=D1=81=D0=B8=D1=82 =D1=82=D0=BE=
+=D0=BB=D1=8C=D0=BA=D0=BE =D0=BE=D1=82 =D0=B2=D1=85=D0=BE=D0=B4=D0=BD=D1=8B=
+=D1=85 =D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D1=85 =D0=B8 =D0=BB=D1=8E=D0=B1=D0=BE=
+=D0=B9 =D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=D1=82, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=
+=D1=8B=D0=B9 =D0=BF=D0=B5=D1=80=D0=B5=D0=B4=D0=B0=D0=B5=D1=82=D1=81=D1=8F =
+=D0=B5=D0=BC=D1=83 =D0=B4=D0=BE=D0=BB=D0=B6=D0=B5=D0=BD =D1=81=D1=87=D0=B8=
+=D1=82=D0=B0=D1=82=D1=8C=D1=81=D1=8F immutable. =D0=AD=D1=82=D0=BE =D0=B2=
+=D1=81=D0=B5 =D0=BF=D0=BE=D1=81=D1=82=D1=80=D0=BE=D0=B5=D0=BD=D0=BE =D0=BD=
+=D0=B0 =D0=BF=D1=80=D0=B8=D0=BD=D1=86=D0=B8=D0=BF=D0=B5 =D0=B0=D0=B2=D1=82=
+=D0=BE=D0=BC=D0=B0=D1=82=D0=B0 =D0=9C=D0=B8=D0=BB=D0=B8, =D0=B3=D0=B4=D0=B5=
+ =D1=82=D0=B5=D0=BA=D1=83=D1=89=D0=B5=D0=B5 =D1=81=D0=BE=D1=81=D1=82=D0=BE=
+=D1=8F=D0=BD=D0=B8=D0=B5 =D0=B7=D0=B0=D0=B2=D0=B8=D1=81=D0=B8=D1=82 =D1=82=
+=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE =D0=BE=D1=82 =D0=B2=D1=85=D0=BE=D0=B4=D0=BD=
+=D1=8B=D1=85 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B9.</span></p>
+</div>
+</div>
+<div id=3D"expander-663726683" class=3D"expand-container">
+<div id=3D"expander-control-663726683" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=9E=D1=81=D0=BD=D0=BE=D0=
+=B2=D0=BD=D0=BE=D0=B5 =D0=BE=D1=82=D0=BB=D0=B8=D1=87=D0=B8=D0=B5 constructo=
+r =D0=BE=D1=82 ngOnInit?</span>
+</div>
+<div id=3D"expander-content-663726683" class=3D"expand-content">
+<p><span style=3D"color: rgb(36,41,46);">=D0=9A=D0=BE=D0=BD=D1=81=D1=82=D1=
+=80=D1=83=D0=BA=D1=82=D0=BE=D1=80 =D1=81=D0=B0=D0=BC =D0=BF=D0=BE =D1=81=D0=
+=B5=D0=B1=D0=B5 =D1=8F=D0=B2=D0=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D1=84=D0=
+=B8=D1=87=D0=B5=D0=B9 =D1=81=D0=B0=D0=BC=D0=BE=D0=B3=D0=BE =D0=BA=D0=BB=D0=
+=B0=D1=81=D1=81=D0=B0, =D0=B0 =D0=BD=D0=B5 Angular. =D0=9E=D1=81=D0=BD=D0=
+=BE=D0=B2=D0=BD=D0=B0=D1=8F =D1=80=D0=B0=D0=B7=D0=BD=D0=B8=D1=86=D0=B0 =D0=
+=B2 =D1=82=D0=BE=D0=BC, =D1=87=D1=82=D0=BE Angular =D0=B7=D0=B0=D0=BF=D1=83=
+=D1=81=D1=82=D0=B8=D1=82<span>&nbsp;</span></span><code>ngOnInit</code><spa=
+n style=3D"color: rgb(36,41,46);">, =D0=BF=D0=BE=D1=81=D0=BB=D0=B5 =D1=82=
+=D0=BE=D0=B3=D0=BE, =D0=BA=D0=B0=D0=BA =D0=B7=D0=B0=D0=BA=D0=BE=D0=BD=D1=87=
+=D0=B8=D1=82 =D0=BD=D0=B0=D1=81=D1=82=D1=80=D0=BE=D0=B9=D0=BA=D1=83 =D0=BA=
+=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=BD=D1=82=D0=B0, =D1=82=D0=BE =D0=B5=
+=D1=81=D1=82=D1=8C, =D1=8D=D1=82=D0=BE =D1=81=D0=B8=D0=B3=D0=BD=D0=B0=D0=BB=
+, =D0=B1=D0=BB=D0=B0=D0=B3=D0=BE=D0=B4=D0=B0=D1=80=D1=8F =D0=BA=D0=BE=D1=82=
+=D0=BE=D1=80=D0=BE=D0=BC=D1=83 =D1=81=D0=B2=D0=BE=D0=B9=D1=81=D1=82=D0=B2=
+=D0=B0<span>&nbsp;</span></span><code>@Input()</code><span style=3D"color: =
+rgb(36,41,46);"><span>&nbsp;</span>=D0=B8 =D0=B4=D1=80=D1=83=D0=B3=D0=B8=D0=
+=B5 =D0=B1=D0=B0=D0=B9=D0=BD=D0=B4=D0=B8=D0=BD=D0=B3=D0=B8, =D0=B8 =D0=B4=
+=D0=B5=D0=BA=D0=BE=D1=80=D0=B8=D1=80=D1=83=D0=B5=D0=BC=D1=8B=D0=B5 =D1=81=
+=D0=B2=D0=BE=D0=B9=D1=81=D1=82=D0=B2=D0=B0 =D0=B4=D0=BE=D1=81=D1=82=D1=83=
+=D0=BF=D0=BD=D1=8B =D0=B2<span>&nbsp;</span></span><code>ngOnInit</code><sp=
+an style=3D"color: rgb(36,41,46);">, =D0=BD=D0=BE =D0=BD=D0=B5 =D0=BE=D0=BF=
+=D1=80=D0=B5=D0=B4=D0=B5=D0=BB=D0=B5=D0=BD=D1=8B =D0=B2=D0=BD=D1=83=D1=82=
+=D1=80=D0=B8 =D0=BA=D0=BE=D0=BD=D1=81=D1=82=D1=80=D1=83=D0=BA=D1=82=D0=BE=
+=D1=80=D0=B0, =D0=BF=D0=BE =D0=B4=D0=B8=D0=B7=D0=B0=D0=B9=D0=BD=D1=83.</spa=
+n></p>
+</div>
+</div>
+<div id=3D"expander-1053402479" class=3D"expand-container">
+<div id=3D"expander-control-1053402479" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 Dependency Injection?</span>
+</div>
+<div id=3D"expander-content-1053402479" class=3D"expand-content">
+<p><span style=3D"color: rgb(36,41,46);">=D0=AD=D1=82=D0=BE =D0=B2=D0=B0=D0=
+=B6=D0=BD=D1=8B=D0=B9 =D0=BF=D0=B0=D1=82=D1=82=D0=B5=D1=80=D0=BD =D1=88=D0=
+=B0=D0=B1=D0=BB=D0=BE=D0=BD =D0=BF=D1=80=D0=BE=D0=B5=D0=BA=D1=82=D0=B8=D1=
+=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=
+=B6=D0=B5=D0=BD=D0=B8=D0=B9. =D0=92 Angular =D0=B2=D0=BD=D0=B5=D0=B4=D1=80=
+=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B7=D0=B0=D0=B2=D0=B8=D1=81=D0=B8=D0=BC=D0=BE=
+=D1=81=D1=82=D0=B5=D0=B9 =D1=80=D0=B5=D0=B0=D0=BB=D0=B8=D0=B7=D0=BE=D0=B2=
+=D0=B0=D0=BD=D0=BE =D0=B8=D0=B7-=D0=BF=D0=BE=D0=B4 =D0=BA=D0=B0=D0=BF=D0=BE=
+=D1=82=D0=B0.</span><br><br><span style=3D"color: rgb(36,41,46);">=D0=97=D0=
+=B0=D0=B2=D0=B8=D1=81=D0=B8=D0=BC=D0=BE=D1=81=D1=82=D0=B8 - =D1=8D=D1=82=D0=
+=BE =D1=81=D0=B5=D1=80=D0=B2=D0=B8=D1=81=D1=8B =D0=B8=D0=BB=D0=B8 =D0=BE=D0=
+=B1=D1=8A=D0=B5=D0=BA=D1=82=D1=8B, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=
+=B5 =D0=BD=D1=83=D0=B6=D0=BD=D1=8B =D0=BA=D0=BB=D0=B0=D1=81=D1=81=D1=83 =D0=
+=B4=D0=BB=D1=8F =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B5=D0=BD=D0=B8=D1=
+=8F =D1=81=D0=B2=D0=BE=D0=B8=D1=85 =D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D0=
+=B9. DI -=D0=BF=D0=BE=D0=B7=D0=B2=D0=BE=D0=BB=D1=8F=D0=B5=D1=82 =D0=B7=D0=
+=B0=D0=BF=D1=80=D0=B0=D1=88=D0=B8=D0=B2=D0=B0=D1=82=D1=8C =D0=B7=D0=B0=D0=
+=B2=D0=B8=D1=81=D0=B8=D0=BC=D0=BE=D1=81=D1=82=D0=B8 =D0=BE=D1=82 =D0=B2=D0=
+=BD=D0=B5=D1=88=D0=BD=D0=B8=D1=85 =D0=B8=D1=81=D1=82=D0=BE=D1=87=D0=BD=D0=
+=B8=D0=BA=D0=BE=D0=B2.</span></p>
+</div>
+</div>
+<div id=3D"expander-1303607329" class=3D"expand-container">
+<div id=3D"expander-control-1303607329" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 Singleton Service =D0=B8 =D1=81 =D0=BA=D0=B0=D0=BA=D0=
+=BE=D0=B9 =D1=86=D0=B5=D0=BB=D1=8C=D1=8E =D0=B5=D0=B3=D0=BE =D0=B8=D1=81=D0=
+=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D1=8E=D1=82 =D0=B2 Angular?</span>
+</div>
+<div id=3D"expander-content-1303607329" class=3D"expand-content">
+<p>=D0=AD=D1=82=D0=BE =D1=81=D0=B5=D1=80=D0=B2=D0=B8=D1=81=D1=8B, =D0=BE=D0=
+=B1=D1=8A=D1=8F=D0=B2=D0=BB=D0=B5=D0=BD=D0=BD=D1=8B=D0=B5 =D0=B2 =D0=BF=D1=
+=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D0=B8 =D0=B8 =D0=B8=D0=BC=D0=
+=B5=D1=8E=D1=89=D0=B8=D0=B5 =D0=BE=D0=B4=D0=B8=D0=BD =D1=8D=D0=BA=D0=B7=D0=
+=B5=D0=BC=D0=BF=D0=BB=D1=8F=D1=80 =D0=BD=D0=B0 =D0=B2=D1=81=D0=B5 =D0=BF=D1=
+=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5. =D0=95=D0=B3=D0=BE =D0=
+=BC=D0=BE=D0=B6=D0=BD=D0=BE =D0=BE=D0=B1=D1=8A=D1=8F=D0=B2=D0=B8=D1=82=D1=
+=8C =D0=B4=D0=B2=D1=83=D0=BC=D1=8F =D1=81=D0=BF=D0=BE=D1=81=D0=BE=D0=B1=D0=
+=B0=D0=BC=D0=B8:</p>
+<ul>
+<li>=D0=9E=D0=B1=D1=8A=D1=8F=D0=B2=D0=B8=D1=82=D1=8C =D0=B5=D0=B3=D0=BE @In=
+jectable(root)</li>
+<li>=D0=92=D0=BA=D0=BB=D1=8E=D1=87=D0=B8=D1=82=D1=8C =D0=B5=D0=B3=D0=BE =D0=
+=B2 AppModule =D0=B2 providers.</li>
+</ul>
+</div>
+</div>
+<div id=3D"expander-75398484" class=3D"expand-container">
+<div id=3D"expander-control-75398484" class=3D"expand-control" aria-expande=
+d=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 HTTP Interceptors?</span>
+</div>
+<div id=3D"expander-content-75398484" class=3D"expand-content">
+<p><span style=3D"color: rgb(36,41,46);">Interceptor (=D0=BF=D0=B5=D1=80=D0=
+=B5=D1=85=D0=B2=D0=B0=D1=82=D1=87=D0=B8=D0=BA) - =D0=BF=D1=80=D0=BE=D1=81=
+=D1=82=D0=BE =D0=BF=D1=80=D0=B8=D1=87=D1=83=D0=B4=D0=BB=D0=B8=D0=B2=D0=BE=
+=D0=B5 =D1=81=D0=BB=D0=BE=D0=B2=D0=BE =D0=B4=D0=BB=D1=8F =D1=84=D1=83=D0=BD=
+=D0=BA=D1=86=D0=B8=D0=B8, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=B0=D1=8F =D0=BF=
+=D0=BE=D0=BB=D1=83=D1=87=D0=B0=D0=B5=D1=82 =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=
+=D1=81=D1=8B / =D0=BE=D1=82=D0=B2=D0=B5=D1=82=D1=8B =D0=B4=D0=BE =D1=82=D0=
+=BE=D0=B3=D0=BE, =D0=BA=D0=B0=D0=BA =D0=BE=D0=BD=D0=B8 =D0=B1=D1=83=D0=B4=
+=D1=83=D1=82 =D0=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=B0=D0=BD=D1=8B /=
+ =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D1=8B =D0=BD=D0=B0 =
+=D1=81=D0=B5=D1=80=D0=B2=D0=B5=D1=80. =D0=9D=D1=83=D0=B6=D0=BD=D0=BE =D0=B8=
+=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=BF=
+=D0=B5=D1=80=D0=B5=D1=85=D0=B2=D0=B0=D1=82=D1=87=D0=B8=D0=BA=D0=B8, =D0=B5=
+=D1=81=D0=BB=D0=B8 =D0=B8=D0=BC=D0=B5=D0=B5=D1=82 =D1=81=D0=BC=D1=8B=D1=81=
+=D0=BB =D0=BF=D1=80=D0=B5=D0=B4=D0=B2=D0=B0=D1=80=D0=B8=D1=82=D0=B5=D0=BB=
+=D1=8C=D0=BD=D0=BE =D0=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=B0=D1=82=D1=8B=D0=B2=
+=D0=B0=D1=82=D1=8C =D0=BC=D0=BD=D0=BE=D0=B3=D0=B8=D0=B5 =D1=82=D0=B8=D0=BF=
+=D1=8B =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=BE=D0=B2 =D0=BE=D0=B4=D0=BD=
+=D0=B8=D0=BC =D1=81=D0=BF=D0=BE=D1=81=D0=BE=D0=B1=D0=BE=D0=BC. =D0=9D=D0=B0=
+=D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D0=BD=D1=83=D0=B6=D0=BD=D0=BE =D0=B4=
+=D0=BB=D1=8F =D0=B2=D1=81=D0=B5=D1=85 =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=
+=D0=BE=D0=B2 =D1=83=D1=81=D1=82=D0=B0=D0=BD=D0=B0=D0=B2=D0=BB=D0=B8=D0=B2=
+=D0=B0=D1=82=D1=8C =D1=85=D0=B5=D0=B4=D0=B5=D1=80 =D0=B0=D0=B2=D1=82=D0=BE=
+=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8 `Bearer`:</span></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: js; gutter: false; theme: Confluence" data-theme=3D"Confluence">import { =
+Injectable } from "@angular/core";
+import {
+  HttpInterceptor,
+  HttpRequest,
+  HttpHandler,
+  HttpEvent,
+} from "@angular/common/http";
+import { Observable } from "rxjs/Observable";
+
+@Injectable()
+export class TokenInterceptor implements HttpInterceptor {
+  public intercept(
+    req: HttpRequest&lt;any&gt;,
+    next: HttpHandler
+  ): Observable&lt;HttpEvent&lt;any&gt;&gt; {
+    const token =3D localStorage.getItem("token") as string;
+
+    if (token) {
+      req =3D req.clone({
+        setHeaders: {
+          Authorization: `Bearer ${token}`,
+        },
+      });
+    }
+
+    return next.handle(req);
+  }
+}
+
+</pre>=20
+</div>
+</div>
+<p class=3D"auto-cursor-target"><span style=3D"color: rgb(36,41,46);">=D0=
+=98 =D1=80=D0=B5=D0=B3=D0=B8=D1=81=D1=82=D1=80=D0=B8=D1=80=D1=83=D0=B5=D0=
+=BC =D0=BF=D0=B5=D1=80=D0=B5=D1=85=D0=B2=D0=B0=D1=82=D1=87=D0=B8=D0=BA =D0=
+=BA=D0=B0=D0=BA =D1=81=D0=B8=D0=BD=D0=B3=D0=BB=D1=82=D0=BE=D0=BD =D0=B2 =D0=
+=BF=D1=80=D0=BE=D0=B2=D0=B0=D0=B9=D0=B4=D0=B5=D1=80=D0=B0=D1=85 =D0=BC=D0=
+=BE=D0=B4=D1=83=D0=BB=D1=8F:</span></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: js; gutter: false; theme: Confluence" data-theme=3D"Confluence">import { =
+NgModule } from "@angular/core";
+import { BrowserModule } from "@angular/platform-browser";
+import { HTTP_INTERCEPTORS } from "@angular/common/http";
+import { AppComponent } from "./app.component";
+import { TokenInterceptor } from "./token.interceptor";
+
+@NgModule({
+  imports: [BrowserModule],
+  declarations: [AppComponent],
+  bootstrap: [AppComponent],
+  providers: [
+    {
+      provide: HTTP_INTERCEPTORS,
+      useClass: TokenInterceptor,
+      multi: true, // &lt;--- =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=B1=D1=8B=
+=D1=82=D1=8C =D0=B7=D0=B0=D1=80=D0=B5=D0=B3=D0=B8=D1=81=D1=82=D1=80=D0=B8=
+=D1=80=D0=BE=D0=B2=D0=B0=D0=BD =D0=BC=D0=B0=D1=81=D1=81=D0=B8=D0=B2 =D0=BF=
+=D0=B5=D1=80=D0=B5=D1=85=D0=B2=D0=B0=D1=82=D1=87=D0=B8=D0=BA=D0=BE=D0=B2
+    },
+  ],
+})
+export class AppModule {}</pre>=20
+</div>
+</div>
+</div>
+</div>
+<div id=3D"expander-2018328173" class=3D"expand-container">
+<div id=3D"expander-control-2018328173" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=9A=D0=B0=D0=BA=D0=BE=D0=
+=B2 =D0=B6=D0=B8=D0=B7=D0=BD=D0=B5=D0=BD=D0=BD=D1=8B=D0=B9 =D1=86=D0=B8=D0=
+=BA=D0=BB =D1=83 Angular Router?</span>
+</div>
+<div id=3D"expander-content-2018328173" class=3D"expand-content">
+<ol>
+<li><strong>NavigationStart</strong><span>&nbsp;</span>- =D0=BD=D0=B0=D1=87=
+=D0=B0=D0=BB=D0=BE =D0=BD=D0=B0=D0=B2=D0=B8=D0=B3=D0=B0=D1=86=D0=B8=D0=B8. =
+=D0=92=D0=BE=D0=B7=D0=BD=D0=B8=D0=BA=D0=B0=D0=B5=D1=82 =D0=B2=D0=BE =D0=B2=
+=D1=80=D0=B5=D0=BC=D1=8F =D0=BD=D0=B0=D0=B6=D0=B0=D1=82=D0=B8=D1=8F =D0=BD=
+=D0=B0 =D0=B4=D0=B8=D1=80=D0=B5=D0=BA=D1=82=D0=B8=D0=B2=D1=83<span>&nbsp;</=
+span><strong>router link</strong>, =D0=B2=D1=8B=D0=B7=D0=BE=D0=B2=D0=B5 =D1=
+=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D0=B9<span>&nbsp;</span><strong>navigate<=
+/strong><span>&nbsp;</span>=D0=B8<span>&nbsp;</span><strong>navigateByUrl</=
+strong></li>
+<li><strong>RoutesRecognized</strong><span>&nbsp;</span>- c=D0=BE=D0=BF=D0=
+=BE=D1=81=D1=82=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D0=B5 URL-=D0=B0=D0=B4=
+=D1=80=D0=B5=D1=81=D0=BE=D0=B2 =D0=B8 =D1=80=D0=B5=D0=B4=D0=B8=D1=80=D0=B5=
+=D0=BA=D1=82=D1=8B. =D0=A0=D0=BE=D1=83=D1=82=D0=B5=D1=80 =D1=81=D0=BE=D0=BF=
+=D0=BE=D1=81=D1=82=D0=B0=D0=B2=D0=BB=D1=8F=D0=B5=D1=82 URL-=D0=B0=D0=B4=D1=
+=80=D0=B5=D1=81 =D0=BD=D0=B0=D0=B2=D0=B8=D0=B3=D0=B0=D1=86=D0=B8=D0=B8 =D0=
+=B8=D0=B7 =D0=BF=D0=B5=D1=80=D0=B2=D0=BE=D0=B3=D0=BE =D1=81=D0=BE=D0=B1=D1=
+=8B=D1=82=D0=B8=D1=8F =D1=81 =D0=BE=D0=B4=D0=BD=D0=B8=D0=BC =D0=B8=D0=B7 =
+=D1=81=D0=B2=D0=BE=D0=B9=D1=81=D1=82=D0=B2 path =D0=B2 =D0=BA=D0=BE=D0=BD=
+=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8, =D0=BF=D1=80=D0=B8=
+=D0=BC=D0=B5=D0=BD=D1=8F=D1=8F =D0=BB=D1=8E=D0=B1=D1=8B=D0=B5 =D1=80=D0=B5=
+=D0=B4=D0=B8=D1=80=D0=B5=D0=BA=D1=82=D1=8B =D0=BF=D0=BE-=D0=BF=D1=83=D1=82=
+=D0=B8.</li>
+<li><strong>GuardsCheckStart, GuardsCheckEnd</strong><span>&nbsp;</span>- =
+=D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D0=B8, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=
+=D1=8B=D0=B5 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D0=B5=D1=82 =
+=D1=80=D0=BE=D1=83=D1=82=D0=B5=D1=80 =D0=B4=D0=BB=D1=8F =D0=BE=D0=BF=D1=80=
+=D0=B5=D0=B4=D0=B5=D0=BB=D0=B5=D0=BD=D0=B8=D1=8F =D0=BC=D0=BE=D0=B6=D0=B5=
+=D1=82 =D0=BB=D0=B8 =D0=BE=D0=BD =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=
+=D1=82=D1=8C =D0=BD=D0=B0=D0=B2=D0=B8=D0=B3=D0=B0=D1=86=D0=B8=D1=8E. =D0=9F=
+=D1=80=D0=B8=D0=BC=D0=B5=D1=80:
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: js; gutter: false; theme: Confluence" data-theme=3D"Confluence">const con=
+fig =3D {
+  path: "users",
+  /* ... */
+  canActivate: [CanActivateGuard],
+};
+
+class Guard {
+  // router guard implementation
+  canActivate(
+    route: ActivatedRouteSnapshot,
+    state: RouterStateSnapshot
+  ): boolean {
+    return this.auth.isAuthorized(route.queryParams.login);
+  }
+}</pre>=20
+</div>
+</div><p>=D0=95=D1=81=D0=BB=D0=B8 =D0=B2=D1=8B=D0=B7=D0=BE=D0=B2<span>&nbsp=
+;</span><code>isAuthorized(route.queryParams.login)</code><span>&nbsp;</spa=
+n>=D0=B2=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82 true, guard =
+=D0=B7=D0=B0=D0=B2=D0=B5=D1=80=D1=88=D0=B8=D1=82=D1=81=D1=8F =D1=83=D1=81=
+=D0=BF=D0=B5=D1=85=D0=BE=D0=BC. =D0=92 =D0=BF=D1=80=D0=BE=D1=82=D0=B8=D0=B2=
+=D0=BD=D0=BE=D0=BC =D1=81=D0=BB=D1=83=D1=87=D0=B0=D0=B5 guard =D1=83=D0=BF=
+=D0=B0=D0=B4=D0=B5=D1=82, =D1=80=D0=BE=D1=83=D1=82=D0=B5=D1=80 =D1=81=D0=B3=
+=D0=B5=D0=BD=D0=B5=D1=80=D0=B8=D1=80=D1=83=D0=B5=D1=82 =D1=81=D0=BE=D0=B1=
+=D1=8B=D1=82=D0=B8=D0=B5<span>&nbsp;</span><code>NavigationCancel</code><sp=
+an>&nbsp;</span>=D0=B8 =D0=BE=D1=82=D0=BC=D0=B5=D0=BD=D0=B8=D1=82 =D0=B2=D1=
+=81=D1=8E =D0=B4=D0=B0=D0=BB=D1=8C=D0=BD=D0=B5=D0=B9=D1=88=D1=83=D1=8E =D0=
+=BD=D0=B0=D0=B2=D0=B8=D0=B3=D0=B0=D1=86=D0=B8=D1=8E.</p><p>=D0=94=D1=80=D1=
+=83=D0=B3=D0=B8=D0=B5 guard =D0=B2=D0=BA=D0=BB=D1=8E=D1=87=D0=B0=D1=8E=D1=
+=82<span>&nbsp;</span><code>canLoad</code><span>&nbsp;</span>(=D0=B4=D0=BE=
+=D0=BB=D0=B6=D0=B5=D0=BD =D0=BB=D0=B8 =D0=BC=D0=BE=D0=B4=D1=83=D0=BB=D1=8C =
+=D0=B1=D1=8B=D1=82=D1=8C =D0=BB=D0=B5=D0=BD=D0=B8=D0=B2=D0=BE =D0=B7=D0=B0=
+=D0=B3=D1=80=D1=83=D0=B6=D0=B5=D0=BD =D0=B8=D0=BB=D0=B8 =D0=BD=D0=B5=D1=82)=
+.<span>&nbsp;</span><code>canActivateChild</code><span>&nbsp;</span>=D0=B8<=
+span>&nbsp;</span><code>canDeactivate</code><span>&nbsp;</span>(=D0=BA=D0=
+=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B5 =D0=BF=D0=BE=D0=BB=D0=B5=D0=B7=D0=BD=D1=
+=8B =D0=B4=D0=BB=D1=8F =D0=BF=D1=80=D0=B5=D0=B4=D0=BE=D1=82=D0=B2=D1=80=D0=
+=B0=D1=89=D0=B5=D0=BD=D0=B8=D1=8F =D1=83=D1=85=D0=BE=D0=B4=D0=B0 =D0=BF=D0=
+=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8F =D1=81=D0=
+=BE =D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D1=8B, =D0=BD=D0=B0=D0=BF=D1=
+=80=D0=B8=D0=BC=D0=B5=D1=80, =D0=BF=D1=80=D0=B8 =D0=B7=D0=B0=D0=BF=D0=BE=D0=
+=BB=D0=BD=D0=B5=D0=BD=D0=B8=D0=B8 =D1=84=D0=BE=D1=80=D0=BC=D1=8B).</p></li>
+<li><strong>ResolveStart, ResolveEnd</strong><span>&nbsp;</span>- =D1=84=D1=
+=83=D0=BD=D0=BA=D1=86=D0=B8=D0=B8, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=
+=B5 =D0=BC=D1=8B =D0=BC=D0=BE=D0=B6=D0=B5=D0=BC =D0=B8=D1=81=D0=BF=D0=BE=D0=
+=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=B4=D0=BB=D1=8F =D0=BF=D0=
+=BE=D0=B4=D0=B3=D1=80=D1=83=D0=B7=D0=BA=D0=B8 =D0=B4=D0=B0=D0=BD=D0=BD=D1=
+=8B=D1=85 =D0=B2=D0=BE =D0=B2=D1=80=D0=B5=D0=BC=D1=8F =D0=BD=D0=B0=D0=B2=D0=
+=B8=D0=B3=D0=B0=D1=86=D0=B8=D0=B8. =D0=9D=D0=B0=D0=BF=D1=80=D0=B8=D0=BC=D0=
+=B5=D1=80:<pre><br></pre>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: js; gutter: false; theme: Confluence" data-theme=3D"Confluence">// router=
+ configuration
+const config =3D {
+  path: "users",
+  /* ... */
+  resolve: { users: UserResolver },
+};
+
+// router resolver implementation
+export class UserResolver implements Resolve&lt;Observable&lt;any&gt;&gt; {
+  constructor(private userService: MockUserDataService) {}
+  resolve(): Observable&lt;any&gt; {
+    return this.userService.getUsers();
+  }
+}</pre>=20
+</div>
+</div><p>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82, =D1=82=D0=
+=BE =D0=B5=D1=81=D1=82=D1=8C =D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D0=B5, =D0=B1=
+=D1=83=D0=B4=D0=B5=D1=82 =D0=BF=D0=BE=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD =D0=B2<=
+span>&nbsp;</span><code>data</code><span>&nbsp;</span>=D0=BE=D0=B1=D1=8A=D0=
+=B5=D0=BA=D1=82 =D1=81=D0=B5=D1=80=D0=B2=D0=B8=D1=81=D0=B0<span>&nbsp;</spa=
+n><code>ActivatedRoute</code><span>&nbsp;</span>=D1=81 =D0=BA=D0=BB=D1=8E=
+=D1=87=D0=BE=D0=BC<span>&nbsp;</span><code>users</code>. =D0=94=D0=B0=D0=BD=
+=D0=BD=D0=B0=D1=8F =D0=B8=D0=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=
+=D1=8F =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=B1=D1=8B=D1=82=D1=8C =D0=BF=D1=80=
+=D0=BE=D1=87=D0=B8=D1=82=D0=B0=D0=BD=D1=8B =D1=81 =D0=BF=D0=BE=D0=BC=D0=BE=
+=D1=89=D1=8C=D1=8E =D0=BF=D0=BE=D0=B4=D0=BF=D0=B8=D1=81=D0=BA=D0=B8 =D0=BD=
+=D0=B0<span>&nbsp;</span><code>data</code><span>&nbsp;</span><code>observab=
+le</code>.</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: js; gutter: false; theme: Confluence" data-theme=3D"Confluence">export cl=
+ass UsersComponent implements OnInit {
+  public users =3D [];
+  constructor(private route: ActivatedRoute) {}
+  ngOnInit() {
+    this.route.data
+      .pipe(first())
+      .subscribe((data) =3D&gt; (this.users =3D data.users));
+  }
+}</pre>=20
+</div>
+</div></li>
+<li><strong>ActivationStart, ActivationEnd, ChildActivationStart, ChildActi=
+vationEnd</strong><span>&nbsp;</span>- =D1=81=D0=BE=D0=B1=D1=8B=D1=82=D0=B8=
+=D1=8F, =D0=B2=D0=BE =D0=B2=D1=80=D0=B5=D0=BC=D1=8F =D0=BA=D0=BE=D1=82=D0=
+=BE=D1=80=D1=8B=D1=85 =D0=B0=D0=BA=D1=82=D0=B8=D0=B2=D0=B8=D1=80=D1=83=D1=
+=8E=D1=82=D1=81=D1=8F =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=D0=BD=D1=
+=82=D1=8B =D0=B8 =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B0=D1=8E=D1=
+=82=D1=81=D1=8F =D0=B8=D1=85 =D1=81 =D0=BF=D0=BE=D0=BC=D0=BE=D1=89=D1=8C=D1=
+=8E. =D0=A0=D0=BE=D1=83=D1=82=D0=B5=D1=80 =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =
+=D0=B8=D0=B7=D0=B2=D0=BB=D0=B5=D1=87=D1=8C =D0=BD=D0=B5=D0=BE=D0=B1=D1=85=
+=D0=BE=D0=B4=D0=B8=D0=BC=D1=83=D1=8E =D0=B8=D0=BD=D1=84=D0=BE=D1=80=D0=BC=
+=D0=B0=D1=86=D0=B8=D1=8E =D0=BE =D0=BA=D0=BE=D0=BC=D0=BF=D0=BE=D0=BD=D0=B5=
+=D0=BD=D1=82=D0=B5 =D0=B8=D0=B7 =D0=B4=D0=B5=D1=80=D0=B5=D0=B2=D0=B0 Activa=
+tedRouteSnapshots. =D0=9E=D0=BD =D0=B1=D1=8B=D0=BB =D0=BF=D0=BE=D1=81=D1=82=
+=D1=80=D0=BE=D0=B5=D0=BD =D0=B2 =D0=BF=D1=80=D0=B5=D0=B4=D1=8B=D0=B4=D1=83=
+=D1=89=D0=B8=D0=B5 =D1=88=D0=B0=D0=B3=D0=B8 =D0=BD=D0=B0=D0=B2=D0=B8=D0=B3=
+=D0=B0=D1=86=D0=B8=D0=BE=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D1=86=D0=B8=D0=BA=
+=D0=BB=D0=B0.</li>
+<li><strong>Updating the URL</strong><span>&nbsp;</span>- =D0=BF=D0=BE=D1=
+=81=D0=BB=D0=B5=D0=B4=D0=BD=D0=B8=D0=B9 =D1=88=D0=B0=D0=B3 =D0=B2 =D0=BD=D0=
+=B0=D0=B2=D0=B8=D0=B3=D0=B0=D1=86=D0=B8=D0=BE=D0=BD=D0=BD=D0=BE=D0=BC =D1=
+=86=D0=B8=D0=BA=D0=BB=D0=B5 =E2=80=94 =D1=8D=D1=82=D0=BE =D0=BE=D0=B1=D0=BD=
+=D0=BE=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D0=B5 URL-=D0=B0=D0=B4=D1=80=D0=B5=D1=
+=81=D0=B0 =D0=B2 address bar</li>
+</ol>
+</div>
+</div>
+<div id=3D"expander-1943831228" class=3D"expand-container">
+<div id=3D"expander-control-1943831228" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 =D1=80=D0=BE=D1=83=D1=82=D0=B8=D0=BD=D0=B3 =D0=B8 =D0=
+=BA=D0=B0=D0=BA =D0=B5=D0=B3=D0=BE =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D1=82=D1=
+=8C =D0=B2 Angular?</span>
+</div>
+<div id=3D"expander-content-1943831228" class=3D"expand-content">
+<p><span style=3D"color: rgb(36,41,46);">=D0=A0=D0=BE=D1=83=D1=82=D0=B8=D0=
+=BD=D0=B3 =D0=BF=D0=BE=D0=B7=D0=B2=D0=BE=D0=BB=D1=8F=D0=B5=D1=82 =D1=80=D0=
+=B5=D0=B0=D0=BB=D0=B8=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=BD=D0=B0=D0=
+=B2=D0=B8=D0=B3=D0=B0=D1=86=D0=B8=D1=8E =D0=BE=D1=82 =D0=BE=D0=B4=D0=BD=D0=
+=BE=D0=B3=D0=BE view =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=
+=D1=8F =D0=BA =D0=B4=D1=80=D1=83=D0=B3=D0=BE=D0=BC=D1=83 =D0=BF=D1=80=D0=B8=
+ =D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=B5 =D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=
+=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8F =D1=81 =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=
+=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5=D0=BC.</span><br><span style=3D"color: rgb(3=
+6,41,46);">=D0=AD=D1=82=D0=BE =D1=80=D0=B5=D0=B0=D0=BB=D0=B8=D0=B7=D0=BE=D0=
+=B2=D0=B0=D0=BD=D0=BE =D1=87=D0=B5=D1=80=D0=B5=D0=B7 =D0=B2=D0=B7=D0=B0=D0=
+=B8=D0=BC=D0=BE=D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D0=B5 =D1=81 =D0=
+=B0=D0=B4=D1=80=D0=B5=D1=81=D0=BD=D0=BE=D0=B9 =D1=81=D1=82=D1=80=D0=BE=D0=
+=BA=D0=BE=D0=B9, Angular Router =D0=B8=D0=BD=D1=82=D0=B5=D1=80=D0=BF=D1=80=
+=D0=B5=D1=82=D0=B8=D1=80=D1=83=D0=B5=D1=82 =D0=B5=D0=B5 =D0=BA=D0=B0=D0=BA =
+=D0=B8=D0=BD=D1=81=D1=82=D1=80=D1=83=D0=BA=D1=86=D0=B8=D1=8E =D0=BF=D0=BE =
+=D0=BF=D0=B5=D1=80=D0=B5=D1=85=D0=BE=D0=B4=D1=83 =D0=BC=D0=B5=D0=B6=D0=B4=
+=D1=83 view. =D0=92=D0=BE=D0=B7=D0=BC=D0=BE=D0=B6=D0=BD=D0=B0 =D0=BF=D0=B5=
+=D1=80=D0=B5=D0=B4=D0=B0=D1=87=D0=B0 =D0=BF=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=
+=D1=82=D1=80=D0=BE=D0=B2 =D0=B2=D1=81=D0=BF=D0=BE=D0=BC=D0=BE=D0=B3=D0=B0=
+=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE=D0=BC=D1=83 =D0=BA=D0=BE=D0=BC=D0=BF=
+=D0=BE=D0=BD=D0=B5=D0=BD=D1=82=D1=83 =D0=B4=D0=BB=D1=8F =D0=BA=D0=BE=D0=BD=
+=D0=BA=D1=80=D0=B5=D1=82=D0=B8=D0=B7=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=
+=B8=D1=8F =D0=BF=D1=80=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D0=B0=D0=B2=D0=BB=D1=
+=8F=D0=B5=D0=BC=D0=BE=D0=B3=D0=BE =D0=BA=D0=BE=D0=BD=D1=82=D0=B5=D0=BD=D1=
+=82=D0=B0.</span></p>
+</div>
+</div>
+<div id=3D"expander-841440084" class=3D"expand-container">
+<div id=3D"expander-control-841440084" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 =D0=BB=D0=B5=D0=BD=D0=B8=D0=B2=D0=B0=D1=8F =D0=B7=D0=
+=B0=D0=B3=D1=80=D1=83=D0=B7=D0=BA=D0=B0 (Lazy-loading) =D0=B8 =D0=B4=D0=BB=
+=D1=8F =D1=87=D0=B5=D0=B3=D0=BE =D0=BE=D0=BD=D0=B0 =D0=B8=D1=81=D0=BF=D0=BE=
+=D0=BB=D1=8C=D0=B7=D1=83=D0=B5=D1=82=D1=81=D1=8F?</span>
+</div>
+<div id=3D"expander-content-841440084" class=3D"expand-content">
+<p><br></p>
+</div>
+</div>
+<div id=3D"expander-672858926" class=3D"expand-container">
+<div id=3D"expander-control-672858926" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=92 =D1=87=D0=B5=D0=BC =D1=
+=80=D0=B0=D0=B7=D0=BD=D0=B8=D1=86=D0=B0 =D0=BC=D0=B5=D0=B6=D0=B4=D1=83 Rout=
+ing =D0=B8 Navigation?</span>
+</div>
+<div id=3D"expander-content-672858926" class=3D"expand-content">
+<p><br></p>
+</div>
+</div>
+<div id=3D"expander-2126292943" class=3D"expand-container">
+<div id=3D"expander-control-2126292943" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 FormGroup =D0=B8 FormControl =D0=B8 =D0=B4=D0=BB=D1=
+=8F =D1=87=D0=B5=D0=B3=D0=BE =D0=BE=D0=BD=D0=B8 =D0=B8=D1=81=D0=BF=D0=BE=D0=
+=BB=D1=8C=D0=B7=D1=83=D1=8E=D1=82=D1=81=D1=8F?</span>
+</div>
+<div id=3D"expander-content-2126292943" class=3D"expand-content">
+<ul>
+<li>FormControl - =D0=BE=D1=82=D1=81=D0=BB=D0=B5=D0=B6=D0=B8=D0=B2=D0=B0=D0=
+=B5=D1=82 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B8 =D1=81=D1=
+=82=D0=B0=D1=82=D1=83=D1=81 =D0=B2=D0=B0=D0=BB=D0=B8=D0=B4=D0=B0=D1=86=D0=
+=B8=D0=B8 =D0=BE=D1=82=D0=B4=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE=D0=B3=D0=BE =D1=
+=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82=D0=B0 =D1=84=D0=BE=D1=80=D0=BC=D1=
+=8B.</li>
+<li>FormGroup - =D0=BE=D1=82=D1=81=D0=BB=D0=B5=D0=B6=D0=B8=D0=B2=D0=B0=D0=
+=B5=D1=82 =D1=81=D0=BE=D1=81=D1=82=D0=BE=D1=8F=D0=BD=D0=B8=D0=B5 =D0=B8 =D1=
+=81=D1=82=D0=B0=D1=82=D1=83=D1=81 =D0=B2=D0=B0=D0=BB=D0=B8=D0=B4=D0=B0=D1=
+=86=D0=B8=D0=B8 =D0=B3=D1=80=D1=83=D0=BF=D0=BF=D1=8B FormControl</li>
+</ul>
+<p><br><span style=3D"color: rgb(36,41,46);">=D0=9E=D0=BD=D0=B8 =D0=B8=D1=
+=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D1=8E=D1=82=D1=81=D1=8F =D0=B4=D0=
+=BB=D1=8F =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F =D0=B8 =D1=80=D0=
+=B0=D0=B1=D0=BE=D1=82=D1=8B =D1=81 =D1=84=D0=BE=D1=80=D0=BC=D0=B0=D0=BC=D0=
+=B8.</span></p>
+</div>
+</div>
+<div id=3D"expander-189354464" class=3D"expand-container">
+<div id=3D"expander-control-189354464" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 =D1=80=D0=B5=D0=B0=D0=BA=D1=82=D0=B8=D0=B2=D0=BD=D1=
+=8B=D0=B5 =D1=84=D0=BE=D1=80=D0=BC=D1=8B =D0=B2 Angular?</span>
+</div>
+<div id=3D"expander-content-189354464" class=3D"expand-content">
+<p><span style=3D"color: rgb(36,41,46);">=D0=A0=D0=B5=D0=B0=D0=BA=D1=82=D0=
+=B8=D0=B2=D0=BD=D1=8B=D0=B5 =D1=84=D0=BE=D1=80=D0=BC=D1=8B =D0=BE=D0=B1=D0=
+=B5=D1=81=D0=BF=D0=B5=D1=87=D0=B8=D0=B2=D0=B0=D1=8E=D1=82 =D1=83=D0=BF=D1=
+=80=D0=B0=D0=B2=D0=BB=D1=8F=D0=B5=D0=BC=D1=8B=D0=B9 =D0=BC=D0=BE=D0=B4=D0=
+=B5=D0=BB=D1=8F=D0=BC=D0=B8 =D0=BF=D0=BE=D0=B4=D1=85=D0=BE=D0=B4 =D0=BA =D0=
+=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B5 =D0=B2=D1=85=D0=BE=D0=
+=B4=D0=BD=D1=8B=D1=85 =D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D1=85 =D1=84=D0=BE=D1=
+=80=D0=BC, =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D1=8F =D0=BA=D0=BE=D1=
+=82=D0=BE=D1=80=D1=8B=D1=85 =D0=BC=D0=BE=D0=B3=D1=83=D1=82 =D0=BC=D0=B5=D0=
+=BD=D1=8F=D1=82=D1=8C=D1=81=D1=8F =D1=81=D0=BE =D0=B2=D1=80=D0=B5=D0=BC=D0=
+=B5=D0=BD=D0=B5=D0=BC. =D0=9E=D0=BD=D0=B8 =D1=81=D1=82=D1=80=D0=BE=D1=8F=D1=
+=82=D1=81=D1=8F =D0=B2=D0=BE=D0=BA=D1=80=D1=83=D0=B3 =D0=BD=D0=B0=D0=B1=D0=
+=BB=D1=8E=D0=B4=D0=B0=D0=B5=D0=BC=D1=8B=D1=85 =D0=BF=D0=BE=D1=82=D0=BE=D0=
+=BA=D0=BE=D0=B2, =D0=B3=D0=B4=D0=B5 =D0=B2=D1=85=D0=BE=D0=B4=D0=BD=D1=8B=D0=
+=B5 =D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D0=B5 =D0=B8 =D0=B7=D0=BD=D0=B0=D1=87=D0=
+=B5=D0=BD=D0=B8=D1=8F =D1=84=D0=BE=D1=80=D0=BC =D0=BF=D1=80=D0=B5=D0=B4=D0=
+=BE=D1=81=D1=82=D0=B0=D0=B2=D0=BB=D1=8F=D1=8E=D1=82=D1=81=D1=8F =D0=B2 =D0=
+=B2=D0=B8=D0=B4=D0=B5 =D0=BF=D0=BE=D1=82=D0=BE=D0=BA=D0=BE=D0=B2 =D0=B2=D1=
+=85=D0=BE=D0=B4=D0=BD=D1=8B=D1=85 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=
+=B8=D0=B9, =D0=BA =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=BC =D0=BC=D0=BE=
+=D0=B6=D0=BD=D0=BE =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D1=81=
+=D0=B8=D0=BD=D1=85=D1=80=D0=BE=D0=BD=D0=BD=D1=8B=D0=B9 =D0=B4=D0=BE=D1=81=
+=D1=82=D1=83=D0=BF.</span></p>
+</div>
+</div>
+<div id=3D"expander-937834918" class=3D"expand-container">
+<div id=3D"expander-control-937834918" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=9A=D0=B0=D0=BA =D0=BF=D1=
+=80=D0=B8=D0=BC=D0=B5=D0=BD=D1=8F=D1=82=D1=8C =D0=B2=D0=B0=D0=BB=D0=B8=D0=
+=B4=D0=B0=D1=86=D0=B8=D1=8E =D0=B4=D0=BB=D1=8F =D0=BF=D1=80=D0=BE=D1=81=D1=
+=82=D1=8B=D1=85 =D0=B8 =D1=81=D0=BB=D0=BE=D0=B6=D0=BD=D1=8B=D1=85 =D1=84=D0=
+=BE=D1=80=D0=BC?</span>
+</div>
+<div id=3D"expander-content-937834918" class=3D"expand-content">
+<p><span style=3D"color: rgb(36,41,46);">=D0=92 =D1=80=D0=B5=D0=B0=D0=BA=D1=
+=82=D0=B8=D0=B2=D0=BD=D1=8B=D1=85 =D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=85 =D0=
+=B2=D0=B0=D0=BB=D0=B8=D0=B4=D0=B0=D1=86=D0=B8=D1=8F =D1=80=D0=B5=D0=B0=D0=
+=BB=D0=B8=D0=B7=D1=83=D0=B5=D1=82=D1=81=D1=8F =D0=B2 =D0=BA=D0=BE=D0=BC=D0=
+=BF=D0=BE=D0=BD=D0=B5=D0=BD=D1=82=D0=B5. =D0=95=D1=81=D1=82=D1=8C =D0=B4=D0=
+=B2=D0=B0 =D1=82=D0=B8=D0=BF=D0=B0 =D0=B2=D0=B0=D0=BB=D0=B8=D0=B4=D0=B0=D1=
+=82=D0=BE=D1=80=D0=BE=D0=B2: =D1=81=D0=B8=D0=BD=D1=85=D1=80=D0=BE=D0=BD=D0=
+=BD=D1=8B=D0=B5 =D0=B8 =D0=B0=D1=81=D0=B8=D0=BD=D1=85=D1=80=D0=BE=D0=BD=D0=
+=BD=D1=8B=D0=B5.</span><br><span style=3D"color: rgb(36,41,46);">=D0=9C=D0=
+=BE=D0=B6=D0=BD=D0=BE =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=
+=B2=D0=B0=D1=82=D1=8C =D0=B2=D1=81=D1=82=D1=80=D0=BE=D0=B5=D0=BD=D0=BD=D1=
+=8B=D0=B5 =D0=B2=D0=B0=D0=BB=D0=B8=D0=B4=D0=B0=D1=82=D0=BE=D1=80=D1=8B, =D0=
+=BB=D0=B8=D0=B1=D0=BE =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D1=82=D1=8C =D1=81=D0=
+=B2=D0=BE=D0=B8. =D0=92=D0=B0=D0=BB=D0=B8=D0=B4=D0=B0=D1=82=D0=BE=D1=80=D1=
+=8B =D0=B4=D0=BE=D0=B1=D0=B0=D0=B2=D0=BB=D1=8F=D1=8E=D1=82=D1=81=D1=8F</spa=
+n></p>
+</div>
+</div>
+<div id=3D"expander-2062030089" class=3D"expand-container">
+<div id=3D"expander-control-2062030089" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=A7=D1=82=D0=BE =D1=82=D0=
+=B0=D0=BA=D0=BE=D0=B5 JIT =D0=B8 AOT, =D0=B2 =D1=87=D0=B5=D0=BC =D0=B8=D1=
+=85 =D0=BE=D1=82=D0=BB=D0=B8=D1=87=D0=B8=D1=8F =D0=B8 =D0=BA=D0=B0=D0=BA=D0=
+=BE=D0=B2=D1=8B =D1=81=D1=84=D0=B5=D1=80=D1=8B =D0=BF=D1=80=D0=B8=D0=BC=D0=
+=B5=D0=BD=D0=B5=D0=BD=D0=B8=D1=8F?</span>
+</div>
+<div id=3D"expander-content-2062030089" class=3D"expand-content">
+<p>Angular =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5 =D0=
+=BC=D0=BE=D0=B6=D0=BD=D0=BE =D1=81=D0=BA=D0=BE=D0=BC=D0=BF=D0=B8=D0=BB=D0=
+=B8=D1=80=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D1=81 =D0=BF=D0=BE=D0=BC=D0=BE=D1=
+=89=D1=8C=D1=8E =D0=BA=D0=BE=D0=BC=D0=B0=D0=BD=D0=B4<span>&nbsp;</span><str=
+ong>ng serve</strong><span>&nbsp;</span>=D0=B8<span>&nbsp;</span><strong>ng=
+ build</strong>. =D0=9F=D1=80=D0=B8 =D1=8D=D1=82=D0=BE=D0=BC, =D0=BC=D0=BE=
+=D0=B6=D0=BD=D0=BE =D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=B0=D1=82=D1=8C =D1=81 =
+=D1=80=D0=B0=D0=B7=D0=BD=D1=8B=D0=BC=D0=B8 =D0=B2=D0=B8=D0=B4=D0=B0=D0=BC=
+=D0=B8 =D0=BA=D0=BE=D0=BC=D0=BF=D0=B8=D0=BB=D1=8F=D1=86=D0=B8=D0=B8:</p>
+<ul>
+<li><strong>JIT</strong><span>&nbsp;</span>- (Just-In-Time compilation) - =
+=D0=BA=D0=BE=D0=BC=D0=BF=D0=B8=D0=BB=D1=8F=D1=86=D0=B8=D1=8F "=D0=BD=D0=B0 =
+=D0=BB=D0=B5=D1=82=D1=83", =D0=B4=D0=B8=D0=BD=D0=B0=D0=BC=D0=B8=D1=87=D0=B5=
+=D1=81=D0=BA=D0=B0=D1=8F =D0=BA=D0=BE=D0=BC=D0=BF=D0=B8=D0=BB=D1=8F=D1=86=
+=D0=B8=D1=8F. =D0=92 Angular =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=
+=83=D0=B5=D1=82=D1=81=D1=8F =D0=BF=D0=BE =D1=83=D0=BC=D0=BE=D0=BB=D1=87=D0=
+=B0=D0=BD=D0=B8=D1=8E.</li>
+<li><strong>AOT</strong><span>&nbsp;</span>- (Ahead-Of-Time compilation) - =
+=D0=BA=D0=BE=D0=BC=D0=BF=D0=B8=D0=BB=D1=8F=D1=86=D0=B8=D0=B8 =D0=BF=D0=B5=
+=D1=80=D0=B5=D0=B4 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D0=BD=D0=B5=D0=BD=D0=B8=
+=D0=B5=D0=BC.</li>
+</ul>
+<p>=D0=9E=D1=81=D0=BD=D0=BE=D0=B2=D0=BD=D1=8B=D0=B5 =D1=80=D0=B0=D0=B7=D0=
+=BB=D0=B8=D1=87=D0=B8=D1=8F:</p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<td class=3D"confluenceTd">=D0=9F=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=80=
+=D1=8B</td>
+<td class=3D"confluenceTd">JIT</td>
+<td class=3D"confluenceTd">AOT</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"confluenceTd">=D0=9A=D0=BE=D0=B3=D0=B4=D0=B0 =D0=BA=D0=BE=D0=
+=BC=D0=BF=D0=B8=D0=BB=D0=B8=D1=80=D1=83=D0=B5=D1=82=D1=81=D1=8F</td>
+<td class=3D"confluenceTd">=D0=B2 =D0=BC=D0=BE=D0=BC=D0=B5=D0=BD=D1=82 =D0=
+=B7=D0=B0=D0=BF=D1=83=D1=81=D0=BA=D0=B0 =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=
+=B6=D0=B5=D0=BD=D0=B8=D1=8F =D0=B2 =D0=B1=D1=80=D0=B0=D1=83=D0=B7=D0=B5=D1=
+=80=D0=B5</td>
+<td class=3D"confluenceTd">=D0=B2 =D0=BC=D0=BE=D0=BC=D0=B5=D0=BD=D1=82 =D1=
+=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B8 =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=
+=B5=D0=BD=D0=B8=D1=8F</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=D0=A0=D0=B5=D0=BA=D0=BE=D0=BC=D0=B5=D0=BD=D0=B4=
+=D1=83=D0=B5=D1=82=D1=81=D1=8F =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=
+=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=B4=D0=BB=D1=8F</td>
+<td class=3D"confluenceTd">=D0=BB=D0=BE=D0=BA=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE=
+=D0=B9 =D1=80=D0=B0=D0=B7=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B8</td>
+<td class=3D"confluenceTd">=D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=
+ =D0=BF=D1=80=D0=BE=D0=B4=D1=83=D0=BA=D1=82=D0=BE=D0=B2=D0=BE=D0=B9 =D1=81=
+=D0=B1=D0=BE=D1=80=D0=BA=D0=B8</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=D0=9A=D0=B0=D0=BA =D0=B2=D0=BA=D0=BB=D1=8E=D1=
+=87=D0=B8=D1=82=D1=8C</td>
+<td class=3D"confluenceTd">=D0=9D=D0=B5 =D0=BD=D1=83=D0=B6=D0=BD=D0=BE =D0=
+=B2=D1=8B=D1=81=D1=82=D0=B0=D0=B2=D0=BB=D1=8F=D1=82=D1=8C =D0=B4=D0=BE=D0=
+=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D1=85 =D1=
+=84=D0=BB=D0=B0=D0=B3=D0=BE=D0=B2</td>
+<td class=3D"confluenceTd">=D0=9D=D1=83=D0=B6=D0=BD=D0=BE =D0=B4=D0=BE=D0=
+=B1=D0=B0=D0=B2=D0=B8=D1=82=D1=8C =D1=84=D0=BB=D0=B0=D0=B3 --aot =D0=B8=D0=
+=BB=D0=B8 --prod</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=D0=A1=D0=BA=D0=BE=D1=80=D0=BE=D1=81=D1=82=D1=8C=
+</td>
+<td class=3D"confluenceTd">=D0=A1=D0=BA=D0=BE=D1=80=D0=BE=D1=81=D1=82=D1=8C=
+ =D0=BA=D0=BE=D0=BC=D0=BF=D0=B8=D0=BB=D1=8F=D1=86=D0=B8=D0=B8 =D0=B1=D1=8B=
+=D1=81=D1=82=D1=80=D0=B5=D0=B5, =D0=B7=D0=B0=D0=B3=D1=80=D1=83=D0=B7=D0=BA=
+=D0=B0 =D0=B2 =D0=B1=D1=80=D0=B0=D1=83=D0=B7=D0=B5=D1=80=D0=B5 =D0=B4=D0=BE=
+=D0=BB=D1=8C=D1=88=D0=B5</td>
+<td class=3D"confluenceTd">=D0=A1=D0=BA=D0=BE=D1=80=D0=BE=D1=81=D1=82=D1=8C=
+ =D0=BA=D0=BE=D0=BC=D0=BF=D0=B8=D0=BB=D1=8F=D1=86=D0=B8=D0=B8 =D0=B4=D0=BE=
+=D0=BB=D1=8C=D1=88=D0=B5, =D0=B7=D0=B0=D0=B3=D1=80=D1=83=D0=B7=D0=BA=D0=B0 =
+=D0=B2 =D0=B1=D1=80=D0=B0=D1=83=D0=B7=D0=B5=D1=80=D0=B5 =D0=B1=D1=8B=D1=81=
+=D1=82=D1=80=D0=B5=D0=B5</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=D0=A0=D0=B0=D0=B7=D0=BC=D0=B5=D1=80 =D0=B1=D0=
+=B0=D0=BD=D0=B4=D0=BB=D0=B0</td>
+<td class=3D"confluenceTd">=D0=91=D0=B0=D0=BD=D0=B4=D0=BB =D0=B8=D0=BC=D0=
+=B5=D0=B5=D1=82 =D0=B1=D0=BE=D0=BB=D1=8C=D1=88=D0=BE=D0=B9 =D1=80=D0=B0=D0=
+=B7=D0=BC=D0=B5=D1=80 =D0=B8=D0=B7-=D0=B7=D0=B0 =D0=B2=D0=BA=D0=BB=D1=8E=D1=
+=87=D0=B5=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D0=B2 =D0=B1=D0=B0=D0=BD=D0=B4=D0=
+=BB =D0=BA=D0=BE=D0=BC=D0=BF=D0=B8=D0=BB=D1=8F=D1=82=D0=BE=D1=80=D0=B0.</td=
+>
+<td class=3D"confluenceTd">=D0=91=D0=B0=D0=BD=D0=B4=D0=BB =D0=B8=D0=BC=D0=
+=B5=D0=B5=D1=82 =D0=BD=D0=B5=D0=B1=D0=BE=D0=BB=D1=8C=D1=88=D0=BE=D0=B9 =D1=
+=80=D0=B0=D0=B7=D0=BC=D0=B5=D1=80, =D1=82=D0=BA =D1=81=D0=BE=D0=B4=D0=B5=D1=
+=80=D0=B6=D0=B8=D1=82 =D0=BF=D0=BE=D0=BB=D0=BD=D0=BE=D1=81=D1=82=D1=8C=D1=
+=8E =D1=81=D0=BA=D0=BE=D0=BC=D0=BF=D0=B8=D0=BB=D0=B8=D1=80=D0=BE=D0=B2=D0=
+=B0=D0=BD=D0=BD=D1=8B=D0=B9 =D0=B8 =D0=BE=D0=BF=D1=82=D0=B8=D0=BC=D0=B8=D0=
+=B7=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9 =D0=BA=D0=BE=D0=
+=B4.</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=D0=92=D1=8B=D1=8F=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=
+=D0=B5 =D0=BE=D1=88=D0=B8=D0=B1=D0=BE=D0=BA</td>
+<td class=3D"confluenceTd">=D0=9E=D1=88=D0=B8=D0=B1=D0=BA=D0=B8 =D0=BE=D1=
+=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B7=D1=8F=D1=82=D1=81=D1=8F =D0=B2=D0=BE =D0=
+=B2=D1=80=D0=B5=D0=BC=D1=8F =D0=B7=D0=B0=D0=BF=D1=83=D1=81=D0=BA=D0=B0 =D0=
+=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F =D0=B2 =D0=B1=D1=
+=80=D0=B0=D1=83=D0=B7=D0=B5=D1=80=D0=B5</td>
+<td class=3D"confluenceTd">=D0=92=D1=8B=D1=8F=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=
+=D0=B5 =D0=BE=D1=88=D0=B8=D0=B1=D0=BE=D0=BA =D0=B2=D0=BE =D0=B2=D1=80=D0=B5=
+=D0=BC=D1=8F =D0=BA=D0=BE=D0=BC=D0=BF=D0=B8=D0=BB=D1=8F=D1=86=D0=B8=D0=B8</=
+td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=D0=A0=D0=B0=D0=B1=D0=BE=D1=82=D0=B0 =D1=81 =D1=
+=84=D0=B0=D0=B9=D0=BB=D0=B0=D0=BC=D0=B8</td>
+<td class=3D"confluenceTd">=D0=9C=D0=BE=D0=B6=D0=B5=D1=82 =D0=BA=D0=BE=D0=
+=BC=D0=BF=D0=B8=D0=BB=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D1=82=D0=
+=BE=D0=BB=D1=8C=D0=BA=D0=BE =D0=B8=D0=B7=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=
+=BD=D1=8B=D0=B5 =D1=84=D0=B0=D0=B9=D0=BB=D1=8B =D0=BE=D1=82=D0=B4=D0=B5=D0=
+=BB=D1=8C=D0=BD=D0=BE</td>
+<td class=3D"confluenceTd">=D0=9A=D0=BE=D0=BC=D0=BF=D0=B8=D0=BB=D0=B8=D1=80=
+=D1=83=D0=B5=D1=82 =D1=81=D1=80=D0=B0=D0=B7=D1=83 =D0=B2=D1=81=D0=B5 =D1=84=
+=D0=B0=D0=B9=D0=BB=D1=8B =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=
+=D0=B8=D1=8F</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div id=3D"expander-2055337009" class=3D"expand-container">
+<div id=3D"expander-control-2055337009" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">=D0=97=D0=B0=D1=87=D0=B5=D0=
+=BC =D0=BD=D1=83=D0=B6=D0=B5=D0=BD ESLint (TSLint) =D0=B8 Prettier?</span>
+</div>
+<div id=3D"expander-content-2055337009" class=3D"expand-content">
+<p><br></p>
+</div>
+</div>
+</div>=20
+</div>=20
+<div class=3D"cell aside" data-type=3D"aside">=20
+<div class=3D"innerCell">=20
+<p><br></p>
+<p><br></p>
+<p><br></p>
+</div>=20
+</div>=20
+</div>=20
+</div>
+    </div>
+</body>
+</html>
+------=_Part_468_1683031592.1669696302583--
